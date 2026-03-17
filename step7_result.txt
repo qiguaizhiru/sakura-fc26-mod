@@ -1,0 +1,35 @@
+=== 第7步：导出并打包 IFF ===
+
+顶点(原始): 7004
+面(三角化): 8420
+有UV: True
+
+展开后顶点数: 25260
+三角面数:     8420
+索引数:       25260
+
+Stream0 大小: 303120 字节 (应=303120)
+Stream1 大小: 404160 字节 (应=404160)
+索引缓冲区:   50520 字节 (应=50520)
+
+原始 IFF 内文件: ['hair_parted.SCNE', 'hair_parted_tweaks.FxTweakables', 'IndexBuffer.95a9f1dd2d728e52.bin', 'MatrixWeightsBuffer.afa3439a23cdf0d3.bin', 'VertexBuffer.a770be4b7a265f2c.bin', 'VertexBuffer.b0f7128ab2b01763.bin']
+✔ 更新 SCNE: hair_parted.SCNE
+
+骨骼权重缓冲区: 202080 字节
+
+原始 VertexBuffer 文件:
+  VertexBuffer.b0f7128ab2b01763.bin: 332424 字节
+  VertexBuffer.a770be4b7a265f2c.bin: 443232 字节
+✔ 替换 Stream0: VertexBuffer.b0f7128ab2b01763.bin (303120 字节)
+✔ 替换 Stream1: VertexBuffer.a770be4b7a265f2c.bin (404160 字节)
+✔ 替换 IndexBuffer: IndexBuffer.95a9f1dd2d728e52.bin (50520 字节)
+✔ 替换 MatrixWeightsBuffer: MatrixWeightsBuffer.afa3439a23cdf0d3.bin (202080 字节)
+
+✔ 输出 IFF: F:\大卫李\sakura_output\png6794_geo_hair_parted.iff
+  原始文件数: 6
+  新顶点数:   25260
+  新面数:     8420
+
+✔ step7 执行成功
+
+最后一步：把输出的 IFF 复制到游戏目录

@@ -1,0 +1,40 @@
+=== 第13步：正确二进制替换 ===
+
+源网格: 大黑塔Ver1.0_mesh  顶点:212864
+
+原始数据:
+  Stream0: VertexBuffer.d5376762989c8976.bin (293808 B, 24484 verts)
+  Stream1: VertexBuffer.aa6c9685105d8f4a.bin (391744 B)
+  Index:   IndexBuffer.c829179a1bc03cf2.bin (470472 B, 235236 indices)
+  Weights: MatrixWeightsBuffer.313dc1adc1fb35a9.bin (157960 B)
+
+脸材质: 1 个  身体材质: 12 个
+提取后: 顶点83350  面125769
+减面: 125769 → 目标8161  比率0.065
+减面后: 顶点11720  面8161
+缩放比: 9.2696
+
+展开: 顶点24483  面8161
+填充到 24484 顶点 (补了 1 个)
+  torso_shader: 放置 17022 个索引 @ 106818
+  arms_shader: 放置 7461 个索引 @ 123840
+  legs_shader: 无剩余索引
+  face_shader: 无剩余索引
+
+输出缓冲区:
+  Stream0: 293808 B ✔
+  Stream1: 391744 B ✔
+  Index:   470472 B ✔ (放置24483索引到子网格位置)
+  Weights: 157960 B (保持原始)
+✔ SCNE 包围盒已更新（结构未改动）
+✔ 替换 Stream0: VertexBuffer.d5376762989c8976.bin
+✔ 替换 Stream1: VertexBuffer.aa6c9685105d8f4a.bin
+✔ 替换 IndexBuffer: IndexBuffer.c829179a1bc03cf2.bin
+  Stream3, Stream4, MatrixWeights: 保持原始
+
+✔ 输出: F:\大卫李\sakura_output\png6794.iff
+  顶点: 24484 (= 原始 24484)
+  有效面: 8161
+  索引: 235236 (填充退化三角形)
+
+✔ step13 完成！

@@ -1,0 +1,59 @@
+文件: chr5302.mdl.gltf
+
+网格对象数: 4
+骨架数: 1
+
+--- Mesh_body_NJ ---
+  顶点: 60158, 面: 27532, 顶点组: 200
+  材质: Mat_Metal.001, Mat_Cloth.001, Mat_Leather.001, eyes_add.002, eyes.002, face.002, face_rip.001, body_skin.001
+  包围盒: X[-0.51, 0.51] Y[-0.19, 0.18] Z[0.00, 1.60]
+
+--- Mesh_hair_NJ ---
+  顶点: 9061, 面: 4291, 顶点组: 45
+  材质: Mat_Hair.001
+  包围盒: X[-0.32, 0.32] Y[-0.13, 0.28] Z[0.85, 1.62]
+
+--- Mesh_shadow_NJ ---
+  顶点: 5438, 面: 2462, 顶点组: 186
+  材质: chr_shadow.001
+  包围盒: X[-0.50, 0.50] Y[-0.20, 0.28] Z[-0.00, 1.62]
+
+--- 棱角球 ---
+  顶点: 42, 面: 80, 顶点组: 0
+  材质: 
+  包围盒: X[-0.95, 0.95] Y[-1.00, 1.00] Z[-1.00, 1.00]
+
+总计: 74699 顶点, 34365 面
+
+骨骼数: 246
+  [0] Hips
+  [1] LeftUpLeg
+  [2] LeftLeg
+  [3] LeftFoot
+  [4] LeftToe
+  [5] LeftUpLegRoll
+  [6] RightUpLeg
+  [7] RightLeg
+  [8] RightFoot
+  [9] RightToe
+  [10] RightUpLegRoll
+  [11] LeftHipsRoll
+  [12] RightHipsRoll
+  [13] FS01
+  [14] FS02
+  [15] FS03
+  [16] FS04
+  [17] FS05
+  [18] FS06
+  [19] FS07
+  [20] FS08
+  [21] BS01
+  [22] BS02
+  [23] BS03
+  [24] BS04
+  [25] BS05
+  [26] BS06
+  [27] BS07
+  [28] BS08
+  [29] LeftSA01
+  ... (共 246 个)

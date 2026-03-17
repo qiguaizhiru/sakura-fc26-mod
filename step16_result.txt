@@ -1,0 +1,50 @@
+=== 第16步：替换头发网格 ===
+
+源网格: 大黑塔Ver1.0_mesh  顶点:212864
+
+原始 IFF 数据:
+  Stream0: VertexBuffer.b0f7128ab2b01763.bin (332424 B, 27702 verts)
+  Stream1: VertexBuffer.a770be4b7a265f2c.bin (443232 B)
+  Index:   IndexBuffer.95a9f1dd2d728e52.bin (223290 B, 111645 indices)
+  Weights: MatrixWeightsBuffer.afa3439a23cdf0d3.bin (40904 B, 保持不变)
+  已解析 27702 个原始顶点位置
+  已解析 27702 个原始权重数据
+  头发材质[46]: 髪
+  头发材质[68]: 帽子
+
+找到 2 个头发材质
+头发提取后: 顶点7004  面8420
+面数 8420 <= 目标 9234，无需减面
+缩放比: 9.2736 (与 step13 身体一致)
+  NBA身体 Y范围: [-103.63, 80.10] (高183.73)
+  PMX身体 Z范围: [0.0528, 19.8649] (高19.8121)
+
+展开后: 顶点25260  三角面8420
+填充到 27702 顶点 (补了 2442 个)
+KD-Tree: 27702 个原始顶点
+
+Stream0: 332424 B ✔
+Stream1: 443232 B ✔
+IndexBuffer: 223290 B ✔
+  子网格 hair_parted_shader: Start=36963, 放置 25260/74682 个索引
+  有效三角面: 8420
+
+包围盒:
+  Min: [-36.8564, -32.3635, -53.0837]
+  Max: [36.8564, 113.3380, 31.1061]
+  Center: [0.0000, 40.4872, -10.9888]
+  Radius: 72.8507
+✔ SCNE 包围盒已更新（结构未改动）
+
+✔ 替换 Stream0: VertexBuffer.b0f7128ab2b01763.bin
+✔ 替换 Stream1: VertexBuffer.a770be4b7a265f2c.bin
+✔ 替换 IndexBuffer: IndexBuffer.95a9f1dd2d728e52.bin
+  MatrixWeightsBuffer: 保持原始 (40904 B)
+  SCNE, FxTweakables: 保持原始
+
+✔ 输出: F:\大卫李\sakura_output\png6794_geo_hair_parted.iff
+  顶点: 27702 (目标 27702)
+  有效面: 8420
+  总索引: 111645
+
+✔ step16 完成！

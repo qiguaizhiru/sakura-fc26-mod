@@ -1,0 +1,1245 @@
+=== 大黑塔 PMX 内容 ===
+
+骨架数: 1
+  大黑塔Ver1.0_arm (731根骨骼)
+    - Necktie1
+    - Necktie2
+    - Necktie3
+    - Necktie4
+
+网格数: 411
+  [大黑塔Ver1.0_mesh]
+   顶点:212864 面:311498 高:23.798 Z-up
+   材质: Body, 指甲, 舌头
+  [000_左胸変形]
+   顶点:34 面:40 高:1.474 Z-up
+   材质: mmd_tools_rigid_0
+  [001_左胸_後]
+   顶点:34 面:40 高:0.654 Z-up
+   材质: mmd_tools_rigid_3
+  [002_左胸_回転]
+   顶点:34 面:40 高:0.98 Z-up
+   材质: mmd_tools_rigid_3
+  [003_左胸_前]
+   顶点:34 面:40 高:0.762 Z-up
+   材质: mmd_tools_rigid_3
+  [004_左胸_前後]
+   顶点:34 面:40 高:0.871 Z-up
+   材质: mmd_tools_rigid_3
+  [005_左胸]
+   顶点:34 面:40 高:0.98 Z-up
+   材质: mmd_tools_rigid_3
+  [006_右胸変形]
+   顶点:34 面:40 高:1.474 Z-up
+   材质: mmd_tools_rigid_0
+  [007_右胸_後]
+   顶点:34 面:40 高:0.654 Z-up
+   材质: mmd_tools_rigid_3
+  [008_右胸_回転]
+   顶点:34 面:40 高:0.98 Z-up
+   材质: mmd_tools_rigid_3
+  [009_右胸_前]
+   顶点:34 面:40 高:0.762 Z-up
+   材质: mmd_tools_rigid_3
+  [010_右胸_前後]
+   顶点:34 面:40 高:0.871 Z-up
+   材质: mmd_tools_rigid_3
+  [011_右胸]
+   顶点:34 面:40 高:0.98 Z-up
+   材质: mmd_tools_rigid_3
+  [012_左胸01]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_0
+  [013_右胸01]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_0
+  [014_左足回転]
+   顶点:34 面:40 高:1.676 Z-up
+   材质: mmd_tools_rigid_7
+  [015_左足回転+]
+   顶点:34 面:40 高:1.676 Z-up
+   材质: mmd_tools_rigid_7
+  [016_左足回転++]
+   顶点:34 面:40 高:1.9 Z-up
+   材质: mmd_tools_rigid_7
+  [017_右足回転]
+   顶点:34 面:40 高:1.676 Z-up
+   材质: mmd_tools_rigid_7
+  [018_右足回転+]
+   顶点:34 面:40 高:1.676 Z-up
+   材质: mmd_tools_rigid_7
+  [019_右足回転++]
+   顶点:34 面:40 高:1.9 Z-up
+   材质: mmd_tools_rigid_7
+  [020_左足D+]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [021_左足D++]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [022_左ひざD+]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [023_左ひざD++]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [024_右足D+]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [025_右足D++]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [026_右ひざD+]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [027_右ひざD++]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [028_左腰]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [029_左腰+]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [030_右腰]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [031_右腰+]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [032_腹]
+   顶点:34 面:40 高:0.524 Z-up
+   材质: mmd_tools_rigid_7
+  [033_腹+]
+   顶点:34 面:40 高:1.048 Z-up
+   材质: mmd_tools_rigid_7
+  [034_左肩]
+   顶点:34 面:40 高:1.398 Z-up
+   材质: mmd_tools_rigid_0
+  [035_左肩2]
+   顶点:34 面:40 高:1.354 Z-up
+   材质: mmd_tools_rigid_0
+  [036_左腕]
+   顶点:34 面:40 高:3.143 Z-up
+   材质: mmd_tools_rigid_0
+  [037_左ひじ]
+   顶点:34 面:40 高:3.143 Z-up
+   材质: mmd_tools_rigid_0
+  [039_右肩]
+   顶点:34 面:40 高:1.398 Z-up
+   材质: mmd_tools_rigid_0
+  [040_右肩2]
+   顶点:34 面:40 高:1.354 Z-up
+   材质: mmd_tools_rigid_0
+  [041_右腕]
+   顶点:34 面:40 高:3.143 Z-up
+   材质: mmd_tools_rigid_0
+  [042_右ひじ]
+   顶点:34 面:40 高:3.143 Z-up
+   材质: mmd_tools_rigid_0
+  [044_左足+]
+   顶点:34 面:40 高:2.2 Z-up
+   材质: mmd_tools_rigid_7
+  [045_右足+]
+   顶点:34 面:40 高:2.2 Z-up
+   材质: mmd_tools_rigid_7
+  [046_左乳環00]
+   顶点:34 面:40 高:0.078 Z-up
+   材质: mmd_tools_rigid_1
+  [047_左乳環01]
+   顶点:34 面:40 高:0.125 Z-up
+   材质: mmd_tools_rigid_1
+  [048_左乳環02]
+   顶点:34 面:40 高:0.114 Z-up
+   材质: mmd_tools_rigid_1
+  [049_左乳環03]
+   顶点:34 面:40 高:0.112 Z-up
+   材质: mmd_tools_rigid_1
+  [050_左乳環04]
+   顶点:34 面:40 高:0.11 Z-up
+   材质: mmd_tools_rigid_1
+  [051_左乳環05]
+   顶点:34 面:40 高:0.326 Z-up
+   材质: mmd_tools_rigid_1
+  [052_右乳環00]
+   顶点:34 面:40 高:0.078 Z-up
+   材质: mmd_tools_rigid_1
+  [053_右乳環01]
+   顶点:34 面:40 高:0.125 Z-up
+   材质: mmd_tools_rigid_1
+  [054_右乳環02]
+   顶点:34 面:40 高:0.114 Z-up
+   材质: mmd_tools_rigid_1
+  [055_右乳環03]
+   顶点:34 面:40 高:0.112 Z-up
+   材质: mmd_tools_rigid_1
+  [056_右乳環04]
+   顶点:34 面:40 高:0.11 Z-up
+   材质: mmd_tools_rigid_1
+  [057_右乳環05]
+   顶点:34 面:40 高:0.326 Z-up
+   材质: mmd_tools_rigid_1
+  [058_上半身]
+   顶点:34 面:40 高:2.504 Z-up
+   材质: mmd_tools_rigid_0
+  [059_上半身2]
+   顶点:34 面:40 高:4.944 Z-up
+   材质: mmd_tools_rigid_0
+  [060_下半身]
+   顶点:34 面:40 高:2.575 Z-up
+   材质: mmd_tools_rigid_0
+  [061_首]
+   顶点:34 面:40 高:1.71 Z-up
+   材质: mmd_tools_rigid_0
+  [062_頭]
+   顶点:34 面:40 高:2.06 Z-up
+   材质: mmd_tools_rigid_0
+  [063_頭1]
+   顶点:34 面:40 高:1.133 Z-up
+   材质: mmd_tools_rigid_0
+  [064_M-頭]
+   顶点:34 面:40 高:1.751 Z-up
+   材质: mmd_tools_rigid_0
+  [065_M-M-頭]
+   顶点:34 面:40 高:1.751 Z-up
+   材质: mmd_tools_rigid_0
+  [066_右足]
+   顶点:34 面:40 高:6.566 Z-up
+   材质: mmd_tools_rigid_0
+  [067_右ひざ]
+   顶点:34 面:40 高:7.992 Z-up
+   材质: mmd_tools_rigid_0
+  [068_右足首]
+   顶点:34 面:40 高:3.816 Z-up
+   材质: mmd_tools_rigid_0
+  [069_左足]
+   顶点:34 面:40 高:6.566 Z-up
+   材质: mmd_tools_rigid_0
+  [070_左ひざ]
+   顶点:34 面:40 高:7.992 Z-up
+   材质: mmd_tools_rigid_0
+  [071_左足首]
+   顶点:34 面:40 高:3.816 Z-up
+   材质: mmd_tools_rigid_0
+  [072_M-下半身]
+   顶点:34 面:40 高:3.064 Z-up
+   材质: mmd_tools_rigid_0
+  [073_右上袖]
+   顶点:34 面:40 高:0.412 Z-up
+   材质: mmd_tools_rigid_0
+  [074_右上袖1-1]
+   顶点:34 面:40 高:0.717 Z-up
+   材质: mmd_tools_rigid_4
+  [075_右上袖1-2]
+   顶点:34 面:40 高:0.551 Z-up
+   材质: mmd_tools_rigid_4
+  [076_右上袖2-1]
+   顶点:34 面:40 高:0.897 Z-up
+   材质: mmd_tools_rigid_4
+  [077_右上袖3-1]
+   顶点:34 面:40 高:0.914 Z-up
+   材质: mmd_tools_rigid_4
+  [078_右上袖4-1]
+   顶点:34 面:40 高:0.577 Z-up
+   材质: mmd_tools_rigid_4
+  [079_左上袖]
+   顶点:34 面:40 高:0.412 Z-up
+   材质: mmd_tools_rigid_0
+  [080_左上袖1-1]
+   顶点:34 面:40 高:0.717 Z-up
+   材质: mmd_tools_rigid_4
+  [081_左上袖1-2]
+   顶点:34 面:40 高:0.551 Z-up
+   材质: mmd_tools_rigid_4
+  [082_左上袖2-1]
+   顶点:34 面:40 高:0.897 Z-up
+   材质: mmd_tools_rigid_4
+  [083_左上袖3-1]
+   顶点:34 面:40 高:0.914 Z-up
+   材质: mmd_tools_rigid_4
+  [084_左上袖4-1]
+   顶点:34 面:40 高:0.577 Z-up
+   材质: mmd_tools_rigid_4
+  [085_右袖1-1]
+   顶点:34 面:40 高:1.461 Z-up
+   材质: mmd_tools_rigid_9
+  [086_右袖1-2]
+   顶点:34 面:40 高:1.617 Z-up
+   材质: mmd_tools_rigid_9
+  [087_右袖2-1]
+   顶点:34 面:40 高:1.454 Z-up
+   材质: mmd_tools_rigid_9
+  [088_右袖2-2]
+   顶点:34 面:40 高:1.293 Z-up
+   材质: mmd_tools_rigid_9
+  [089_右袖3-1]
+   顶点:34 面:40 高:1.453 Z-up
+   材质: mmd_tools_rigid_9
+  [090_右袖3-2]
+   顶点:34 面:40 高:1.478 Z-up
+   材质: mmd_tools_rigid_9
+  [091_右袖4-1]
+   顶点:34 面:40 高:1.453 Z-up
+   材质: mmd_tools_rigid_9
+  [092_右袖4-2]
+   顶点:34 面:40 高:1.499 Z-up
+   材质: mmd_tools_rigid_9
+  [093_右袖5-1]
+   顶点:34 面:40 高:1.454 Z-up
+   材质: mmd_tools_rigid_9
+  [094_右袖5-2]
+   顶点:34 面:40 高:1.424 Z-up
+   材质: mmd_tools_rigid_9
+  [095_右袖5-3]
+   顶点:34 面:40 高:1.209 Z-up
+   材质: mmd_tools_rigid_9
+  [096_左袖1-1]
+   顶点:34 面:40 高:1.461 Z-up
+   材质: mmd_tools_rigid_9
+  [097_左袖1-2]
+   顶点:34 面:40 高:1.617 Z-up
+   材质: mmd_tools_rigid_9
+  [098_左袖2-1]
+   顶点:34 面:40 高:1.454 Z-up
+   材质: mmd_tools_rigid_9
+  [099_左袖2-2]
+   顶点:34 面:40 高:1.293 Z-up
+   材质: mmd_tools_rigid_9
+  [100_左袖3-1]
+   顶点:34 面:40 高:1.453 Z-up
+   材质: mmd_tools_rigid_9
+  [101_左袖3-2]
+   顶点:34 面:40 高:1.478 Z-up
+   材质: mmd_tools_rigid_9
+  [102_左袖4-1]
+   顶点:34 面:40 高:1.453 Z-up
+   材质: mmd_tools_rigid_9
+  [103_左袖4-2]
+   顶点:34 面:40 高:1.499 Z-up
+   材质: mmd_tools_rigid_9
+  [104_左袖5-1]
+   顶点:34 面:40 高:1.454 Z-up
+   材质: mmd_tools_rigid_9
+  [105_左袖5-2]
+   顶点:34 面:40 高:1.424 Z-up
+   材质: mmd_tools_rigid_9
+  [106_左袖5-3]
+   顶点:34 面:40 高:1.209 Z-up
+   材质: mmd_tools_rigid_9
+  [107_帽]
+   顶点:34 面:40 高:0.618 Z-up
+   材质: mmd_tools_rigid_0
+  [108_帽1]
+   顶点:34 面:40 高:1.167 Z-up
+   材质: mmd_tools_rigid_4
+  [109_帽2]
+   顶点:34 面:40 高:1.041 Z-up
+   材质: mmd_tools_rigid_4
+  [110_帽3]
+   顶点:34 面:40 高:1.041 Z-up
+   材质: mmd_tools_rigid_4
+  [111_帽4]
+   顶点:34 面:40 高:1.386 Z-up
+   材质: mmd_tools_rigid_4
+  [112_帽5]
+   顶点:34 面:40 高:1.667 Z-up
+   材质: mmd_tools_rigid_4
+  [124_後髪上5]
+   顶点:34 面:40 高:1.403 Z-up
+   材质: mmd_tools_rigid_6
+  [125_後髪上6]
+   顶点:34 面:40 高:1.404 Z-up
+   材质: mmd_tools_rigid_6
+  [126_後髪上7]
+   顶点:34 面:40 高:1.404 Z-up
+   材质: mmd_tools_rigid_6
+  [127_後髪上8]
+   顶点:34 面:40 高:1.338 Z-up
+   材质: mmd_tools_rigid_6
+  [128_後髪上9]
+   顶点:34 面:40 高:1.338 Z-up
+   材质: mmd_tools_rigid_6
+  [149_左側長髮1]
+   顶点:34 面:40 高:0.811 Z-up
+   材质: mmd_tools_rigid_8
+  [150_左側長髮2]
+   顶点:34 面:40 高:0.749 Z-up
+   材质: mmd_tools_rigid_8
+  [151_左側長髮3]
+   顶点:34 面:40 高:0.747 Z-up
+   材质: mmd_tools_rigid_8
+  [152_左側長髮4]
+   顶点:34 面:40 高:0.747 Z-up
+   材质: mmd_tools_rigid_8
+  [153_左側長髮5]
+   顶点:34 面:40 高:0.809 Z-up
+   材质: mmd_tools_rigid_8
+  [154_左側長髮6]
+   顶点:34 面:40 高:0.833 Z-up
+   材质: mmd_tools_rigid_8
+  [155_右側長髮1]
+   顶点:34 面:40 高:0.773 Z-up
+   材质: mmd_tools_rigid_8
+  [156_右側長髮2]
+   顶点:34 面:40 高:0.773 Z-up
+   材质: mmd_tools_rigid_8
+  [157_右側長髮3]
+   顶点:34 面:40 高:0.772 Z-up
+   材质: mmd_tools_rigid_8
+  [158_右側長髮4]
+   顶点:34 面:40 高:0.772 Z-up
+   材质: mmd_tools_rigid_8
+  [159_右側長髮5]
+   顶点:34 面:40 高:0.796 Z-up
+   材质: mmd_tools_rigid_8
+  [160_右側長髮6]
+   顶点:34 面:40 高:0.796 Z-up
+   材质: mmd_tools_rigid_8
+  [161_右側長髮7]
+   顶点:34 面:40 高:0.813 Z-up
+   材质: mmd_tools_rigid_8
+  [162_右側長髮8]
+   顶点:34 面:40 高:0.787 Z-up
+   材质: mmd_tools_rigid_8
+  [163_右碎髮1-1]
+   顶点:34 面:40 高:0.658 Z-up
+   材质: mmd_tools_rigid_6
+  [164_右碎髮1-2]
+   顶点:34 面:40 高:0.686 Z-up
+   材质: mmd_tools_rigid_6
+  [165_右側髪1]
+   顶点:34 面:40 高:0.752 Z-up
+   材质: mmd_tools_rigid_10
+  [166_右側髪2]
+   顶点:34 面:40 高:0.861 Z-up
+   材质: mmd_tools_rigid_10
+  [167_右側髪3]
+   顶点:34 面:40 高:0.721 Z-up
+   材质: mmd_tools_rigid_10
+  [168_右側髪4]
+   顶点:34 面:40 高:0.641 Z-up
+   材质: mmd_tools_rigid_10
+  [169_右側髪1-1]
+   顶点:34 面:40 高:0.677 Z-up
+   材质: mmd_tools_rigid_10
+  [170_右側髪1-2]
+   顶点:34 面:40 高:0.687 Z-up
+   材质: mmd_tools_rigid_10
+  [171_左側髪二1]
+   顶点:34 面:40 高:1.067 Z-up
+   材质: mmd_tools_rigid_6
+  [172_左側髪二2]
+   顶点:34 面:40 高:0.892 Z-up
+   材质: mmd_tools_rigid_6
+  [173_左側髪二3]
+   顶点:34 面:40 高:0.618 Z-up
+   材质: mmd_tools_rigid_6
+  [174_劉海一1]
+   顶点:34 面:40 高:0.537 Z-up
+   材质: mmd_tools_rigid_6
+  [175_劉海一2]
+   顶点:34 面:40 高:0.576 Z-up
+   材质: mmd_tools_rigid_6
+  [176_劉海二1]
+   顶点:34 面:40 高:0.517 Z-up
+   材质: mmd_tools_rigid_6
+  [177_劉海二2]
+   顶点:34 面:40 高:0.576 Z-up
+   材质: mmd_tools_rigid_6
+  [178_左側髪1]
+   顶点:34 面:40 高:0.814 Z-up
+   材质: mmd_tools_rigid_10
+  [179_左側髪2]
+   顶点:34 面:40 高:0.698 Z-up
+   材质: mmd_tools_rigid_10
+  [180_左側髪3]
+   顶点:34 面:40 高:0.752 Z-up
+   材质: mmd_tools_rigid_10
+  [181_右側髪三1]
+   顶点:34 面:40 高:0.993 Z-up
+   材质: mmd_tools_rigid_6
+  [182_右側髪三2]
+   顶点:34 面:40 高:0.939 Z-up
+   材质: mmd_tools_rigid_6
+  [183_右側髪三3]
+   顶点:34 面:40 高:0.618 Z-up
+   材质: mmd_tools_rigid_6
+  [184_左側髪三1]
+   顶点:34 面:40 高:0.711 Z-up
+   材质: mmd_tools_rigid_6
+  [185_左側髪三2]
+   顶点:34 面:40 高:0.714 Z-up
+   材质: mmd_tools_rigid_6
+  [186_左碎髮1-1]
+   顶点:34 面:40 高:1.033 Z-up
+   材质: mmd_tools_rigid_6
+  [187_M-上半身2]
+   顶点:34 面:40 高:4.429 Z-up
+   材质: mmd_tools_rigid_0
+  [188_M-M-上半身2]
+   顶点:34 面:40 高:4.738 Z-up
+   材质: mmd_tools_rigid_0
+  [192_後鑰匙1]
+   顶点:34 面:40 高:1.08 Z-up
+   材质: mmd_tools_rigid_2
+  [193_前鑰匙1]
+   顶点:34 面:40 高:0.765 Z-up
+   材质: mmd_tools_rigid_2
+  [194_M-M-上半身2]
+   顶点:34 面:40 高:4.12 Z-up
+   材质: mmd_tools_rigid_0
+  [195_M-M-M-上半身2]
+   顶点:34 面:40 高:4.738 Z-up
+   材质: mmd_tools_rigid_0
+  [404_M-M-下半身]
+   顶点:34 面:40 高:3.244 Z-up
+   材质: mmd_tools_rigid_0
+  [405_左裙鑰匙1]
+   顶点:34 面:40 高:2.185 Z-up
+   材质: mmd_tools_rigid_13
+  [408_M-M-M-下半身]
+   顶点:34 面:40 高:4.59 Z-up
+   材质: mmd_tools_rigid_0
+  [409_M-M-M-M-下半身]
+   顶点:34 面:40 高:5.09 Z-up
+   材质: mmd_tools_rigid_0
+  [038_左手首]
+   顶点:8 面:6 高:0.743 Z-up
+   材质: mmd_tools_rigid_0
+  [043_右手首]
+   顶点:8 面:6 高:0.743 Z-up
+   材质: mmd_tools_rigid_0
+  [113_帽檐1-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [114_帽檐2-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [115_帽檐3-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [116_帽檐4-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [117_帽檐5-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [118_帽檐6-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [119_帽檐7-1]
+   顶点:8 面:6 高:2.678 Y-up
+   材质: mmd_tools_rigid_12
+  [120_後髪上1]
+   顶点:8 面:6 高:1.236 Y-up
+   材质: mmd_tools_rigid_6
+  [121_後髪上2]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_6
+  [122_後髪上3]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_6
+  [123_後髪上4]
+   顶点:8 面:6 高:1.236 Y-up
+   材质: mmd_tools_rigid_6
+  [129_右後髪1]
+   顶点:8 面:6 高:1.452 Z-up
+   材质: mmd_tools_rigid_6
+  [130_右後髪2]
+   顶点:8 面:6 高:1.452 Z-up
+   材质: mmd_tools_rigid_6
+  [131_右後髪3]
+   顶点:8 面:6 高:2.121 Z-up
+   材质: mmd_tools_rigid_6
+  [132_右後髪4]
+   顶点:8 面:6 高:2.217 Z-up
+   材质: mmd_tools_rigid_6
+  [133_右後髪5]
+   顶点:8 面:6 高:2.219 Z-up
+   材质: mmd_tools_rigid_6
+  [134_右後髪6]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [135_右後髪7]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [136_右後髪8]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [137_右後髪9]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [138_右後髪10]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [139_左後髪1]
+   顶点:8 面:6 高:1.452 Z-up
+   材质: mmd_tools_rigid_6
+  [140_左後髪2]
+   顶点:8 面:6 高:1.452 Z-up
+   材质: mmd_tools_rigid_6
+  [141_左後髪3]
+   顶点:8 面:6 高:2.121 Z-up
+   材质: mmd_tools_rigid_6
+  [142_左後髪4]
+   顶点:8 面:6 高:2.217 Z-up
+   材质: mmd_tools_rigid_6
+  [143_左後髪5]
+   顶点:8 面:6 高:2.219 Z-up
+   材质: mmd_tools_rigid_6
+  [144_左後髪6]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [145_左後髪7]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_6
+  [146_左後髪8]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_5
+  [147_左後髪9]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_5
+  [148_左後髪10]
+   顶点:8 面:6 高:1.854 Z-up
+   材质: mmd_tools_rigid_5
+  [189_領帶2]
+   顶点:8 面:6 高:0.412 Z-up
+   材质: mmd_tools_rigid_2
+  [190_領帶3]
+   顶点:8 面:6 高:0.626 Z-up
+   材质: mmd_tools_rigid_2
+  [191_領帶4]
+   顶点:8 面:6 高:0.574 Z-up
+   材质: mmd_tools_rigid_2
+  [196_下擺_0_0]
+   顶点:8 面:6 高:0.823 Z-up
+   材质: mmd_tools_rigid_4
+  [197_下擺_0_1]
+   顶点:8 面:6 高:0.828 Z-up
+   材质: mmd_tools_rigid_4
+  [198_下擺_0_2]
+   顶点:8 面:6 高:0.844 Z-up
+   材质: mmd_tools_rigid_4
+  [199_下擺_0_3]
+   顶点:8 面:6 高:0.864 Z-up
+   材质: mmd_tools_rigid_4
+  [200_下擺_0_4]
+   顶点:8 面:6 高:0.886 Z-up
+   材质: mmd_tools_rigid_4
+  [201_下擺_0_5]
+   顶点:8 面:6 高:0.899 Z-up
+   材质: mmd_tools_rigid_4
+  [202_下擺_0_6]
+   顶点:8 面:6 高:0.905 Z-up
+   材质: mmd_tools_rigid_4
+  [203_下擺_0_7]
+   顶点:8 面:6 高:0.907 Z-up
+   材质: mmd_tools_rigid_4
+  [204_下擺_0_8]
+   顶点:8 面:6 高:0.907 Z-up
+   材质: mmd_tools_rigid_4
+  [205_下擺_0_9]
+   顶点:8 面:6 高:0.907 Z-up
+   材质: mmd_tools_rigid_4
+  [206_下擺_0_10]
+   顶点:8 面:6 高:0.905 Z-up
+   材质: mmd_tools_rigid_4
+  [207_下擺_0_11]
+   顶点:8 面:6 高:0.899 Z-up
+   材质: mmd_tools_rigid_4
+  [208_下擺_0_12]
+   顶点:8 面:6 高:0.886 Z-up
+   材质: mmd_tools_rigid_4
+  [209_下擺_0_13]
+   顶点:8 面:6 高:0.864 Z-up
+   材质: mmd_tools_rigid_4
+  [210_下擺_0_14]
+   顶点:8 面:6 高:0.844 Z-up
+   材质: mmd_tools_rigid_4
+  [211_下擺_0_15]
+   顶点:8 面:6 高:0.828 Z-up
+   材质: mmd_tools_rigid_4
+  [212_下擺_1_0]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [213_下擺_1_1]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [214_下擺_1_2]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [215_下擺_1_3]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [216_下擺_1_4]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [217_下擺_1_5]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [218_下擺_1_6]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [219_下擺_1_7]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [220_下擺_1_8]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [221_下擺_1_9]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [222_下擺_1_10]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [223_下擺_1_11]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [224_下擺_1_12]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [225_下擺_1_13]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [226_下擺_1_14]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [227_下擺_1_15]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [228_下擺_2_0]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [229_下擺_2_1]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [230_下擺_2_2]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [231_下擺_2_3]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [232_下擺_2_4]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [233_下擺_2_5]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [234_下擺_2_6]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [235_下擺_2_7]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [236_下擺_2_8]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [237_下擺_2_9]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [238_下擺_2_10]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [239_下擺_2_11]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [240_下擺_2_12]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [241_下擺_2_13]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [242_下擺_2_14]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [243_下擺_2_15]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [244_下擺_3_0]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [245_下擺_3_1]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [246_下擺_3_2]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [247_下擺_3_3]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [248_下擺_3_4]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [249_下擺_3_5]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [250_下擺_3_6]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [251_下擺_3_7]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [252_下擺_3_8]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [253_下擺_3_9]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [254_下擺_3_10]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [255_下擺_3_11]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [256_下擺_3_12]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [257_下擺_3_13]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [258_下擺_3_14]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [259_下擺_3_15]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [260_下擺_4_0]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [261_下擺_4_1]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [262_下擺_4_2]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [263_下擺_4_3]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [264_下擺_4_4]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [265_下擺_4_5]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [266_下擺_4_6]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [267_下擺_4_7]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [268_下擺_4_8]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [269_下擺_4_9]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [270_下擺_4_10]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [271_下擺_4_11]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [272_下擺_4_12]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [273_下擺_4_13]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [274_下擺_4_14]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [275_下擺_4_15]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [276_下擺_5_0]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [277_下擺_5_1]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [278_下擺_5_2]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [279_下擺_5_3]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [280_下擺_5_4]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [281_下擺_5_5]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [282_下擺_5_6]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [283_下擺_5_7]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [284_下擺_5_8]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [285_下擺_5_9]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [286_下擺_5_10]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [287_下擺_5_11]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [288_下擺_5_12]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [289_下擺_5_13]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [290_下擺_5_14]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [291_下擺_5_15]
+   顶点:8 面:6 高:1.236 Z-up
+   材质: mmd_tools_rigid_4
+  [292_下擺_6_0]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [293_下擺_6_1]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [294_下擺_6_2]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [295_下擺_6_3]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [296_下擺_6_4]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [297_下擺_6_5]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [298_下擺_6_6]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [299_下擺_6_7]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [300_下擺_6_8]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [301_下擺_6_9]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [302_下擺_6_10]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [303_下擺_6_11]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [304_下擺_6_12]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [305_下擺_6_13]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [306_下擺_6_14]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [307_下擺_6_15]
+   顶点:8 面:6 高:1.339 Z-up
+   材质: mmd_tools_rigid_4
+  [308_下擺_7_0]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [309_下擺_7_1]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [310_下擺_7_2]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [311_下擺_7_3]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [312_下擺_7_4]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [313_下擺_7_5]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [314_下擺_7_6]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [315_下擺_7_7]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [316_下擺_7_8]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [317_下擺_7_9]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [318_下擺_7_10]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [319_下擺_7_11]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [320_下擺_7_12]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [321_下擺_7_13]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [322_下擺_7_14]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [323_下擺_7_15]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [324_下擺_8_0]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [325_下擺_8_1]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [326_下擺_8_2]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [327_下擺_8_3]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [328_下擺_8_4]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [329_下擺_8_5]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [330_下擺_8_6]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [331_下擺_8_7]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [332_下擺_8_8]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [333_下擺_8_9]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [334_下擺_8_10]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [335_下擺_8_11]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [336_下擺_8_12]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [337_下擺_8_13]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [338_下擺_8_14]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [339_下擺_8_15]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [340_下擺_9_0]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [341_下擺_9_1]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [342_下擺_9_2]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [343_下擺_9_3]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [344_下擺_9_4]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [345_下擺_9_5]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [346_下擺_9_6]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [347_下擺_9_7]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [348_下擺_9_8]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [349_下擺_9_9]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [350_下擺_9_10]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [351_下擺_9_11]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [352_下擺_9_12]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [353_下擺_9_13]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [354_下擺_9_14]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [355_下擺_9_15]
+   顶点:8 面:6 高:1.442 Z-up
+   材质: mmd_tools_rigid_4
+  [356_下擺_10_0]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [357_下擺_10_1]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [358_下擺_10_2]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [359_下擺_10_3]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [360_下擺_10_4]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [361_下擺_10_5]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [362_下擺_10_6]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [363_下擺_10_7]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [364_下擺_10_8]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [365_下擺_10_9]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [366_下擺_10_10]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [367_下擺_10_11]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [368_下擺_10_12]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [369_下擺_10_13]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [370_下擺_10_14]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [371_下擺_10_15]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [372_下擺_11_0]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [373_下擺_11_1]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [374_下擺_11_2]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [375_下擺_11_3]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [376_下擺_11_4]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [377_下擺_11_5]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [378_下擺_11_6]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [379_下擺_11_7]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [380_下擺_11_8]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [381_下擺_11_9]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [382_下擺_11_10]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [383_下擺_11_11]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [384_下擺_11_12]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [385_下擺_11_13]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [386_下擺_11_14]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [387_下擺_11_15]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_4
+  [388_下擺_12_0]
+   顶点:8 面:6 高:1.141 Z-up
+   材质: mmd_tools_rigid_4
+  [389_下擺_12_1]
+   顶点:8 面:6 高:1.15 Z-up
+   材质: mmd_tools_rigid_4
+  [390_下擺_12_2]
+   顶点:8 面:6 高:1.175 Z-up
+   材质: mmd_tools_rigid_4
+  [391_下擺_12_3]
+   顶点:8 面:6 高:1.206 Z-up
+   材质: mmd_tools_rigid_4
+  [392_下擺_12_4]
+   顶点:8 面:6 高:1.234 Z-up
+   材质: mmd_tools_rigid_4
+  [393_下擺_12_5]
+   顶点:8 面:6 高:1.259 Z-up
+   材质: mmd_tools_rigid_4
+  [394_下擺_12_6]
+   顶点:8 面:6 高:1.277 Z-up
+   材质: mmd_tools_rigid_4
+  [395_下擺_12_7]
+   顶点:8 面:6 高:1.287 Z-up
+   材质: mmd_tools_rigid_4
+  [396_下擺_12_8]
+   顶点:8 面:6 高:1.291 Z-up
+   材质: mmd_tools_rigid_4
+  [397_下擺_12_9]
+   顶点:8 面:6 高:1.287 Z-up
+   材质: mmd_tools_rigid_4
+  [398_下擺_12_10]
+   顶点:8 面:6 高:1.277 Z-up
+   材质: mmd_tools_rigid_4
+  [399_下擺_12_11]
+   顶点:8 面:6 高:1.259 Z-up
+   材质: mmd_tools_rigid_4
+  [400_下擺_12_12]
+   顶点:8 面:6 高:1.234 Z-up
+   材质: mmd_tools_rigid_4
+  [401_下擺_12_13]
+   顶点:8 面:6 高:1.206 Z-up
+   材质: mmd_tools_rigid_4
+  [402_下擺_12_14]
+   顶点:8 面:6 高:1.175 Z-up
+   材质: mmd_tools_rigid_4
+  [403_下擺_12_15]
+   顶点:8 面:6 高:1.15 Z-up
+   材质: mmd_tools_rigid_4
+  [406_鐘錶1]
+   顶点:8 面:6 高:1.648 Z-up
+   材质: mmd_tools_rigid_13
+  [407_右裙鑰匙1]
+   顶点:8 面:6 高:2.0 Z-up
+   材质: mmd_tools_rigid_13
+
+✔ 脚本执行成功

@@ -1,0 +1,27 @@
+=== 第9步：提取大黑塔脸部 → NBA2K ===
+
+源网格: 大黑塔Ver1.0_mesh  顶点:212864
+
+识别为脸部的材质槽 (1 个):
+  [3] 颜
+
+脸部对象: bronya_face
+  顶点: 1302  面: 2234
+  对齐后Z: 61.78 ~ 83.11
+  缩放比例: 9.9369
+
+展开后顶点: 6702  三角面: 2234
+Stream0: 80424 B  Stream1: 107232 B
+Index:   13404 B  Weights: 53616 B
+
+原始IFF文件数: 370
+✔ 更新SCNE: hihead.SCNE
+✔ 替换Stream0: VertexBuffer.4a5f95f175061252.bin
+✔ 替换Stream1: VertexBuffer.d5376762989c8976.bin
+✔ 替换IndexBuffer: IndexBuffer.c829179a1bc03cf2.bin
+✔ 替换MatrixWeights: MatrixWeightsBuffer.313dc1adc1fb35a9.bin
+
+✔ 输出: F:\大卫李\sakura_output\png6794.iff
+  顶点: 6702  面: 2234
+
+✔ step9 执行成功

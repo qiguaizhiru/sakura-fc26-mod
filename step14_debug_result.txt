@@ -1,0 +1,493 @@
+
+============================================================
+  原始 config: F:\大卫李\png6794_config_parted.iff
+============================================================
+  文件大小: 2198360 bytes
+  ZIP 条目数: 143
+    business.SelectionSets  (2440 B)
+    business_crop.SelectionSets  (2384 B)
+    cargo.SelectionSets  (2840 B)
+    carpenter.SelectionSets  (2384 B)
+    face_bentnormal_o.40b24635fba93865.dds  (349700 B)  (texture)
+    face_bentnormal_o.TXTR  (970 B)
+    face_color_o.b433750a27651fd3.dds  (1398276 B)  (texture)
+    face_color_o.TXTR  (1070 B)
+    face_normal_o.1517f5245fb0706a.dds  (349700 B)  (texture)
+    face_normal_o.TXTR  (961 B)
+    face_wrinklecolor_o.d3970ae847dd2acf.dds  (174904 B)  (texture)
+    face_wrinklecolor_o.TXTR  (862 B)
+    face_wrinklenormal_o.d4e48cbcbbfcade7.dds  (349700 B)  (texture)
+    face_wrinklenormal_o.TXTR  (982 B)
+    IndexBuffer.38d716d4b58b2996.bin  (56040 B)  (28020 indices)
+    IndexBuffer.405046f8886cb7c1.bin  (64236 B)  (32118 indices)
+    jeans.SelectionSets  (2440 B)
+    jeans_rolled.SelectionSets  (2600 B)
+    jeans_skinny.SelectionSets  (1792 B)
+    jeans_straight.SelectionSets  (2384 B)
+    jogger.SelectionSets  (2840 B)
+    male_sock_crew.SCNE  (21099 B)
+    SCNE前500字: "male_sock_crew": {
+	"Material": {
+		"l_sock_crew_mat": null,
+		"r_sock_crew_mat": null
+	},
+	"Model": {
+		"player": {
+			"Radius": 22.4783154,
+			"Center": [ -4.76837158e-7, -88.3289642, 3.61206579 ],
+			"Min": [ -16.4286499, -103.593704, -11.1344624 ],
+			"Max": [ 16.4286499, -74.4522858, 16.1867332 ],
+			"Lods": [],
+			"Duv0": [ 0.0287274718, 0.0343299285 ],
+			"WeightBits": 16,
+			"BlendIndexRange": [ 0, 31 ],
+			"Attribute": {
+				"MaxNormalSum": 165.417938,
+				"MaxTangentSum": 165.417938,
+
+    male_sock_quarter.SCNE  (21312 B)
+    SCNE前500字: "male_sock_quarter": {
+	"Material": {
+		"l_sock_quarter_mat": null,
+		"r_sock_quarter_mat": null
+	},
+	"Model": {
+		"player": {
+			"Radius": 19.9409161,
+			"Center": [ 0.0, -92.8358459, 3.53394318 ],
+			"Min": [ -16.4286499, -103.593704, -11.1344624 ],
+			"Max": [ 16.4286499, -82.3004837, 16.1867332 ],
+			"Lods": [
+				{
+					"LodVerts": 1998
+				},
+				{
+					"LodVerts": 1949
+				},
+				{
+					"LodVerts": 1095
+				},
+				{
+					"LodVerts": 382
+				},
+				{
+					"LodVerts": 286
+				},
+				{
+					
+    martialarts.SelectionSets  (1792 B)
+    MatrixWeightsBuffer.7dfef698bd85ed10.bin  (9488 B)
+    MatrixWeightsBuffer.90b58e13e6c42f4d.bin  (11040 B)
+    Morph.292dca450fa85bc7.bin  (989 B)
+    Morph.39f45bb11f84eab5.bin  (2395 B)
+    Morph.51604a8e62aec523.bin  (2799 B)
+    Morph.7dd69ff62cd65b9c.bin  (2196 B)
+    Morph.85199d9116f2b8e7.bin  (2181 B)
+    Morph.af70d32751915b38.bin  (984 B)
+    Morph.ded53ae2b3cc24ae.bin  (1837 B)
+    Morph.f184fd3f84fa07e7.bin  (2894 B)
+    moto.SelectionSets  (2840 B)
+    overall.SelectionSets  (2840 B)
+    shoes_boot_dress.SelectionSets  (2320 B)
+    shoes_boot_dress_and_business.SelectionSets  (3168 B)
+    shoes_boot_dress_and_business_crop.SelectionSets  (2632 B)
+    shoes_boot_dress_and_cargo.SelectionSets  (2576 B)
+    shoes_boot_dress_and_carpenter.SelectionSets  (2632 B)
+    shoes_boot_dress_and_jeans.SelectionSets  (3168 B)
+    shoes_boot_dress_and_jeans_rolled.SelectionSets  (3864 B)
+    shoes_boot_dress_and_jeans_skinny.SelectionSets  (2408 B)
+    shoes_boot_dress_and_jeans_straight.SelectionSets  (2632 B)
+    shoes_boot_dress_and_jogger.SelectionSets  (2576 B)
+    shoes_boot_dress_and_martialarts.SelectionSets  (2408 B)
+    shoes_boot_dress_and_moto.SelectionSets  (2576 B)
+    shoes_boot_dress_and_overall.SelectionSets  (2576 B)
+    shoes_boot_dress_and_track.SelectionSets  (2576 B)
+    shoes_boot_dress_and_warmup.SelectionSets  (2576 B)
+    shoes_boot_dress_and_warmup_gleague.SelectionSets  (2576 B)
+    shoes_dress.SelectionSets  (2088 B)
+    shoes_dress_and_business.SelectionSets  (4168 B)
+    shoes_dress_and_business_crop.SelectionSets  (2840 B)
+    shoes_dress_and_cargo.SelectionSets  (2736 B)
+    shoes_dress_and_carpenter.SelectionSets  (2840 B)
+    shoes_dress_and_jeans.SelectionSets  (4168 B)
+    shoes_dress_and_jeans_rolled.SelectionSets  (4256 B)
+    shoes_dress_and_jeans_skinny.SelectionSets  (2400 B)
+    shoes_dress_and_jeans_straight.SelectionSets  (2840 B)
+    shoes_dress_and_jogger.SelectionSets  (2736 B)
+    shoes_dress_and_martialarts.SelectionSets  (2400 B)
+    shoes_dress_and_moto.SelectionSets  (2736 B)
+    shoes_dress_and_overall.SelectionSets  (2736 B)
+    shoes_dress_and_track.SelectionSets  (2736 B)
+    shoes_dress_and_warmup.SelectionSets  (2736 B)
+    shoes_dress_and_warmup_gleague.SelectionSets  (2736 B)
+    shoes_flippers.SelectionSets  (2208 B)
+    shoes_flippers_and_business.SelectionSets  (4112 B)
+    shoes_flippers_and_business_crop.SelectionSets  (2736 B)
+    shoes_flippers_and_cargo.SelectionSets  (2696 B)
+    shoes_flippers_and_carpenter.SelectionSets  (2736 B)
+    shoes_flippers_and_jeans.SelectionSets  (4112 B)
+    shoes_flippers_and_jeans_rolled.SelectionSets  (4392 B)
+    shoes_flippers_and_jeans_skinny.SelectionSets  (2368 B)
+    shoes_flippers_and_jeans_straight.SelectionSets  (2736 B)
+    shoes_flippers_and_jogger.SelectionSets  (2696 B)
+    shoes_flippers_and_martialarts.SelectionSets  (2368 B)
+    shoes_flippers_and_moto.SelectionSets  (2696 B)
+    shoes_flippers_and_overall.SelectionSets  (2696 B)
+    shoes_flippers_and_track.SelectionSets  (2696 B)
+    shoes_flippers_and_warmup.SelectionSets  (2696 B)
+    shoes_flippers_and_warmup_gleague.SelectionSets  (2696 B)
+    shoes_loafers.SelectionSets  (3112 B)
+    shoes_loafers_and_business.SelectionSets  (5968 B)
+    shoes_loafers_and_business_crop.SelectionSets  (4432 B)
+    shoes_loafers_and_cargo.SelectionSets  (4328 B)
+    shoes_loafers_and_carpenter.SelectionSets  (4432 B)
+    shoes_loafers_and_jeans.SelectionSets  (5968 B)
+    shoes_loafers_and_jeans_rolled.SelectionSets  (6272 B)
+    shoes_loafers_and_jeans_skinny.SelectionSets  (3544 B)
+    shoes_loafers_and_jeans_straight.SelectionSets  (4432 B)
+    shoes_loafers_and_jogger.SelectionSets  (4328 B)
+    shoes_loafers_and_martialarts.SelectionSets  (3544 B)
+    shoes_loafers_and_moto.SelectionSets  (4328 B)
+    shoes_loafers_and_overall.SelectionSets  (4328 B)
+    shoes_loafers_and_track.SelectionSets  (4328 B)
+    shoes_loafers_and_warmup.SelectionSets  (4328 B)
+    shoes_loafers_and_warmup_gleague.SelectionSets  (4328 B)
+    shoes_twokgeneric.SelectionSets  (2168 B)
+    shoes_twokgeneric_and_business.SelectionSets  (3504 B)
+    shoes_twokgeneric_and_business_crop.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_cargo.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_carpenter.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_jeans.SelectionSets  (3504 B)
+    shoes_twokgeneric_and_jeans_rolled.SelectionSets  (3976 B)
+    shoes_twokgeneric_and_jeans_skinny.SelectionSets  (2440 B)
+    shoes_twokgeneric_and_jeans_straight.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_jogger.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_martialarts.SelectionSets  (2440 B)
+    shoes_twokgeneric_and_moto.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_overall.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_track.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_warmup.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_warmup_gleague.SelectionSets  (2680 B)
+    track.SelectionSets  (2840 B)
+    twokgeneric.SelectionSets  (2912 B)
+    twokgeneric_and_business.SelectionSets  (4552 B)
+    twokgeneric_and_business_crop.SelectionSets  (3416 B)
+    twokgeneric_and_cargo.SelectionSets  (3448 B)
+    twokgeneric_and_carpenter.SelectionSets  (3416 B)
+    twokgeneric_and_jeans.SelectionSets  (4552 B)
+    twokgeneric_and_jeans_rolled.SelectionSets  (5040 B)
+    twokgeneric_and_jeans_skinny.SelectionSets  (3128 B)
+    twokgeneric_and_jeans_straight.SelectionSets  (3416 B)
+    twokgeneric_and_jogger.SelectionSets  (3448 B)
+    twokgeneric_and_martialarts.SelectionSets  (3128 B)
+    twokgeneric_and_moto.SelectionSets  (3448 B)
+    twokgeneric_and_overall.SelectionSets  (3448 B)
+    twokgeneric_and_track.SelectionSets  (3448 B)
+    twokgeneric_and_warmup.SelectionSets  (3448 B)
+    twokgeneric_and_warmup_gleague.SelectionSets  (3448 B)
+    VertexBuffer.1476a95862b00d7b.bin  (644 B)  (÷12=53, ÷16=40, ÷4=161)
+    VertexBuffer.4a18c67089f4f12a.bin  (23976 B)  (÷12=1998, ÷16=1498, ÷4=5994)
+    VertexBuffer.5c930754a4df40ee.bin  (23976 B)  (÷12=1998, ÷16=1498, ÷4=5994)
+    VertexBuffer.6ca194d45024ffea.bin  (26760 B)  (÷12=2230, ÷16=1672, ÷4=6690)
+    VertexBuffer.6fa4d1024eb4e0d6.bin  (700 B)  (÷12=58, ÷16=43, ÷4=175)
+    VertexBuffer.dc2bf9e0bef164de.bin  (116172 B)  (÷12=9681, ÷16=7260, ÷4=29043)
+    VertexBuffer.f1408edb691cf1b4.bin  (131648 B)  (÷12=10970, ÷16=8228, ÷4=32912)
+    VertexBuffer.fe5cd06223c1e776.bin  (26760 B)  (÷12=2230, ÷16=1672, ÷4=6690)
+    warmup.SelectionSets  (2840 B)
+    warmup_gleague.SelectionSets  (2840 B)
+
+============================================================
+  修改 config: F:\大卫李\sakura_output\png6794_config_parted.iff
+============================================================
+  文件大小: 1700735 bytes
+  ZIP 条目数: 144
+    business.SelectionSets  (2440 B)
+    business_crop.SelectionSets  (2384 B)
+    cargo.SelectionSets  (2840 B)
+    carpenter.SelectionSets  (2384 B)
+    face_bentnormal_o.40b24635fba93865.dds  (349700 B)  (texture)
+    face_bentnormal_o.TXTR  (970 B)
+    face_color_o.b433750a27651fd3.dds  (1398276 B)  (texture)
+    face_color_o.TXTR  (1070 B)
+    face_normal_o.1517f5245fb0706a.dds  (349700 B)  (texture)
+    face_normal_o.TXTR  (961 B)
+    face_wrinklecolor_o.d3970ae847dd2acf.dds  (174904 B)  (texture)
+    face_wrinklecolor_o.TXTR  (862 B)
+    face_wrinklenormal_o.d4e48cbcbbfcade7.dds  (349700 B)  (texture)
+    face_wrinklenormal_o.TXTR  (982 B)
+    IndexBuffer.38d716d4b58b2996.bin  (56040 B)  (28020 indices)
+    IndexBuffer.405046f8886cb7c1.bin  (64236 B)  (32118 indices)
+    jeans.SelectionSets  (2440 B)
+    jeans_rolled.SelectionSets  (2600 B)
+    jeans_skinny.SelectionSets  (1792 B)
+    jeans_straight.SelectionSets  (2384 B)
+    jogger.SelectionSets  (2840 B)
+    male_sock_crew.SCNE  (21099 B)
+    SCNE前500字: "male_sock_crew": {
+	"Material": {
+		"l_sock_crew_mat": null,
+		"r_sock_crew_mat": null
+	},
+	"Model": {
+		"player": {
+			"Radius": 22.4783154,
+			"Center": [ -4.76837158e-7, -88.3289642, 3.61206579 ],
+			"Min": [ -16.4286499, -103.593704, -11.1344624 ],
+			"Max": [ 16.4286499, -74.4522858, 16.1867332 ],
+			"Lods": [],
+			"Duv0": [ 0.0287274718, 0.0343299285 ],
+			"WeightBits": 16,
+			"BlendIndexRange": [ 0, 31 ],
+			"Attribute": {
+				"MaxNormalSum": 165.417938,
+				"MaxTangentSum": 165.417938,
+
+    male_sock_quarter.SCNE  (21312 B)
+    SCNE前500字: "male_sock_quarter": {
+	"Material": {
+		"l_sock_quarter_mat": null,
+		"r_sock_quarter_mat": null
+	},
+	"Model": {
+		"player": {
+			"Radius": 19.9409161,
+			"Center": [ 0.0, -92.8358459, 3.53394318 ],
+			"Min": [ -16.4286499, -103.593704, -11.1344624 ],
+			"Max": [ 16.4286499, -82.3004837, 16.1867332 ],
+			"Lods": [
+				{
+					"LodVerts": 1998
+				},
+				{
+					"LodVerts": 1949
+				},
+				{
+					"LodVerts": 1095
+				},
+				{
+					"LodVerts": 382
+				},
+				{
+					"LodVerts": 286
+				},
+				{
+					
+    martialarts.SelectionSets  (1792 B)
+    MatrixWeightsBuffer.7dfef698bd85ed10.bin  (9488 B)
+    MatrixWeightsBuffer.90b58e13e6c42f4d.bin  (11040 B)
+    Morph.292dca450fa85bc7.bin  (989 B)
+    Morph.39f45bb11f84eab5.bin  (2395 B)
+    Morph.51604a8e62aec523.bin  (2799 B)
+    Morph.7dd69ff62cd65b9c.bin  (2196 B)
+    Morph.85199d9116f2b8e7.bin  (2181 B)
+    Morph.af70d32751915b38.bin  (984 B)
+    Morph.ded53ae2b3cc24ae.bin  (1837 B)
+    Morph.f184fd3f84fa07e7.bin  (2894 B)
+    moto.SelectionSets  (2840 B)
+    overall.SelectionSets  (2840 B)
+    shoes_boot_dress.SelectionSets  (2320 B)
+    shoes_boot_dress_and_business.SelectionSets  (3168 B)
+    shoes_boot_dress_and_business_crop.SelectionSets  (2632 B)
+    shoes_boot_dress_and_cargo.SelectionSets  (2576 B)
+    shoes_boot_dress_and_carpenter.SelectionSets  (2632 B)
+    shoes_boot_dress_and_jeans.SelectionSets  (3168 B)
+    shoes_boot_dress_and_jeans_rolled.SelectionSets  (3864 B)
+    shoes_boot_dress_and_jeans_skinny.SelectionSets  (2408 B)
+    shoes_boot_dress_and_jeans_straight.SelectionSets  (2632 B)
+    shoes_boot_dress_and_jogger.SelectionSets  (2576 B)
+    shoes_boot_dress_and_martialarts.SelectionSets  (2408 B)
+    shoes_boot_dress_and_moto.SelectionSets  (2576 B)
+    shoes_boot_dress_and_overall.SelectionSets  (2576 B)
+    shoes_boot_dress_and_track.SelectionSets  (2576 B)
+    shoes_boot_dress_and_warmup.SelectionSets  (2576 B)
+    shoes_boot_dress_and_warmup_gleague.SelectionSets  (2576 B)
+    shoes_dress.SelectionSets  (2088 B)
+    shoes_dress_and_business.SelectionSets  (4168 B)
+    shoes_dress_and_business_crop.SelectionSets  (2840 B)
+    shoes_dress_and_cargo.SelectionSets  (2736 B)
+    shoes_dress_and_carpenter.SelectionSets  (2840 B)
+    shoes_dress_and_jeans.SelectionSets  (4168 B)
+    shoes_dress_and_jeans_rolled.SelectionSets  (4256 B)
+    shoes_dress_and_jeans_skinny.SelectionSets  (2400 B)
+    shoes_dress_and_jeans_straight.SelectionSets  (2840 B)
+    shoes_dress_and_jogger.SelectionSets  (2736 B)
+    shoes_dress_and_martialarts.SelectionSets  (2400 B)
+    shoes_dress_and_moto.SelectionSets  (2736 B)
+    shoes_dress_and_overall.SelectionSets  (2736 B)
+    shoes_dress_and_track.SelectionSets  (2736 B)
+    shoes_dress_and_warmup.SelectionSets  (2736 B)
+    shoes_dress_and_warmup_gleague.SelectionSets  (2736 B)
+    shoes_flippers.SelectionSets  (2208 B)
+    shoes_flippers_and_business.SelectionSets  (4112 B)
+    shoes_flippers_and_business_crop.SelectionSets  (2736 B)
+    shoes_flippers_and_cargo.SelectionSets  (2696 B)
+    shoes_flippers_and_carpenter.SelectionSets  (2736 B)
+    shoes_flippers_and_jeans.SelectionSets  (4112 B)
+    shoes_flippers_and_jeans_rolled.SelectionSets  (4392 B)
+    shoes_flippers_and_jeans_skinny.SelectionSets  (2368 B)
+    shoes_flippers_and_jeans_straight.SelectionSets  (2736 B)
+    shoes_flippers_and_jogger.SelectionSets  (2696 B)
+    shoes_flippers_and_martialarts.SelectionSets  (2368 B)
+    shoes_flippers_and_moto.SelectionSets  (2696 B)
+    shoes_flippers_and_overall.SelectionSets  (2696 B)
+    shoes_flippers_and_track.SelectionSets  (2696 B)
+    shoes_flippers_and_warmup.SelectionSets  (2696 B)
+    shoes_flippers_and_warmup_gleague.SelectionSets  (2696 B)
+    shoes_loafers.SelectionSets  (3112 B)
+    shoes_loafers_and_business.SelectionSets  (5968 B)
+    shoes_loafers_and_business_crop.SelectionSets  (4432 B)
+    shoes_loafers_and_cargo.SelectionSets  (4328 B)
+    shoes_loafers_and_carpenter.SelectionSets  (4432 B)
+    shoes_loafers_and_jeans.SelectionSets  (5968 B)
+    shoes_loafers_and_jeans_rolled.SelectionSets  (6272 B)
+    shoes_loafers_and_jeans_skinny.SelectionSets  (3544 B)
+    shoes_loafers_and_jeans_straight.SelectionSets  (4432 B)
+    shoes_loafers_and_jogger.SelectionSets  (4328 B)
+    shoes_loafers_and_martialarts.SelectionSets  (3544 B)
+    shoes_loafers_and_moto.SelectionSets  (4328 B)
+    shoes_loafers_and_overall.SelectionSets  (4328 B)
+    shoes_loafers_and_track.SelectionSets  (4328 B)
+    shoes_loafers_and_warmup.SelectionSets  (4328 B)
+    shoes_loafers_and_warmup_gleague.SelectionSets  (4328 B)
+    shoes_twokgeneric.SelectionSets  (2168 B)
+    shoes_twokgeneric_and_business.SelectionSets  (3504 B)
+    shoes_twokgeneric_and_business_crop.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_cargo.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_carpenter.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_jeans.SelectionSets  (3504 B)
+    shoes_twokgeneric_and_jeans_rolled.SelectionSets  (3976 B)
+    shoes_twokgeneric_and_jeans_skinny.SelectionSets  (2440 B)
+    shoes_twokgeneric_and_jeans_straight.SelectionSets  (2760 B)
+    shoes_twokgeneric_and_jogger.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_martialarts.SelectionSets  (2440 B)
+    shoes_twokgeneric_and_moto.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_overall.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_track.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_warmup.SelectionSets  (2680 B)
+    shoes_twokgeneric_and_warmup_gleague.SelectionSets  (2680 B)
+    track.SelectionSets  (2840 B)
+    twokgeneric.SelectionSets  (2912 B)
+    twokgeneric_and_business.SelectionSets  (4552 B)
+    twokgeneric_and_business_crop.SelectionSets  (3416 B)
+    twokgeneric_and_cargo.SelectionSets  (3448 B)
+    twokgeneric_and_carpenter.SelectionSets  (3416 B)
+    twokgeneric_and_jeans.SelectionSets  (4552 B)
+    twokgeneric_and_jeans_rolled.SelectionSets  (5040 B)
+    twokgeneric_and_jeans_skinny.SelectionSets  (3128 B)
+    twokgeneric_and_jeans_straight.SelectionSets  (3416 B)
+    twokgeneric_and_jogger.SelectionSets  (3448 B)
+    twokgeneric_and_martialarts.SelectionSets  (3128 B)
+    twokgeneric_and_moto.SelectionSets  (3448 B)
+    twokgeneric_and_overall.SelectionSets  (3448 B)
+    twokgeneric_and_track.SelectionSets  (3448 B)
+    twokgeneric_and_warmup.SelectionSets  (3448 B)
+    twokgeneric_and_warmup_gleague.SelectionSets  (3448 B)
+    VertexBuffer.1476a95862b00d7b.bin  (644 B)  (÷12=53, ÷16=40, ÷4=161)
+    VertexBuffer.4a18c67089f4f12a.bin  (23976 B)  (÷12=1998, ÷16=1498, ÷4=5994)
+    VertexBuffer.5c930754a4df40ee.bin  (23976 B)  (÷12=1998, ÷16=1498, ÷4=5994)
+    VertexBuffer.6ca194d45024ffea.bin  (26760 B)  (÷12=2230, ÷16=1672, ÷4=6690)
+    VertexBuffer.6fa4d1024eb4e0d6.bin  (700 B)  (÷12=58, ÷16=43, ÷4=175)
+    VertexBuffer.dc2bf9e0bef164de.bin  (116172 B)  (÷12=9681, ÷16=7260, ÷4=29043)
+    VertexBuffer.f1408edb691cf1b4.bin  (131648 B)  (÷12=10970, ÷16=8228, ÷4=32912)
+    VertexBuffer.fe5cd06223c1e776.bin  (26760 B)  (÷12=2230, ÷16=1672, ÷4=6690)
+    warmup.SelectionSets  (2840 B)
+    warmup_gleague.SelectionSets  (2840 B)
+    face_color_o.dds  (1398276 B)  (texture)
+
+============================================================
+  原始 hair: F:\大卫李\png6794_geo_hair_parted.iff
+============================================================
+  文件大小: 765808 bytes
+  ZIP 条目数: 6
+    hair_parted.SCNE  (19682 B)
+    SCNE前500字: "hair_parted": {
+	"EndTime": 2.0,
+	"Material": {
+		"hair_parted_shader": null
+	},
+	"Model": {
+		"hihead": {
+			"LodSize": 200.0,
+			"Radius": 13.0531845,
+			"Center": [ 0.379451126, 71.6412277, 3.32841325 ],
+			"Min": [ -9.45667744, 60.3961182, -7.54851913 ],
+			"Max": [ 8.91231346, 84.3206787, 13.7626591 ],
+			"Lods": [
+				{
+					"LodSize": 200.0,
+					"LodVerts": 27702
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 750.0,
+					"LodVerts": 10583
+				},
+				{
+					"LodSize": 200.0,
+		
+    hair_parted_tweaks.FxTweakables  (1964 B)
+    IndexBuffer.95a9f1dd2d728e52.bin  (223290 B)  (111645 indices)
+    MatrixWeightsBuffer.afa3439a23cdf0d3.bin  (40904 B)
+    VertexBuffer.a770be4b7a265f2c.bin  (443232 B)  (÷12=36936, ÷16=27702, ÷4=110808)
+    VertexBuffer.b0f7128ab2b01763.bin  (332424 B)  (÷12=27702, ÷16=20776, ÷4=83106)
+
+============================================================
+  修改 hair: F:\大卫李\sakura_output\png6794_geo_hair_parted.iff
+============================================================
+  文件大小: 234250 bytes
+  ZIP 条目数: 6
+    hair_parted.SCNE  (19682 B)
+    SCNE前500字: "hair_parted": {
+	"EndTime": 2.0,
+	"Material": {
+		"hair_parted_shader": null
+	},
+	"Model": {
+		"hihead": {
+			"LodSize": 200.0,
+			"Radius": 13.0531845,
+			"Center": [ 0.379451126, 71.6412277, 3.32841325 ],
+			"Min": [ -9.45667744, 60.3961182, -7.54851913 ],
+			"Max": [ 8.91231346, 84.3206787, 13.7626591 ],
+			"Lods": [
+				{
+					"LodSize": 200.0,
+					"LodVerts": 27702
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 750.0,
+					"LodVerts": 10583
+				},
+				{
+					"LodSize": 200.0,
+		
+    hair_parted_tweaks.FxTweakables  (1964 B)
+    IndexBuffer.95a9f1dd2d728e52.bin  (50520 B)  (25260 indices)
+    MatrixWeightsBuffer.afa3439a23cdf0d3.bin  (202080 B)
+    VertexBuffer.a770be4b7a265f2c.bin  (404160 B)  (÷12=33680, ÷16=25260, ÷4=101040)
+    VertexBuffer.b0f7128ab2b01763.bin  (303120 B)  (÷12=25260, ÷16=18945, ÷4=75780)
+
+============================================================
+  原始 item: F:\大卫李\png6794_item_hair_parted.iff
+============================================================
+  文件大小: 1202088 bytes
+  ZIP 条目数: 6
+    hair_color_o.216dbf7333ee1048.dds  (1398276 B)  (texture)
+    hair_color_o.TXTR  (1194 B)
+    hair_lightmap_o.f2358db5d49ea0f3.dds  (699192 B)  (texture)
+    hair_lightmap_o.TXTR  (938 B)
+    hair_tangent_o.bc1bcb056b80de91.dds  (1398276 B)  (texture)
+    hair_tangent_o.TXTR  (1237 B)
+
+============================================================
+  修改 item: F:\大卫李\sakura_output\png6794_item_hair_parted.iff
+============================================================
+  文件大小: 4050812 bytes
+  ZIP 条目数: 6
+    hair_color_o.216dbf7333ee1048.dds  (5592580 B)  (texture)
+    hair_color_o.TXTR  (1194 B)
+    hair_lightmap_o.f2358db5d49ea0f3.dds  (699192 B)  (texture)
+    hair_lightmap_o.TXTR  (938 B)
+    hair_tangent_o.bc1bcb056b80de91.dds  (1398276 B)  (texture)
+    hair_tangent_o.TXTR  (1237 B)

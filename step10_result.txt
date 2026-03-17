@@ -1,0 +1,55 @@
+=== 第10步：大黑塔身体替换（优化版）===
+
+大黑塔网格: 大黑塔Ver1.0_mesh  顶点:212864
+NBA2K原始身体: hihead
+  顶点组数: 22
+
+身体材质 (12 个):
+  [0] Body
+  [30] 拘束衣1
+  [31] 拘束衣2
+  [32] 拘束衣3
+  [33] 拘束衣4
+  [55] 胸罩
+  [56] 衣_Up
+  [57] 衣2_Up
+  [58] 衣2+_Up
+  [59] 衣_Down
+  [60] 衣+_Down
+  [64] 衣2金属
+
+提取身体: 顶点82048  面123535
+✔ 已删除形态键
+
+面数过多，自动减面: 123535 → 目标15000  比率0.121
+减面后: 顶点17010  面15000
+
+NBA2K身体Z: -103.63 ~ 80.10
+缩放比例: 9.9704
+对齐后Z: -103.63 ~ 80.10
+
+传递骨骼权重...
+✔ 权重传递完成: 0 个顶点组
+
+展开后: 顶点45000  面15000
+骨骼权重: 根骨骼（简化）
+Stream0: 540000 B  Stream1: 720000 B
+Index: 90000 B  Weights: 360000 B
+
+读取IFF: F:\大卫李\sakura_output\png6794.iff
+✔ SCNE 已更新
+
+VertexBuffer 列表:
+  VertexBuffer.0512681b1be177ab.bin  (1119504 B)
+  VertexBuffer.aa6c9685105d8f4a.bin  (391744 B)
+  VertexBuffer.d5376762989c8976.bin  (107232 B)
+  VertexBuffer.4a5f95f175061252.bin  (80424 B)
+✔ 替换 Stream1: VertexBuffer.0512681b1be177ab.bin
+✔ 替换 Stream0: VertexBuffer.aa6c9685105d8f4a.bin
+✔ 替换 IndexBuffer
+✔ 替换 MatrixWeights
+
+✔ 输出: F:\大卫李\sakura_output\png6794.iff
+  顶点: 45000  面: 15000
+
+✔ step10 执行成功！

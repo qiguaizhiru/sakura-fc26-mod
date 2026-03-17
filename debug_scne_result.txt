@@ -1,0 +1,6794 @@
+=== IFF 文件列表 ===
+
+  appearance_info.json  (4252 bytes)
+  degenerate_triangles.BodyGeoPrims  (538 bytes)
+  headgear_vertices.JSON  (93136 bytes)
+  hihead.c8149a93ce38818a.mathnodes  (151268 bytes)
+  hihead.SCNE  (165047 bytes)
+  IndexBuffer.c829179a1bc03cf2.bin  (470472 bytes)
+  MatrixWeightsBuffer.313dc1adc1fb35a9.bin  (157960 bytes)
+  Morph.00b28f001281ae21.bin  (1731 bytes)
+  Morph.018779e0224d8f44.bin  (983 bytes)
+  Morph.02b7865e4dc613c2.bin  (3289 bytes)
+  Morph.036db5d1fa44880d.bin  (4084 bytes)
+  Morph.03f358ab1dade1eb.bin  (1513 bytes)
+  Morph.046913fc4f96c79c.bin  (3624 bytes)
+  Morph.04a3fc7e8700ba47.bin  (3927 bytes)
+  Morph.06196968d788a1c2.bin  (9083 bytes)
+  Morph.06e48476af0a66de.bin  (2907 bytes)
+  Morph.07805febecebf8b9.bin  (3313 bytes)
+  Morph.07a22829725edb9b.bin  (2649 bytes)
+  Morph.093c83d011a134dc.bin  (6998 bytes)
+  Morph.0961466f9c5dc097.bin  (439 bytes)
+  Morph.09cbcd8aecbc3939.bin  (1734 bytes)
+  Morph.0abfbc8de3b1a991.bin  (1906 bytes)
+  Morph.0b62933da6f07651.bin  (4017 bytes)
+  Morph.0c9670e71012bd02.bin  (641 bytes)
+  Morph.0c97265a4ac872b5.bin  (3446 bytes)
+  Morph.0caff4911d12737d.bin  (947 bytes)
+  Morph.0d83a2363f2fa6ad.bin  (3845 bytes)
+  Morph.0e0920f830e1721b.bin  (3145 bytes)
+  Morph.0ebd5837f8423664.bin  (6447 bytes)
+  Morph.1073089e80293358.bin  (1837 bytes)
+  Morph.10aea3cf66ac2374.bin  (2683 bytes)
+  Morph.10e0fe67071a4122.bin  (312 bytes)
+  Morph.117f35ab639f7d4e.bin  (2013 bytes)
+  Morph.1208de37ce589084.bin  (2680 bytes)
+  Morph.124bfec57e3e6478.bin  (3879 bytes)
+  Morph.135ac11392c5975c.bin  (4036 bytes)
+  Morph.13b0b7c882c30bba.bin  (6983 bytes)
+  Morph.158b9201b2939318.bin  (3905 bytes)
+  Morph.16d7091589f0ef2e.bin  (2586 bytes)
+  Morph.1740269aad1623a8.bin  (2753 bytes)
+  Morph.174eb0a0f3a19bf2.bin  (2418 bytes)
+  Morph.17e88d959d7ee1dd.bin  (2255 bytes)
+  Morph.181941ed2b6eb4cf.bin  (3194 bytes)
+  Morph.18286156d76c60ca.bin  (1078 bytes)
+  Morph.184419fb6aae8855.bin  (1186 bytes)
+  Morph.184e7148348dd473.bin  (6421 bytes)
+  Morph.18ac0a5eaf31cce4.bin  (12148 bytes)
+  Morph.18e4cf6aba5f1679.bin  (4029 bytes)
+  Morph.1aa6480e863d836a.bin  (2150 bytes)
+  Morph.1ac12c7a01de7c4a.bin  (7237 bytes)
+  Morph.1bb3a2e0de745c4e.bin  (3838 bytes)
+  Morph.1be892a392ee23c3.bin  (3023 bytes)
+  Morph.1c37b39d0639ae9a.bin  (3136 bytes)
+  Morph.1de01c7d493d6fa0.bin  (5441 bytes)
+  Morph.1e139a5b208404dd.bin  (612 bytes)
+  Morph.1e3e94f8b09c86f7.bin  (1865 bytes)
+  Morph.1e8132614e139c19.bin  (7830 bytes)
+  Morph.1ed2998d4ae85602.bin  (4110 bytes)
+  Morph.1ef8c99fe32976cf.bin  (2732 bytes)
+  Morph.200b239326bebf0d.bin  (2471 bytes)
+  Morph.202141f7be9ab2b6.bin  (3951 bytes)
+  Morph.205ea8a4e1cfc189.bin  (1082 bytes)
+  Morph.207f88623473a227.bin  (5039 bytes)
+  Morph.20e1477073bc1c98.bin  (4217 bytes)
+  Morph.212ec1485467458d.bin  (9551 bytes)
+  Morph.217a14f68ce613c8.bin  (1827 bytes)
+  Morph.21fe3171f16f002d.bin  (5242 bytes)
+  Morph.230395926b26e696.bin  (4526 bytes)
+  Morph.24e6d38c3cec9509.bin  (570 bytes)
+  Morph.268133d2b5536c2a.bin  (4766 bytes)
+  Morph.27f3db78ec2dce00.bin  (3699 bytes)
+  Morph.280df4d05134ffef.bin  (2343 bytes)
+  Morph.280e3792753fc341.bin  (3351 bytes)
+  Morph.28cbef4c1b9f407d.bin  (1216 bytes)
+  Morph.2911bc24262392a2.bin  (1866 bytes)
+  Morph.2953a8f232e82747.bin  (4016 bytes)
+  Morph.298b0cc546e34015.bin  (5216 bytes)
+  Morph.2a0f5023dd748dc5.bin  (2696 bytes)
+  Morph.2ab52372e59bd88f.bin  (3590 bytes)
+  Morph.2b55820550fb4ee6.bin  (2166 bytes)
+  Morph.2e629c43ae31f4ec.bin  (2566 bytes)
+  Morph.2ee8875eb6b30126.bin  (3258 bytes)
+  Morph.310091c4acac4fc7.bin  (3993 bytes)
+  Morph.315c3885f8a7ab13.bin  (3835 bytes)
+  Morph.31a11d0930f5c82b.bin  (2048 bytes)
+  Morph.3344cb88fb4b412e.bin  (14843 bytes)
+  Morph.3367913224f0c1d9.bin  (5034 bytes)
+  Morph.33a623e40a3164d7.bin  (11227 bytes)
+  Morph.33eb70a61360343b.bin  (2597 bytes)
+  Morph.34a6acd7ff6a3ae6.bin  (7063 bytes)
+  Morph.34def14109ffd34c.bin  (5134 bytes)
+  Morph.353d66b2d6f4de1a.bin  (2124 bytes)
+  Morph.354871a874e07aeb.bin  (671 bytes)
+  Morph.361319ee65956a9f.bin  (1022 bytes)
+  Morph.36289ae7b0910de6.bin  (1615 bytes)
+  Morph.378c10bfabbfaef5.bin  (3270 bytes)
+  Morph.383a57ae1b5d06ed.bin  (8577 bytes)
+  Morph.39b7e2c89d5019ef.bin  (2248 bytes)
+  Morph.3aad2a13f3c8e740.bin  (636 bytes)
+  Morph.3aeb3043308e77f7.bin  (4228 bytes)
+  Morph.3b2a36d1af45be95.bin  (2436 bytes)
+  Morph.3be3dd51292c321a.bin  (3478 bytes)
+  Morph.3dcd04c614388cd4.bin  (522 bytes)
+  Morph.3dffce5ab14df335.bin  (3066 bytes)
+  Morph.3eb064fe4eaa99b0.bin  (4475 bytes)
+  Morph.3ed9cc91d2a0c49f.bin  (2683 bytes)
+  Morph.4020104021001550.bin  (1654 bytes)
+  Morph.4023223e116b3de9.bin  (2580 bytes)
+  Morph.402a308f0a6f677b.bin  (1402 bytes)
+  Morph.403b233b4db2bf1c.bin  (3899 bytes)
+  Morph.40467bece158657a.bin  (2553 bytes)
+  Morph.406b9a0fc6af6b01.bin  (6237 bytes)
+  Morph.40873ed5af0679fc.bin  (2505 bytes)
+  Morph.41165a0e0158984e.bin  (1902 bytes)
+  Morph.4274cbb2c005632a.bin  (7152 bytes)
+  Morph.428d1a2603b8d8c4.bin  (2104 bytes)
+  Morph.4452c816d964c627.bin  (632 bytes)
+  Morph.44a96e1305384b5a.bin  (5203 bytes)
+  Morph.46186287202d2171.bin  (189 bytes)
+  Morph.47527879a0259aad.bin  (14766 bytes)
+  Morph.4886b957196a1e13.bin  (1101 bytes)
+  Morph.49804a02e2302fef.bin  (3859 bytes)
+  Morph.49c5b2d7a85525d3.bin  (5747 bytes)
+  Morph.49d2be219c7a4809.bin  (3284 bytes)
+  Morph.4a103b16fa83dd13.bin  (6272 bytes)
+  Morph.4a93966969171557.bin  (2140 bytes)
+  Morph.4dca42a54ee4937a.bin  (2475 bytes)
+  Morph.4efcdf4c91082735.bin  (3429 bytes)
+  Morph.4f7ed26de2b17d45.bin  (2356 bytes)
+  Morph.504017b5af04b9a8.bin  (1374 bytes)
+  Morph.504cbd220ccad62a.bin  (2491 bytes)
+  Morph.515f9ce4aaf19320.bin  (1739 bytes)
+  Morph.518bdf9fc31a2fa1.bin  (1158 bytes)
+  Morph.537a7d9de5a0f95d.bin  (6871 bytes)
+  Morph.54c9817a87f07d6f.bin  (4266 bytes)
+  Morph.5561b51fd0da48fe.bin  (4343 bytes)
+  Morph.571485ee6be08591.bin  (3101 bytes)
+  Morph.57b72af26357b3dc.bin  (5474 bytes)
+  Morph.581535c72a6e2d9d.bin  (2408 bytes)
+  Morph.58b0e090cb5833db.bin  (2542 bytes)
+  Morph.59313ec0248f51cb.bin  (341 bytes)
+  Morph.5b20bab68f9d6eff.bin  (2994 bytes)
+  Morph.5cf08f92d138540e.bin  (14089 bytes)
+  Morph.5d8ddb19d8324fb8.bin  (2155 bytes)
+  Morph.5d8e91ea40fd1027.bin  (1335 bytes)
+  Morph.5dcbbca4dc5e336e.bin  (11718 bytes)
+  Morph.5e758babcc1d4796.bin  (4142 bytes)
+  Morph.5f910a4199730202.bin  (1848 bytes)
+  Morph.605b0ceffafefb7d.bin  (1705 bytes)
+  Morph.61a3491763d3ef6c.bin  (2312 bytes)
+  Morph.62674a5f3c214043.bin  (2201 bytes)
+  Morph.636fa92aa7a0d94f.bin  (1384 bytes)
+  Morph.647819664477187a.bin  (1084 bytes)
+  Morph.65f4920f714d9a3e.bin  (1674 bytes)
+  Morph.678124b5bd8d16d3.bin  (1464 bytes)
+  Morph.6840120df585fe52.bin  (5563 bytes)
+  Morph.68d65a6d8f367c71.bin  (1876 bytes)
+  Morph.69b49021d25d3922.bin  (888 bytes)
+  Morph.6a20b9b3b1ab5d2f.bin  (2350 bytes)
+  Morph.6a444a60076a80c8.bin  (1818 bytes)
+  Morph.6a6f287eb9296080.bin  (4925 bytes)
+  Morph.6a89f78e7fc4c9e5.bin  (6272 bytes)
+  Morph.6aa91f6c7e357e54.bin  (2386 bytes)
+  Morph.6b587a4536806d24.bin  (5006 bytes)
+  Morph.6b7459c35e771687.bin  (2124 bytes)
+  Morph.6cc92a701a0835d7.bin  (2578 bytes)
+  Morph.6d3c12f97f6e3bd8.bin  (4384 bytes)
+  Morph.6f54efd92b45d94d.bin  (2086 bytes)
+  Morph.70f9263a7b708ef2.bin  (110 bytes)
+  Morph.71312ef1c1d0fc3b.bin  (2329 bytes)
+  Morph.71319d76479f62a1.bin  (2406 bytes)
+  Morph.7140cb7c71f38a94.bin  (14348 bytes)
+  Morph.72fd2187437796a2.bin  (11943 bytes)
+  Morph.74d3a218a7809a11.bin  (14977 bytes)
+  Morph.7555de115b3d2553.bin  (2970 bytes)
+  Morph.761bd6f4e17b0d0a.bin  (3604 bytes)
+  Morph.78c405feed0e7585.bin  (11774 bytes)
+  Morph.79fb39b8cea2e926.bin  (3834 bytes)
+  Morph.79fcc88ff11b800a.bin  (1656 bytes)
+  Morph.7a00abc67a71256f.bin  (3396 bytes)
+  Morph.7b320fb3bc84f6a1.bin  (9214 bytes)
+  Morph.7c39fed0f8d0d5b7.bin  (945 bytes)
+  Morph.7d5b510223eaf82a.bin  (1492 bytes)
+  Morph.7e79b98afd58d377.bin  (1221 bytes)
+  Morph.7ea2677a825a7d2c.bin  (5616 bytes)
+  Morph.7fff29c6245dcb45.bin  (1027 bytes)
+  Morph.80143f8b1734e643.bin  (6835 bytes)
+  Morph.806a14482db63c7d.bin  (3920 bytes)
+  Morph.8121d3f950322151.bin  (2679 bytes)
+  Morph.81eabcdfe27b819b.bin  (1823 bytes)
+  Morph.82be6785eecd0dcc.bin  (14985 bytes)
+  Morph.850b4b89e7919e44.bin  (7094 bytes)
+  Morph.85763712bf63835d.bin  (7716 bytes)
+  Morph.85d8a1b326d41ef2.bin  (173 bytes)
+  Morph.86588d2ac60e533a.bin  (5444 bytes)
+  Morph.869dc419955db627.bin  (996 bytes)
+  Morph.86a3f9a14f36f22f.bin  (7689 bytes)
+  Morph.86dd731785c5aafd.bin  (1020 bytes)
+  Morph.87a9c5bfe989827b.bin  (1035 bytes)
+  Morph.88964dc1142dbe83.bin  (793 bytes)
+  Morph.88a5e96deada70b7.bin  (6203 bytes)
+  Morph.88e02015f597e046.bin  (2422 bytes)
+  Morph.89bda28dc5d97961.bin  (2778 bytes)
+  Morph.8a8115d822d4dac9.bin  (3057 bytes)
+  Morph.8b1c7255f1df95a5.bin  (3788 bytes)
+  Morph.8cc133978f8338cc.bin  (2873 bytes)
+  Morph.8d050d6b3c70e4e9.bin  (1190 bytes)
+  Morph.8dc2fc2aa3fcb0ee.bin  (1263 bytes)
+  Morph.8dc635ba969a8445.bin  (966 bytes)
+  Morph.8e0c352e1bacd4d6.bin  (6254 bytes)
+  Morph.8fe52ea8ab00f806.bin  (3001 bytes)
+  Morph.924091c30f25a436.bin  (4945 bytes)
+  Morph.9374ed389df6fecb.bin  (4008 bytes)
+  Morph.94307ea0c346855f.bin  (136 bytes)
+  Morph.9478919937fbe9e3.bin  (1374 bytes)
+  Morph.95034ac1d254f7cd.bin  (1871 bytes)
+  Morph.95c531009e652472.bin  (7851 bytes)
+  Morph.9602143abb5ce0c6.bin  (3267 bytes)
+  Morph.97ca14283aa05fcf.bin  (2948 bytes)
+  Morph.98033da488d8bb49.bin  (1080 bytes)
+  Morph.98481429eecf022b.bin  (1049 bytes)
+  Morph.98c703d86e80af28.bin  (3858 bytes)
+  Morph.9a3890f38ee0bca1.bin  (3576 bytes)
+  Morph.9a641338b7660d10.bin  (5367 bytes)
+  Morph.9bef32094e0d9d77.bin  (9254 bytes)
+  Morph.9c0fca5ad9d02e9f.bin  (4165 bytes)
+  Morph.9c582061dca496c3.bin  (2535 bytes)
+  Morph.9e5062d2382bba76.bin  (4948 bytes)
+  Morph.9f818ff3ecf19508.bin  (1954 bytes)
+  Morph.a1134f3f74ca539f.bin  (5480 bytes)
+  Morph.a120eb612de9f699.bin  (4059 bytes)
+  Morph.a12c137ccfe3202f.bin  (1525 bytes)
+  Morph.a1307a1428b471fc.bin  (3718 bytes)
+  Morph.a1ad5965a4d0e3ee.bin  (3252 bytes)
+  Morph.a2dc34dad516cd82.bin  (1752 bytes)
+  Morph.a33a52ae93b96e75.bin  (6292 bytes)
+  Morph.a3b8d232b922a784.bin  (2358 bytes)
+  Morph.a6a3a51e5c502f57.bin  (2784 bytes)
+  Morph.a80ec64e6cc5b8e1.bin  (2460 bytes)
+  Morph.a988774c0a6ddbe6.bin  (1684 bytes)
+  Morph.aa3ab2e2774f66cc.bin  (4576 bytes)
+  Morph.aa4905b9093eacda.bin  (1155 bytes)
+  Morph.aae8d6545a47e70a.bin  (1814 bytes)
+  Morph.ac9e491a9248cda9.bin  (1265 bytes)
+  Morph.ad4f231f6526484b.bin  (2029 bytes)
+  Morph.ad55bfa412300692.bin  (2030 bytes)
+  Morph.ada0c28a9a7667a8.bin  (2928 bytes)
+  Morph.ae4893ba529546fc.bin  (389 bytes)
+  Morph.aef84561375ae19e.bin  (2758 bytes)
+  Morph.b03ee1a776f5fa0c.bin  (14107 bytes)
+  Morph.b0582c8547c037c4.bin  (2298 bytes)
+  Morph.b128967b09a57f53.bin  (4358 bytes)
+  Morph.b1359677accd4d49.bin  (6166 bytes)
+  Morph.b1c29d27f26eb6a7.bin  (1602 bytes)
+  Morph.b2c1d11001487365.bin  (7178 bytes)
+  Morph.b450a731daa12ebb.bin  (1063 bytes)
+  Morph.b4b9af225abb55f2.bin  (2212 bytes)
+  Morph.b4bb941c50a391c0.bin  (1618 bytes)
+  Morph.b509bbe30f83dae8.bin  (6378 bytes)
+  Morph.b77d346d42df613a.bin  (2697 bytes)
+  Morph.b787d201290e3038.bin  (3761 bytes)
+  Morph.b7a16a5295262ecd.bin  (4960 bytes)
+  Morph.b850a767f022c422.bin  (762 bytes)
+  Morph.b9386e7351c1398b.bin  (3123 bytes)
+  Morph.b959413ec53c8bbc.bin  (932 bytes)
+  Morph.ba15d8d9044f5025.bin  (6412 bytes)
+  Morph.babb292939465207.bin  (2590 bytes)
+  Morph.baeded49725ced9d.bin  (3606 bytes)
+  Morph.bc8aa3e17175e055.bin  (603 bytes)
+  Morph.bcf4014806bdfab2.bin  (2140 bytes)
+  Morph.bd54fd9d6107b9e3.bin  (4967 bytes)
+  Morph.bd801bd96cbcca15.bin  (2623 bytes)
+  Morph.be455f8dae421626.bin  (2432 bytes)
+  Morph.bf49e9adb6f23c73.bin  (1152 bytes)
+  Morph.c00c47403a80b51e.bin  (4960 bytes)
+  Morph.c00c75811e1b4ce3.bin  (2324 bytes)
+  Morph.c09fcb230381a0c2.bin  (1244 bytes)
+  Morph.c0baf3316fe62cb1.bin  (4368 bytes)
+  Morph.c0f9afef8bcf4875.bin  (4433 bytes)
+  Morph.c0ff91cf55e42fc8.bin  (3929 bytes)
+  Morph.c23fc2ba6d1ea49f.bin  (483 bytes)
+  Morph.c252a6be4e9670ae.bin  (4146 bytes)
+  Morph.c2d68b23ddb9113a.bin  (993 bytes)
+  Morph.c46b6b7233b9692c.bin  (1498 bytes)
+  Morph.c4730cae69043acb.bin  (6269 bytes)
+  Morph.c50c7181c245db61.bin  (11704 bytes)
+  Morph.c5c9dc90736c5e7d.bin  (3063 bytes)
+  Morph.c7ee9d807ab84c17.bin  (9248 bytes)
+  Morph.c7f1c15fce1308ee.bin  (1722 bytes)
+  Morph.c81746438b0957fb.bin  (5177 bytes)
+  Morph.c8bfe3f167089d8a.bin  (535 bytes)
+  Morph.c8eac9007639f160.bin  (1126 bytes)
+  Morph.c976d41920971ffb.bin  (508 bytes)
+  Morph.c9c6f751fa47e233.bin  (3949 bytes)
+  Morph.cb077662a8fd935e.bin  (2302 bytes)
+  Morph.cb3f21300724dc95.bin  (3360 bytes)
+  Morph.cb421c8f04c55888.bin  (638 bytes)
+  Morph.cb75960fc988069f.bin  (1782 bytes)
+  Morph.cb94793b54183775.bin  (2487 bytes)
+  Morph.ce8e2c2c1768877e.bin  (669 bytes)
+  Morph.ce98f43c38d3fcd0.bin  (1503 bytes)
+  Morph.cf2a758938df3c0c.bin  (8443 bytes)
+  Morph.cfaba5c82ead1902.bin  (2491 bytes)
+  Morph.d0189757d6603bf3.bin  (1027 bytes)
+  Morph.d088ce5cb6a55ab9.bin  (2102 bytes)
+  Morph.d0892cc3c7137328.bin  (3274 bytes)
+  Morph.d0925f55511f3631.bin  (6711 bytes)
+  Morph.d0a0a0f6289e52ca.bin  (1659 bytes)
+  Morph.d330e2eccd1b36a9.bin  (758 bytes)
+  Morph.d3ce49d203846a31.bin  (3418 bytes)
+  Morph.d51207f24e872039.bin  (1635 bytes)
+  Morph.d6b14a0ebc7fe631.bin  (1892 bytes)
+  Morph.d6c8b265b3603297.bin  (3711 bytes)
+  Morph.d6f238ceb41de1f1.bin  (1050 bytes)
+  Morph.d7dad4c62b1cabf9.bin  (1676 bytes)
+  Morph.d94d2b3d2e90fa53.bin  (4069 bytes)
+  Morph.da19e22f8d914c5d.bin  (11409 bytes)
+  Morph.da3c8e9446b91a42.bin  (3643 bytes)
+  Morph.db26ceca9e95824a.bin  (3989 bytes)
+  Morph.db3f3038bd96764b.bin  (1392 bytes)
+  Morph.dbe673b03acfd732.bin  (4136 bytes)
+  Morph.dd21cec3a42491d9.bin  (3900 bytes)
+  Morph.dd2763d15170854d.bin  (2964 bytes)
+  Morph.dec970bcdca02019.bin  (2857 bytes)
+  Morph.dedcf2c3076631f2.bin  (2616 bytes)
+  Morph.df81a9f3bbf1b8e2.bin  (6148 bytes)
+  Morph.e04cc7e20ed5c234.bin  (2236 bytes)
+  Morph.e137b0126cacce59.bin  (2042 bytes)
+  Morph.e2219bb2faca4a33.bin  (115 bytes)
+  Morph.e303f81fe8e1fccb.bin  (2421 bytes)
+  Morph.e398e61a5d3c70dd.bin  (5641 bytes)
+  Morph.e47bfb9e073aad87.bin  (3141 bytes)
+  Morph.e4b405f53094f5b1.bin  (3202 bytes)
+  Morph.e4bbdc885a47110f.bin  (4702 bytes)
+  Morph.e4d2ec669546b9a8.bin  (3745 bytes)
+  Morph.e713f0bb546ac8fb.bin  (4218 bytes)
+  Morph.e827b6cb9e49cdf9.bin  (1557 bytes)
+  Morph.ea2bc57d9306eaa7.bin  (4260 bytes)
+  Morph.ea8bfd73cae072c1.bin  (1219 bytes)
+  Morph.eaa75672d4fc240b.bin  (4018 bytes)
+  Morph.ebdd17310a5733ce.bin  (2161 bytes)
+  Morph.edb65459eabc7522.bin  (477 bytes)
+  Morph.ee9f4d5d56183ff2.bin  (6144 bytes)
+  Morph.eee8948090c0b593.bin  (2238 bytes)
+  Morph.efed4b76167780fe.bin  (284 bytes)
+  Morph.f05cc74fd81b3b13.bin  (3426 bytes)
+  Morph.f10209f067fe561b.bin  (558 bytes)
+  Morph.f126f306f333ffab.bin  (1016 bytes)
+  Morph.f171ff7c3490a60a.bin  (4000 bytes)
+  Morph.f1e3aff053c12912.bin  (3406 bytes)
+  Morph.f21d421db065f2fc.bin  (1512 bytes)
+  Morph.f43057a9a809ba2d.bin  (6086 bytes)
+  Morph.f4e8a0491d6d448a.bin  (938 bytes)
+  Morph.f5f23cb66be293e6.bin  (6436 bytes)
+  Morph.f6ff6406604f8262.bin  (1750 bytes)
+  Morph.f74fc4d647c488fc.bin  (2198 bytes)
+  Morph.f9e81a1b00f0a1cf.bin  (2280 bytes)
+  Morph.fbec92811672c467.bin  (3919 bytes)
+  Morph.fc5a7fc2e69381d7.bin  (952 bytes)
+  Morph.fc637024ffcf2b98.bin  (4634 bytes)
+  Morph.fd8ffebef90ec412.bin  (12006 bytes)
+  Morph.fe8f44077558c9f6.bin  (1783 bytes)
+  Morph.fed435cc7823a10d.bin  (4613 bytes)
+  Morph.ffed546235aafa5d.bin  (2846 bytes)
+  torso_color_o.b0a1fd4ab4e0a41d.dds  (699192 bytes)
+  torso_color_o.TXTR  (981 bytes)
+  VertexBuffer.0512681b1be177ab.bin  (1119504 bytes)
+  VertexBuffer.4a5f95f175061252.bin  (7896 bytes)
+  VertexBuffer.aa6c9685105d8f4a.bin  (391744 bytes)
+  VertexBuffer.d5376762989c8976.bin  (293808 bytes)
+
+=== SCNE 完整内容 (hihead.SCNE) ===
+
+"hihead": {
+	"EndTime": 2.0,
+	"Material": {
+		"arms_shader": null,
+		"mouth_shader": null,
+		"r_armpitHair_shader": null,
+		"torso_shader": null,
+		"teartube_shader": null,
+		"teartubecaruncle_shader": null,
+		"legs_shader": null,
+		"face_shader": null,
+		"hidden_shader": null,
+		"l_armpitHair_shader": null,
+		"eyes_shader": null,
+		"eyelashes_shader": null
+	},
+	"Model": {
+		"hihead": {
+			"LodSize": 200.0,
+			"Radius": 92.955162,
+			"Center": [ 1.55694672e-15, -11.6171227, 2.12604976 ],
+			"Min": [ -78.046402, -103.630501, -12.8784618 ],
+			"Max": [ 78.046402, 81.3262787, 27.4674435 ],
+			"Lods": [
+				{
+					"LodSize": 200.0,
+					"LodVerts": 24484
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 750.0,
+					"LodVerts": 12534
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 300.0,
+					"LodVerts": 6909
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 200.0,
+					"LodVerts": 3934
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 100.0,
+					"LodVerts": 2056
+				},
+				{
+					"LodSize": 200.0,
+					"LodPixelSize": 50.0,
+					"LodVerts": 1055
+				}
+			],
+			"Duv0": [ 0.0283236522, 0.0309401825 ],
+			"Duv1": [ 0.00981316622, 0.0101844557 ],
+			"WeightBits": 16,
+			"BlendIndexRange": [ 0, 175 ],
+			"Attribute": {
+				"MaxNormalSum": 82.5163727,
+				"MaxTangentSum": 82.5163727,
+				"MinTriangleArea": 4.04107879e-4,
+				"MaxTriangleArea": 5.87554169,
+				"AvgTriangleArea": 0.372089416
+			},
+			"Transform": {
+				"def_hips": {
+					"Child": 1
+				},
+				"def_leftUpLeg": {
+					"Parent": 0,
+					"Child": 2,
+					"Sibling": 21,
+					"Translate": [ 9.22999954, -7.71000004, 0.25999999 ]
+				},
+				"def_leftLeg": {
+					"Parent": 1,
+					"Child": 3,
+					"Sibling": 13,
+					"Translate": [ 0.395661592, -42.3383293, 0.949738741 ]
+				},
+				"def_leftFoot": {
+					"Parent": 2,
+					"Child": 4,
+					"Sibling": 6,
+					"Translate": [ 0.392362714, -44.9603119, -5.91936302 ]
+				},
+				"def_leftToeBase": {
+					"Parent": 3,
+					"Child": 5,
+					"Translate": [ 1.55355191, -6.19682074, 13.5715103 ]
+				},
+				"def_leftToeBase_end": {
+					"Parent": 4,
+					"Translate": [ 1.14591527, -0.270134538, 10.9368143 ]
+				},
+				"def_leftLeg_bend": {
+					"Parent": 2,
+					"Child": 7,
+					"Sibling": 8,
+					"Translate": [ 0.0245226696, -2.81001949, -0.369960189 ]
+				},
+				"def_leftLeg_bend_collisionJNT": {
+					"Parent": 6,
+					"Translate": [ -0.552622557, 3.11933041, 1.4457984 ]
+				},
+				"def_leftFoot_cuff": {
+					"Parent": 2,
+					"Child": 9,
+					"Sibling": 10,
+					"Translate": [ 0.392362714, -44.9603119, -5.91936302 ]
+				},
+				"def_leftFoot_cuff_end": {
+					"Parent": 8,
+					"Translate": [ -0.0432776064, 4.95912266, 0.652905703 ]
+				},
+				"def_leftLeg_twist_100": {
+					"Parent": 2,
+					"Child": 11,
+					"Translate": [ 0.098090671, -11.240078, -1.47984064 ]
+				},
+				"def_leftCalf": {
+					"Parent": 10,
+					"Sibling": 12,
+					"Translate": [ 0.970033109, -0.463088632, -9.51681042 ]
+				},
+				"def_leftLeg_twist_033_collisionJNT": {
+					"Parent": 10,
+					"Translate": [ 0.118109696, -0.287422508, -2.23494601 ]
+				},
+				"def_leftUpLeg_bend": {
+					"Parent": 1,
+					"Sibling": 14,
+					"Translate": [ 0.370932728, -42.5046806, 0.890380085 ]
+				},
+				"def_leftUpLeg_twist_100": {
+					"Parent": 1,
+					"Child": 15,
+					"Translate": [ 0.395661592, -45.3383293, 0.949738741 ]
+				},
+				"def_leftUpLeg_twist_050": {
+					"Parent": 14,
+					"Child": 16,
+					"Sibling": 20,
+					"Translate": [ -0.263774395, 30.2255516, -0.633159161 ]
+				},
+				"def_leftSit": {
+					"Parent": 15,
+					"Sibling": 17
+				},
+				"def_leftUpLeg_twist_000": {
+					"Parent": 15,
+					"Child": 18,
+					"Translate": [ -0.131887197, 15.1127758, -0.31657958 ]
+				},
+				"def_leftUpLegBack_collisionJNT": {
+					"Parent": 17,
+					"Sibling": 19,
+					"Translate": [ -4.87558126, -0.871937513, -1.72725117 ]
+				},
+				"def_leftUpLegFront_collisionJNT": {
+					"Parent": 17,
+					"Translate": [ -1.9084779, -1.90405655, 2.27273226 ]
+				},
+				"def_leftKnee": {
+					"Parent": 14,
+					"Translate": [ 0.0141426772, -1.62059021, 6.43423653 ]
+				},
+				"def_rightUpLeg": {
+					"Parent": 0,
+					"Child": 22,
+					"Sibling": 41,
+					"Translate": [ -9.22999954, -7.71000004, 0.25999999 ]
+				},
+				"def_rightLeg": {
+					"Parent": 21,
+					"Child": 23,
+					"Sibling": 33,
+					"Translate": [ -0.395661592, -42.3383293, 0.949738741 ]
+				},
+				"def_rightFoot": {
+					"Parent": 22,
+					"Child": 24,
+					"Sibling": 26,
+					"Translate": [ -0.392362714, -44.9603119, -5.91936302 ]
+				},
+				"def_rightToeBase": {
+					"Parent": 23,
+					"Child": 25,
+					"Translate": [ -1.55355191, -6.19682074, 13.5715103 ]
+				},
+				"def_rightToeBase_end": {
+					"Parent": 24,
+					"Translate": [ -1.14591527, -0.270134538, 10.9368143 ]
+				},
+				"def_rightLeg_bend": {
+					"Parent": 22,
+					"Child": 27,
+					"Sibling": 28,
+					"Translate": [ -0.0245226696, -2.81001949, -0.369960189 ]
+				},
+				"def_rightLeg_bend_collisionJNT": {
+					"Parent": 26,
+					"Translate": [ 0.552622557, 3.11933041, 1.4457984 ]
+				},
+				"def_rightFoot_cuff": {
+					"Parent": 22,
+					"Child": 29,
+					"Sibling": 30,
+					"Translate": [ -0.392362714, -44.9603119, -5.91936302 ]
+				},
+				"def_rightFoot_cuff_end": {
+					"Parent": 28,
+					"Translate": [ 0.0432776064, 4.95912266, 0.652905703 ]
+				},
+				"def_rightLeg_twist_100": {
+					"Parent": 22,
+					"Child": 31,
+					"Translate": [ -0.098090671, -11.240078, -1.47984064 ]
+				},
+				"def_rightCalf": {
+					"Parent": 30,
+					"Sibling": 32,
+					"Translate": [ -0.970033109, -0.463088632, -9.51681042 ]
+				},
+				"def_rightLeg_twist_033_collisionJNT": {
+					"Parent": 30,
+					"Translate": [ -0.118109696, -0.287422508, -2.23494601 ]
+				},
+				"def_rightUpLeg_bend": {
+					"Parent": 21,
+					"Sibling": 34,
+					"Translate": [ -0.370932728, -42.5046806, 0.890380085 ]
+				},
+				"def_rightUpLeg_twist_100": {
+					"Parent": 21,
+					"Child": 35,
+					"Translate": [ -0.395661592, -45.3383293, 0.949738741 ]
+				},
+				"def_rightUpLeg_twist_050": {
+					"Parent": 34,
+					"Child": 36,
+					"Sibling": 40,
+					"Translate": [ 0.263774395, 30.2255516, -0.633159161 ]
+				},
+				"def_rightSit": {
+					"Parent": 35,
+					"Sibling": 37,
+					"Translate": [ 0.0, 0.0, -2.22044605e-16 ]
+				},
+				"def_rightUpLeg_twist_000": {
+					"Parent": 35,
+					"Child": 38,
+					"Translate": [ 0.131887197, 15.1127758, -0.31657958 ]
+				},
+				"def_rightUpLegBack_collisionJNT": {
+					"Parent": 37,
+					"Sibling": 39,
+					"Translate": [ 4.875144, -0.871933699, -1.72725105 ]
+				},
+				"def_rightUpLegFront_collisionJNT": {
+					"Parent": 37,
+					"Translate": [ 1.90818679, -1.93741572, 2.27075362 ]
+				},
+				"def_rightKnee": {
+					"Parent": 34,
+					"Translate": [ -0.0141426772, -1.62059021, 6.43423653 ]
+				},
+				"def_spine": {
+					"Parent": 0,
+					"Child": 42,
+					"Sibling": 175,
+					"Translate": [ 0.0, 8.14999962, 0.0 ]
+				},
+				"def_spine1": {
+					"Parent": 41,
+					"Child": 43,
+					"Sibling": 172,
+					"Translate": [ 0.0, 12.2200003, 0.0 ]
+				},
+				"def_spine2": {
+					"Parent": 42,
+					"Child": 46,
+					"Sibling": 169,
+					"Translate": [ 0.0, 14.1199999, 0.0 ]
+				},
+				"def_rightSpine2_collisionJNT": {
+					"Parent": 0
+				},
+				"def_leftSpine2_collisionJNT": {
+					"Parent": 0
+				},
+				"def_neck": {
+					"Parent": 43,
+					"Child": 47,
+					"Sibling": 65,
+					"Translate": [ 0.0, 17.7999992, 0.0 ]
+				},
+				"def_neck_twist_050": {
+					"Parent": 46,
+					"Child": 48,
+					"Sibling": 412,
+					"Translate": [ 0.0, 5.41644287, 0.955064952 ]
+				},
+				"def_head": {
+					"Parent": 47,
+					"Child": 49,
+					"Translate": [ 0.0, 5.41644287, 0.955064952 ]
+				},
+				"def_head_custom_jnt": {
+					"Parent": 48,
+					"Child": 50,
+					"Sibling": 64
+				},
+				"def_C_jaw_JNT_NUL": {
+					"Parent": 49,
+					"Child": 51,
+					"Sibling": 58,
+					"Translate": [ 0.0, -0.0527102351, 3.67388582 ]
+				},
+				"def_C_jaw_JNT": {
+					"Parent": 50,
+					"Child": 52,
+					"Sibling": 178
+				},
+				"def_c_lowerTeeth_jnt": {
+					"Parent": 51,
+					"Child": 53
+				},
+				"def_tongue_01_jnt": {
+					"Parent": 52,
+					"Child": 54,
+					"Sibling": 177,
+					"Translate": [ -0.057512939, -1.51091003, 1.76222515 ]
+				},
+				"def_tongue_02_jnt": {
+					"Parent": 53,
+					"Child": 55,
+					"Translate": [ -3.42488289e-4, 1.71018982, 2.17808056 ]
+				},
+				"def_tongue_03_jnt": {
+					"Parent": 54,
+					"Child": 56,
+					"Translate": [ -1.75178051e-4, -0.105819702, 1.44855499 ]
+				},
+				"def_tongue_04_jnt": {
+					"Parent": 55,
+					"Child": 57,
+					"Translate": [ -1.06096268e-4, -0.187225342, 0.918747425 ]
+				},
+				"def_tongue_05_jnt": {
+					"Parent": 56,
+					"Translate": [ -7.76350498e-5, -0.195953369, 0.692588329 ]
+				},
+				"def_L_eyeBall_JNT": {
+					"Parent": 49,
+					"Child": 59,
+					"Sibling": 61,
+					"Translate": [ 2.98218923, 6.69926422, 9.48501396 ]
+				},
+				"def_L_eyeBall_front_helperJNT": {
+					"Parent": 58,
+					"Sibling": 60,
+					"Translate": [ 0.210309088, -3.50229471e-4, 1.79052424 ]
+				},
+				"def_L_eyeBall_top_helperJNT": {
+					"Parent": 58,
+					"Translate": [ -0.0084413914, 1.63627696, -0.00486683752 ]
+				},
+				"def_R_eyeBall_JNT": {
+					"Parent": 49,
+					"Child": 62,
+					"Sibling": 179,
+					"Translate": [ -2.94628502, 6.71596872, 9.35153675 ]
+				},
+				"def_R_eyeBall_front_helperJNT": {
+					"Parent": 61,
+					"Sibling": 63,
+					"Translate": [ -0.210754052, -3.78780009e-4, 1.79047203 ]
+				},
+				"def_R_eyeBall_top_helperJNT": {
+					"Parent": 61,
+					"Translate": [ 0.00830398593, 1.63627899, -0.00486374088 ]
+				},
+				"def_head_end": {
+					"Parent": 48,
+					"Sibling": 194,
+					"Translate": [ 0.0, 17.0, 0.0 ]
+				},
+				"def_leftShoulder": {
+					"Parent": 43,
+					"Child": 66,
+					"Sibling": 107,
+					"Translate": [ 5.69237137, 10.08156147, -0.100412875 ]
+				},
+				"def_leftArm": {
+					"Parent": 65,
+					"Child": 67,
+					"Translate": [ 13.7768259, 2.24548507, -0.256289363 ]
+				},
+				"def_leftDeltoid_helperJNT_002": {
+					"Parent": 66,
+					"Sibling": 68,
+					"Translate": [ -1.25893457e-5, -1.81800715e-6, -1.04228138e-5 ]
+				},
+				"def_leftArm_collisionJNT_001": {
+					"Parent": 66,
+					"Sibling": 69,
+					"Translate": [ -2.47148085, -1.45404375, 1.14783144 ]
+				},
+				"def_leftDeltoid_helperJNT_001": {
+					"Parent": 66,
+					"Sibling": 70,
+					"Translate": [ -1.32000932e-5, 2.54815968e-5, -8.85212285e-6 ]
+				},
+				"def_leftInfraspinatus_helperJNT_001": {
+					"Parent": 66,
+					"Sibling": 71,
+					"Translate": [ 0.506563365, -1.42578971, -7.56310177 ]
+				},
+				"def_leftArm_twist_100": {
+					"Parent": 66,
+					"Child": 72,
+					"Sibling": 80,
+					"Translate": [ 26.5512886, -14.325429, 4.47897291 ]
+				},
+				"def_leftArm_twist_075": {
+					"Parent": 71,
+					"Child": 73,
+					"Sibling": 78,
+					"Translate": [ -10.6205149, 5.73017168, -1.79158914 ]
+				},
+				"def_leftArm_twist_050": {
+					"Parent": 72,
+					"Child": 74,
+					"Sibling": 77,
+					"Translate": [ -5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_leftArm_twist_025": {
+					"Parent": 73,
+					"Child": 75,
+					"Sibling": 76,
+					"Translate": [ -5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_leftArm_twist_000": {
+					"Parent": 74,
+					"Translate": [ -5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_leftTricep": {
+					"Parent": 73,
+					"Translate": [ 2.60005808, -2.01877356, -5.31061125 ]
+				},
+				"def_leftBicepHigh": {
+					"Parent": 72,
+					"Translate": [ -1.14369524, -0.35228467, 6.55213547 ]
+				},
+				"def_leftBicepLow": {
+					"Parent": 71,
+					"Sibling": 79,
+					"Translate": [ -3.57673883, 1.55431414, 4.91341543 ]
+				},
+				"def_leftElbow": {
+					"Parent": 71,
+					"Translate": [ 0.586204112, -1.46353912, -2.81895375 ]
+				},
+				"def_leftForearm": {
+					"Parent": 66,
+					"Child": 81,
+					"Translate": [ 26.5512886, -14.325429, 4.47897291 ]
+				},
+				"def_leftHand": {
+					"Parent": 80,
+					"Child": 82,
+					"Sibling": 103,
+					"Translate": [ 20.2164497, -11.9373484, 12.2900324 ]
+				},
+				"def_l_thumb_1": {
+					"Parent": 81,
+					"Child": 83,
+					"Sibling": 86,
+					"Translate": [ -0.299095631, -1.83690333, 3.99054265 ]
+				},
+				"def_l_thumb_2": {
+					"Parent": 82,
+					"Child": 84,
+					"Translate": [ 1.09028387, -2.14794993, 3.68206358 ]
+				},
+				"def_l_thumb_3": {
+					"Parent": 83,
+					"Child": 85,
+					"Translate": [ 1.67747092, -2.46896362, 1.40723503 ]
+				},
+				"def_l_thumb_4": {
+					"Parent": 84,
+					"Translate": [ 1.74355316, -2.56622577, 1.46267152 ]
+				},
+				"def_l_finger_1_1": {
+					"Parent": 81,
+					"Child": 87,
+					"Sibling": 90,
+					"Translate": [ 6.53898907, -3.14362168, 7.55842972 ]
+				},
+				"def_l_finger_1_2": {
+					"Parent": 86,
+					"Child": 88,
+					"Translate": [ 1.96677041, -3.20523, 1.63349771 ]
+				},
+				"def_l_finger_1_3": {
+					"Parent": 87,
+					"Child": 89,
+					"Translate": [ 0.733174503, -2.71247959, 0.717572153 ]
+				},
+				"def_l_finger_1_4": {
+					"Parent": 88,
+					"Translate": [ 0.466071695, -2.76115608, 0.530371964 ]
+				},
+				"def_l_finger_2_1": {
+					"Parent": 81,
+					"Child": 91,
+					"Sibling": 94,
+					"Translate": [ 8.18438053, -3.25879455, 5.47309494 ]
+				},
+				"def_l_finger_2_2": {
+					"Parent": 90,
+					"Child": 92,
+					"Translate": [ 1.98515356, -3.89959431, 1.71577883 ]
+				},
+				"def_l_finger_2_3": {
+					"Parent": 91,
+					"Child": 93,
+					"Translate": [ 0.422512263, -3.14073801, 0.920461118 ]
+				},
+				"def_l_finger_2_4": {
+					"Parent": 92,
+					"Translate": [ -0.103878677, -2.92421937, 0.661929071 ]
+				},
+				"def_l_hand_edge": {
+					"Parent": 81,
+					"Child": 95,
+					"Translate": [ 2.54993105, -1.35004187, 0.208179131 ]
+				},
+				"def_l_finger_3_1": {
+					"Parent": 94,
+					"Child": 96,
+					"Sibling": 99,
+					"Translate": [ 6.11234951, -2.34586263, 2.72130704 ]
+				},
+				"def_l_finger_3_2": {
+					"Parent": 95,
+					"Child": 97,
+					"Translate": [ 2.12820268, -3.68825674, 1.45514214 ]
+				},
+				"def_l_finger_3_3": {
+					"Parent": 96,
+					"Child": 98,
+					"Translate": [ 0.348767787, -2.95414591, 1.00547683 ]
+				},
+				"def_l_finger_3_4": {
+					"Parent": 97,
+					"Translate": [ -0.0878313333, -3.04392624, 0.983259618 ]
+				},
+				"def_l_finger_4_1": {
+					"Parent": 94,
+					"Child": 100,
+					"Translate": [ 5.54584455, -3.53564715, 0.364426613 ]
+				},
+				"def_l_finger_4_2": {
+					"Parent": 99,
+					"Child": 101,
+					"Translate": [ 1.8492837, -2.9518857, 1.2476058 ]
+				},
+				"def_l_finger_4_3": {
+					"Parent": 100,
+					"Child": 102,
+					"Translate": [ 0.418188214, -2.15240288, 0.975848496 ]
+				},
+				"def_l_finger_4_4": {
+					"Parent": 101,
+					"Translate": [ 0.142350107, -2.08367252, 0.963350952 ]
+				},
+				"def_leftForearm_twist_025": {
+					"Parent": 80,
+					"Child": 104,
+					"Translate": [ 4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_leftForearm_twist_050": {
+					"Parent": 103,
+					"Child": 105,
+					"Translate": [ 4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_leftForearm_twist_075": {
+					"Parent": 104,
+					"Child": 106,
+					"Translate": [ 4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_leftForearm_twist_100": {
+					"Parent": 105,
+					"Translate": [ 4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_rightShoulder": {
+					"Parent": 43,
+					"Child": 108,
+					"Sibling": 149,
+					"Translate": [ -5.69217396, 10.08168354, -0.100409545 ]
+				},
+				"def_rightArm": {
+					"Parent": 107,
+					"Child": 109,
+					"Translate": [ -13.7770233, 2.24536252, -0.256292701 ]
+				},
+				"def_rightDeltoid_helperJNT_002": {
+					"Parent": 108,
+					"Sibling": 110,
+					"Translate": [ 1.25893457e-5, -1.81800726e-6, -1.04228138e-5 ]
+				},
+				"def_rightArm_collisionJNT_001": {
+					"Parent": 108,
+					"Sibling": 111,
+					"Translate": [ 2.47148085, -1.45404375, 1.14783144 ]
+				},
+				"def_rightDeltoid_helperJNT_001": {
+					"Parent": 108,
+					"Sibling": 112,
+					"Translate": [ 1.32000932e-5, 2.54815968e-5, -8.85212285e-6 ]
+				},
+				"def_rightInfraspinatus_helperJNT_001": {
+					"Parent": 108,
+					"Sibling": 113,
+					"Translate": [ -0.506563365, -1.42578971, -7.56310177 ]
+				},
+				"def_rightArm_twist_100": {
+					"Parent": 108,
+					"Child": 114,
+					"Sibling": 122,
+					"Translate": [ -26.5512886, -14.325429, 4.47897291 ]
+				},
+				"def_rightArm_twist_075": {
+					"Parent": 113,
+					"Child": 115,
+					"Sibling": 120,
+					"Translate": [ 10.6205149, 5.73017168, -1.79158914 ]
+				},
+				"def_rightArm_twist_050": {
+					"Parent": 114,
+					"Child": 116,
+					"Sibling": 119,
+					"Translate": [ 5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_rightArm_twist_025": {
+					"Parent": 115,
+					"Child": 117,
+					"Sibling": 118,
+					"Translate": [ 5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_rightArm_twist_000": {
+					"Parent": 116,
+					"Translate": [ 5.31025743, 2.86508584, -0.89579457 ]
+				},
+				"def_rightTricep": {
+					"Parent": 115,
+					"Translate": [ -2.60005808, -2.01877356, -5.31061125 ]
+				},
+				"def_rightBicepHigh": {
+					"Parent": 114,
+					"Translate": [ 1.14369524, -0.35228467, 6.55213547 ]
+				},
+				"def_rightBicepLow": {
+					"Parent": 113,
+					"Sibling": 121,
+					"Translate": [ 3.57673883, 1.55431414, 4.91341543 ]
+				},
+				"def_rightElbow": {
+					"Parent": 113,
+					"Translate": [ -0.586204112, -1.46353912, -2.81895375 ]
+				},
+				"def_rightForearm": {
+					"Parent": 108,
+					"Child": 123,
+					"Translate": [ -26.5512886, -14.325429, 4.47897291 ]
+				},
+				"def_rightHand": {
+					"Parent": 122,
+					"Child": 124,
+					"Sibling": 145,
+					"Translate": [ -20.2164497, -11.9373484, 12.2900324 ]
+				},
+				"def_r_thumb_1": {
+					"Parent": 123,
+					"Child": 125,
+					"Sibling": 128,
+					"Translate": [ 0.298887908, -1.83696473, 3.99014115 ]
+				},
+				"def_r_thumb_2": {
+					"Parent": 124,
+					"Child": 126,
+					"Translate": [ -1.09029853, -2.14797878, 3.68211293 ]
+				},
+				"def_r_thumb_3": {
+					"Parent": 125,
+					"Child": 127,
+					"Translate": [ -1.67748475, -2.46898389, 1.40724659 ]
+				},
+				"def_r_thumb_4": {
+					"Parent": 126,
+					"Translate": [ -1.74349999, -2.56599998, 1.46270001 ]
+				},
+				"def_r_finger_1_1": {
+					"Parent": 123,
+					"Child": 129,
+					"Sibling": 132,
+					"Translate": [ -6.53898907, -3.14362168, 7.55842972 ]
+				},
+				"def_r_finger_1_2": {
+					"Parent": 128,
+					"Child": 130,
+					"Translate": [ -1.96691132, -3.20509291, 1.63359702 ]
+				},
+				"def_r_finger_1_3": {
+					"Parent": 129,
+					"Child": 131,
+					"Translate": [ -0.733064473, -2.71207237, 0.717464447 ]
+				},
+				"def_r_finger_1_4": {
+					"Parent": 130,
+					"Translate": [ -0.465999991, -2.76099992, 0.530399978 ]
+				},
+				"def_r_finger_2_1": {
+					"Parent": 123,
+					"Child": 133,
+					"Sibling": 136,
+					"Translate": [ -8.18438053, -3.25879455, 5.47309494 ]
+				},
+				"def_r_finger_2_2": {
+					"Parent": 132,
+					"Child": 134,
+					"Translate": [ -1.98505437, -3.89912486, 1.71568477 ]
+				},
+				"def_r_finger_2_3": {
+					"Parent": 133,
+					"Child": 135,
+					"Translate": [ -0.422541797, -3.14095759, 0.920525491 ]
+				},
+				"def_r_finger_2_4": {
+					"Parent": 134,
+					"Translate": [ 0.1039, -2.92400002, 0.662 ]
+				},
+				"def_r_hand_edge": {
+					"Parent": 123,
+					"Child": 137,
+					"Translate": [ -2.54993105, -1.35004187, 0.208179131 ]
+				},
+				"def_r_finger_3_1": {
+					"Parent": 136,
+					"Child": 138,
+					"Sibling": 141,
+					"Translate": [ -6.11229992, -2.34599996, 2.72129989 ]
+				},
+				"def_r_finger_3_2": {
+					"Parent": 137,
+					"Child": 139,
+					"Translate": [ -2.12804437, -3.68811297, 1.45504141 ]
+				},
+				"def_r_finger_3_3": {
+					"Parent": 138,
+					"Child": 140,
+					"Translate": [ -0.34875375, -2.95402718, 1.00543642 ]
+				},
+				"def_r_finger_3_4": {
+					"Parent": 139,
+					"Translate": [ 0.0878000036, -3.04399991, 0.983299971 ]
+				},
+				"def_r_finger_4_1": {
+					"Parent": 136,
+					"Child": 142,
+					"Translate": [ -5.54580021, -3.53500009, 0.364399999 ]
+				},
+				"def_r_finger_4_2": {
+					"Parent": 141,
+					"Child": 143,
+					"Translate": [ -1.84933233, -2.95196342, 1.2476387 ]
+				},
+				"def_r_finger_4_3": {
+					"Parent": 142,
+					"Child": 144,
+					"Translate": [ -0.418188214, -2.15240288, 0.975848496 ]
+				},
+				"def_r_finger_4_4": {
+					"Parent": 143,
+					"Translate": [ -0.142299995, -2.08299994, 0.96329999 ]
+				},
+				"def_rightForearm_twist_025": {
+					"Parent": 122,
+					"Child": 146,
+					"Translate": [ -4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_rightForearm_twist_050": {
+					"Parent": 145,
+					"Child": 147,
+					"Translate": [ -4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_rightForearm_twist_075": {
+					"Parent": 146,
+					"Child": 148,
+					"Translate": [ -4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_rightForearm_twist_100": {
+					"Parent": 147,
+					"Translate": [ -4.04329014, -2.38746977, 2.45800662 ]
+				},
+				"def_leftPectoralA": {
+					"Parent": 43,
+					"Child": 150,
+					"Sibling": 151,
+					"Translate": [ 1.59000373, 2.06747177e-6, 16.7189999 ]
+				},
+				"def_leftPectoralB": {
+					"Parent": 149,
+					"Translate": [ 2.35511255, 0.869546294, -1.6432693 ]
+				},
+				"def_rightPectoralA": {
+					"Parent": 43,
+					"Child": 152,
+					"Sibling": 153,
+					"Translate": [ -1.59000373, 2.06747177e-6, 16.7189999 ]
+				},
+				"def_rightPectoralB": {
+					"Parent": 151,
+					"Translate": [ -2.35511255, 0.869546294, -1.6432693 ]
+				},
+				"def_leftLatissimus_aimJNT_001": {
+					"Parent": 43,
+					"Child": 154,
+					"Sibling": 155,
+					"Translate": [ 12.0, -16.0, -4.0 ]
+				},
+				"def_leftLatissimus_helperJNT_001": {
+					"Parent": 153,
+					"Translate": [ 0.781889617, 2.8710978, 0.381383657 ]
+				},
+				"def_rightLatissimus_aimJNT_001": {
+					"Parent": 43,
+					"Child": 156,
+					"Sibling": 157,
+					"Translate": [ -12.0, -16.0, -4.0 ]
+				},
+				"def_rightLatissimus_helperJNT_001": {
+					"Parent": 155,
+					"Translate": [ -0.781889617, 2.8710978, 0.381383657 ]
+				},
+				"def_leftLatissimus_collisionJNT_001": {
+					"Parent": 43,
+					"Sibling": 158,
+					"Translate": [ 7.29999685, 1.5, -0.400000364 ]
+				},
+				"def_rightLatissimus_collisionJNT_001": {
+					"Parent": 43,
+					"Sibling": 159,
+					"Translate": [ -7.29999685, 1.5, -0.400000364 ]
+				},
+				"def_leftShoulder_aimJNT_001": {
+					"Parent": 43,
+					"Child": 160,
+					"Sibling": 161,
+					"Translate": [ 5.69199753, 9.18200207, -0.0999981165 ]
+				},
+				"def_leftShoulder_sliderJNT_001": {
+					"Parent": 159,
+					"Translate": [ 6.88856411, 1.12276721, -0.128147498 ]
+				},
+				"def_rightShoulder_aimJNT_001": {
+					"Parent": 43,
+					"Child": 162,
+					"Sibling": 163,
+					"Translate": [ -5.69199753, 9.18200207, -0.0999981165 ]
+				},
+				"def_rightShoulder_sliderJNT_001": {
+					"Parent": 161,
+					"Translate": [ -6.88857603, 1.12269187, -0.128147557 ]
+				},
+				"def_leftSpine2_collisionJNT_001": {
+					"Parent": 43,
+					"Sibling": 164,
+					"Translate": [ 5.29999971, -0.999997199, 2.00000215 ]
+				},
+				"def_rightSpine2_collisionJNT_001": {
+					"Parent": 43,
+					"Sibling": 165,
+					"Translate": [ -5.29999971, -0.999997199, 2.00000215 ]
+				},
+				"def_leftTrapezius_aimJNT_001": {
+					"Parent": 43,
+					"Child": 166,
+					"Sibling": 167,
+					"Translate": [ 3.70799994, 22.1940002, -2.18300009 ]
+				},
+				"def_leftTrapezius_aimJNT_001_end": {
+					"Parent": 165,
+					"Translate": [ 8.21968937, -5.61511993, 0.952440321 ]
+				},
+				"def_rightTrapezius_aimJNT_001": {
+					"Parent": 43,
+					"Child": 168,
+					"Translate": [ -3.70799994, 22.1940002, -2.18300009 ]
+				},
+				"def_rightTrapezius_aimJNT_001_end": {
+					"Parent": 167,
+					"Translate": [ -8.21968937, -5.61511993, 0.952440321 ]
+				},
+				"def_leftSpine1_collisionJNT": {
+					"Parent": 42,
+					"Sibling": 170,
+					"Translate": [ 2.89599991, 2.27600002, 1.64100003 ]
+				},
+				"def_middleSpine1_collisionJNT": {
+					"Parent": 42,
+					"Sibling": 171,
+					"Translate": [ 0.0, 5.42500019, 2.08999991 ]
+				},
+				"def_rightSpine1_collisionJNT": {
+					"Parent": 42,
+					"Translate": [ -2.89599991, 2.27600002, 1.64100003 ]
+				},
+				"def_leftSpine_collisionJNT": {
+					"Parent": 41,
+					"Sibling": 173,
+					"Translate": [ 5.34700012, -0.510999978, 2.74099994 ]
+				},
+				"def_middleSpine_collisionJNT": {
+					"Parent": 41,
+					"Sibling": 174,
+					"Translate": [ 0.0, -1.49800003, 2.85599995 ]
+				},
+				"def_rightSpine_collisionJNT": {
+					"Parent": 41,
+					"Translate": [ -5.34700012, -0.510999978, 2.74099994 ]
+				},
+				"def_pelvis": {
+					"Parent": 0,
+					"Sibling": 176,
+					"Translate": [ 0.0, -11.9998007, 0.0 ]
+				},
+				"def_middleHips_collisionJNT": {
+					"Parent": 0,
+					"Translate": [ 0.0, -11.9997559, 2.00007319 ]
+				},
+				"mouthIllum_lower_teeth_local_pos": {
+					"Parent": 52,
+					"Translate": [ -0.0529760122, 0.388786316, 7.88150024 ]
+				},
+				"mouthIllum_upper_teeth_local_pos": {
+					"Parent": 50,
+					"Translate": [ -0.0529760122, 0.388786316, 7.88150024 ]
+				},
+				"mouthIllum_between_teeth_local_pos": {
+					"Parent": 49,
+					"Sibling": 180,
+					"Translate": [ -0.0529760122, 0.336076081, 11.5553865 ]
+				},
+				"mouthIllum_throat_point_local_pos": {
+					"Parent": 49,
+					"Sibling": 181,
+					"Translate": [ -0.0529760122, 0.336076081, 1.55538619 ]
+				},
+				"lip_cntr_uppr": {
+					"Parent": 49,
+					"Sibling": 182,
+					"Translate": [ -0.0595292859, 0.273766816, 12.5197067 ]
+				},
+				"lip_cntr_lwr": {
+					"Parent": 49,
+					"Sibling": 183,
+					"Translate": [ -0.0633192733, 0.204980195, 12.2277088 ]
+				},
+				"lips_crnr_r": {
+					"Parent": 49,
+					"Sibling": 184,
+					"Translate": [ -2.36290741, -0.110891998, 10.948225 ]
+				},
+				"lips_crnr_l": {
+					"Parent": 49,
+					"Sibling": 185,
+					"Translate": [ 2.37159634, 0.05622226, 10.9191322 ]
+				},
+				"l_eye_cntr_uppr": {
+					"Parent": 49,
+					"Sibling": 186,
+					"Translate": [ 3.0470283, 6.93644094, 11.0203991 ]
+				},
+				"l_eye_cntr_lwr": {
+					"Parent": 49,
+					"Sibling": 187,
+					"Translate": [ 3.08042526, 6.1323638, 10.8198967 ]
+				},
+				"l_eye_crnr_r": {
+					"Parent": 49,
+					"Sibling": 188,
+					"Translate": [ 2.00584841, 6.40046072, 10.6186113 ]
+				},
+				"l_eye_crnr_l": {
+					"Parent": 49,
+					"Sibling": 189,
+					"Translate": [ 4.26166964, 6.40281057, 10.3334818 ]
+				},
+				"r_eye_cntr_uppr": {
+					"Parent": 49,
+					"Sibling": 190,
+					"Translate": [ -2.99574661, 6.91753531, 11.0015478 ]
+				},
+				"r_eye_cntr_lwr": {
+					"Parent": 49,
+					"Sibling": 191,
+					"Translate": [ -3.02867985, 6.05866385, 10.8320599 ]
+				},
+				"r_eye_crnr_r": {
+					"Parent": 49,
+					"Sibling": 192,
+					"Translate": [ -4.23722887, 6.34098196, 10.3287296 ]
+				},
+				"r_eye_crnr_l": {
+					"Parent": 49,
+					"Sibling": 193,
+					"Translate": [ -1.99928284, 6.2802825, 10.6475916 ]
+				},
+				"eyeIllum_head_direction_pos": {
+					"Parent": 49,
+					"Translate": [ -0.0529760122, 0.336076081, 11.5553865 ]
+				},
+				"def_bregma": {
+					"Parent": 48,
+					"Sibling": 195,
+					"Translate": [ -0.0296288505, 17.464304, 6.24552584 ]
+				},
+				"def_bridge": {
+					"Parent": 48,
+					"Child": 196,
+					"Sibling": 202,
+					"Translate": [ -9.71850124e-4, 6.56498098, 12.7813263 ]
+				},
+				"def_leftStem": {
+					"Parent": 195,
+					"Sibling": 197,
+					"Translate": [ 7.94763088, 0.0, -1.77635684e-15 ]
+				},
+				"def_leftStemTemple": {
+					"Parent": 195,
+					"Sibling": 198,
+					"Translate": [ 8.33278656, 0.229011536, -5.65968561 ]
+				},
+				"def_leftStemTip": {
+					"Parent": 195,
+					"Sibling": 199,
+					"Translate": [ 7.94763088, 0.458023071, -11.3193712 ]
+				},
+				"def_rightStem": {
+					"Parent": 195,
+					"Sibling": 200,
+					"Translate": [ -8.06953144, 0.0, -1.77635684e-15 ]
+				},
+				"def_rightStemTemple": {
+					"Parent": 195,
+					"Sibling": 201,
+					"Translate": [ -8.54929829, 0.345169067, -5.62053204 ]
+				},
+				"def_rightStemTip": {
+					"Parent": 195,
+					"Translate": [ -8.06953144, 0.690338135, -11.2410641 ]
+				},
+				"def_columella": {
+					"Parent": 48,
+					"Sibling": 203,
+					"Translate": [ -0.0378015712, 2.60416532, 13.9516239 ]
+				},
+				"def_frontal": {
+					"Parent": 48,
+					"Sibling": 204,
+					"Translate": [ -0.052335307, 11.2303095, 11.9594603 ]
+				},
+				"def_glabella": {
+					"Parent": 48,
+					"Sibling": 205,
+					"Translate": [ -0.0572199598, 8.01226139, 12.6066332 ]
+				},
+				"def_gnathion": {
+					"Parent": 48,
+					"Sibling": 206,
+					"Translate": [ -0.0186896101, -4.57410288, 12.6858807 ]
+				},
+				"def_inion": {
+					"Parent": 48,
+					"Sibling": 207,
+					"Translate": [ 0.0933075324, 6.05750418, -7.48478174 ]
+				},
+				"def_leftAccessoryNasalCartilage": {
+					"Parent": 48,
+					"Sibling": 208,
+					"Translate": [ 0.88784945, 4.60148001, 13.4654312 ]
+				},
+				"def_leftAlarFibrofattyTissue": {
+					"Parent": 48,
+					"Sibling": 209,
+					"Translate": [ 1.68835068, 3.43004727, 12.6561508 ]
+				},
+				"def_leftAntihelix": {
+					"Parent": 48,
+					"Sibling": 210,
+					"Translate": [ 9.67599392, 4.55858755, 1.09692228 ]
+				},
+				"def_leftAntitragus": {
+					"Parent": 48,
+					"Sibling": 211,
+					"Translate": [ 8.32173443, 2.29587674, 1.98258626 ]
+				},
+				"def_leftAsterion": {
+					"Parent": 48,
+					"Sibling": 212,
+					"Translate": [ 6.59206104, 6.1661315, -4.04138947 ]
+				},
+				"def_leftBackHatband_001": {
+					"Parent": 48,
+					"Sibling": 213,
+					"Translate": [ 7.68539667, 7.05054617, -1.26652038 ]
+				},
+				"def_leftBackHatband_002": {
+					"Parent": 48,
+					"Sibling": 214,
+					"Translate": [ 6.0228796, 6.27822256, -4.7870822 ]
+				},
+				"def_leftBackHatband_003": {
+					"Parent": 48,
+					"Sibling": 215,
+					"Translate": [ 3.69681239, 5.89270926, -6.52471018 ]
+				},
+				"def_leftBuccinator": {
+					"Parent": 48,
+					"Sibling": 216,
+					"Translate": [ 3.10294151, 0.441598237, 11.460722 ]
+				},
+				"def_leftCondyloidProcess": {
+					"Parent": 48,
+					"Sibling": 217,
+					"Translate": [ 8.08546734, 3.8331387, 4.48477221 ]
+				},
+				"def_leftCoronalSuture": {
+					"Parent": 48,
+					"Sibling": 218,
+					"Translate": [ 6.91584206, 12.5516748, 6.26047277 ]
+				},
+				"def_leftCoronoidProcess": {
+					"Parent": 48,
+					"Sibling": 219,
+					"Translate": [ 6.82740879, 1.56037271, 8.95201015 ]
+				},
+				"def_leftDepressorAnguliOris": {
+					"Parent": 48,
+					"Sibling": 220,
+					"Translate": [ 3.07365489, -1.2694155, 11.2840033 ]
+				},
+				"def_leftDepressorLabiiInferioris": {
+					"Parent": 48,
+					"Sibling": 221,
+					"Translate": [ 1.61036646, -1.44945395, 12.1332664 ]
+				},
+				"def_leftDigastricFossa": {
+					"Parent": 48,
+					"Sibling": 222,
+					"Translate": [ 1.82044387, -4.63005686, 11.5971537 ]
+				},
+				"def_leftEarHatband_001": {
+					"Parent": 48,
+					"Sibling": 223,
+					"Translate": [ 7.89057064, 7.88874197, 2.35052347 ]
+				},
+				"def_leftEctocanthion": {
+					"Parent": 48,
+					"Sibling": 224,
+					"Translate": [ 4.570436, 6.51516104, 10.2882299 ]
+				},
+				"def_leftEndocanthion": {
+					"Parent": 48,
+					"Sibling": 225,
+					"Translate": [ 1.68199134, 6.49636221, 10.5942221 ]
+				},
+				"def_leftEyelidInner": {
+					"Parent": 48,
+					"Sibling": 226,
+					"Translate": [ 1.95340967, 7.44851065, 11.6728401 ]
+				},
+				"def_leftEyelidMid": {
+					"Parent": 48,
+					"Sibling": 227,
+					"Translate": [ 3.80635548, 7.60746145, 11.8025055 ]
+				},
+				"def_leftEyelidOuter": {
+					"Parent": 48,
+					"Sibling": 228,
+					"Translate": [ 5.32660389, 6.99274588, 10.618248 ]
+				},
+				"def_leftFrontHatband_001": {
+					"Parent": 48,
+					"Sibling": 229,
+					"Translate": [ 3.10631919, 10.1508875, 11.7304583 ]
+				},
+				"def_leftFrontHatband_002": {
+					"Parent": 48,
+					"Sibling": 230,
+					"Translate": [ 6.00798893, 9.55855656, 9.40255928 ]
+				},
+				"def_leftFrontHatband_003": {
+					"Parent": 48,
+					"Sibling": 231,
+					"Translate": [ 7.32733631, 8.73629093, 6.06000757 ]
+				},
+				"def_leftFrontalEminence": {
+					"Parent": 48,
+					"Sibling": 232,
+					"Translate": [ 3.9089613, 11.7985163, 10.5077763 ]
+				},
+				"def_leftFrontalProcess": {
+					"Parent": 48,
+					"Sibling": 233,
+					"Translate": [ 6.46816778, 5.9652648, 9.00418091 ]
+				},
+				"def_leftFrontalSquama": {
+					"Parent": 48,
+					"Sibling": 234,
+					"Translate": [ 2.17246556, 14.6004114, 9.89769173 ]
+				},
+				"def_leftFrontomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 235,
+					"Translate": [ 0.925642729, 6.94390249, 11.8533821 ]
+				},
+				"def_leftFrontozygomaticSuture": {
+					"Parent": 48,
+					"Sibling": 236,
+					"Translate": [ 6.02072144, 7.21117544, 9.93273449 ]
+				},
+				"def_leftGonialAngle": {
+					"Parent": 48,
+					"Sibling": 237,
+					"Translate": [ 7.02916288, -1.92310202, 3.65775061 ]
+				},
+				"def_leftHelix": {
+					"Parent": 48,
+					"Sibling": 238,
+					"Translate": [ 10.5423956, 6.23565054, 0.242554024 ]
+				},
+				"def_leftHelixCauda": {
+					"Parent": 48,
+					"Sibling": 239,
+					"Translate": [ 9.3692646, 2.44725919, 0.769474328 ]
+				},
+				"def_leftHelixCrus": {
+					"Parent": 48,
+					"Sibling": 240,
+					"Translate": [ 7.60498095, 4.23568106, 1.25966179 ]
+				},
+				"def_leftInferiorLabialCommisure": {
+					"Parent": 48,
+					"Sibling": 241,
+					"Translate": [ 2.27621841, -0.141638458, 11.3066072 ]
+				},
+				"def_leftInferiorNuchalLine": {
+					"Parent": 48,
+					"Sibling": 242,
+					"Translate": [ 3.39132619, 3.25991178, -6.0676403 ]
+				},
+				"def_leftInferiorTarsus": {
+					"Parent": 48,
+					"Sibling": 243,
+					"Translate": [ 3.31622601, 6.08716726, 10.8607006 ]
+				},
+				"def_leftInferiorTemporalLine": {
+					"Parent": 48,
+					"Sibling": 244,
+					"Translate": [ 6.20109272, 10.6170282, 8.67254639 ]
+				},
+				"def_leftInfraorbitalForamen": {
+					"Parent": 48,
+					"Sibling": 245,
+					"Translate": [ 3.30397773, 4.18683767, 11.3620958 ]
+				},
+				"def_leftInfreriorOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 246,
+					"Translate": [ 2.49492383, 5.02208853, 11.1116486 ]
+				},
+				"def_leftLamdoidSuture": {
+					"Parent": 48,
+					"Sibling": 247,
+					"Translate": [ 4.94497967, 10.273797, -6.17407942 ]
+				},
+				"def_leftLateralNasalCartilage": {
+					"Parent": 48,
+					"Sibling": 248,
+					"Translate": [ 0.814111769, 5.42304373, 12.7303848 ]
+				},
+				"def_leftLateralOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 249,
+					"Translate": [ 5.08565331, 5.11835623, 10.3655834 ]
+				},
+				"def_leftLateralSupraorbitalRidge": {
+					"Parent": 48,
+					"Sibling": 250,
+					"Translate": [ 5.42736673, 8.0134058, 11.0667429 ]
+				},
+				"def_leftLevatorLabiiSuperiorisAlaequeNasi": {
+					"Parent": 48,
+					"Sibling": 251,
+					"Translate": [ 2.00720382, 1.63764322, 11.8548079 ]
+				},
+				"def_leftLobe": {
+					"Parent": 48,
+					"Sibling": 252,
+					"Translate": [ 8.33863449, 1.06002176, 2.63258886 ]
+				},
+				"def_leftMajorAlarCartilage": {
+					"Parent": 48,
+					"Sibling": 253,
+					"Translate": [ 0.940756798, 3.63094449, 14.203783 ]
+				},
+				"def_leftMandibularAlveolarProcess": {
+					"Parent": 48,
+					"Sibling": 254,
+					"Translate": [ 5.0198245, -1.60056174, 10.1629486 ]
+				},
+				"def_leftMandibularInferiorBorder": {
+					"Parent": 48,
+					"Sibling": 255,
+					"Translate": [ 4.65654182, -4.15009165, 8.07950497 ]
+				},
+				"def_leftMassetericFossa": {
+					"Parent": 48,
+					"Sibling": 256,
+					"Translate": [ 6.96022415, -1.24539816, 6.43034697 ]
+				},
+				"def_leftMassetericTuberosity": {
+					"Parent": 48,
+					"Sibling": 257,
+					"Translate": [ 7.43537235, -0.231650054, 3.21516562 ]
+				},
+				"def_leftMastoidProcess": {
+					"Parent": 48,
+					"Sibling": 258,
+					"Translate": [ 6.7907939, 1.94278848, -1.08496022 ]
+				},
+				"def_leftMaxilla": {
+					"Parent": 48,
+					"Sibling": 259,
+					"Translate": [ 3.20011997, 2.63909268, 11.7906466 ]
+				},
+				"def_leftMaxillaryAlveolarProcess": {
+					"Parent": 48,
+					"Sibling": 260,
+					"Translate": [ 4.6595068, 1.12534463, 11.1992741 ]
+				},
+				"def_leftMedialOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 261,
+					"Translate": [ 1.04205298, 6.35209036, 11.4399118 ]
+				},
+				"def_leftMedialSupraorbitalRidge": {
+					"Parent": 48,
+					"Sibling": 262,
+					"Translate": [ 3.86835718, 8.75266361, 11.9726887 ]
+				},
+				"def_leftMentalForamen": {
+					"Parent": 48,
+					"Sibling": 263,
+					"Translate": [ 2.54338884, -2.04791903, 11.8203335 ]
+				},
+				"def_leftMentalTubercle": {
+					"Parent": 48,
+					"Sibling": 264,
+					"Translate": [ 1.02115381, -3.15766025, 13.1921101 ]
+				},
+				"def_leftMinorAlarCartilage": {
+					"Parent": 48,
+					"Sibling": 265,
+					"Translate": [ 1.29958987, 4.60167837, 12.265131 ]
+				},
+				"def_leftNasal": {
+					"Parent": 48,
+					"Sibling": 266,
+					"Translate": [ 0.624422431, 6.32367849, 12.6148205 ]
+				},
+				"def_leftNasomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 267,
+					"Translate": [ 1.2794044, 5.41495657, 11.8694534 ]
+				},
+				"def_leftObliqueLine": {
+					"Parent": 48,
+					"Sibling": 268,
+					"Translate": [ 6.44138241, -0.940466583, 8.60864067 ]
+				},
+				"def_leftOccipitomastoidSuture": {
+					"Parent": 48,
+					"Sibling": 269,
+					"Translate": [ 6.51705313, 3.47477078, -3.32491159 ]
+				},
+				"def_leftOrbitofrontalCortex": {
+					"Parent": 48,
+					"Sibling": 270,
+					"Translate": [ 2.43756819, 10.0386896, 12.1500473 ]
+				},
+				"def_leftParietal": {
+					"Parent": 48,
+					"Sibling": 271,
+					"Translate": [ 4.12486124, 16.6281681, -1.31172884 ]
+				},
+				"def_leftParietalEminence": {
+					"Parent": 48,
+					"Sibling": 272,
+					"Translate": [ 7.58568811, 12.6310205, -0.690504253 ]
+				},
+				"def_leftParietalForamen": {
+					"Parent": 48,
+					"Sibling": 273,
+					"Translate": [ 1.62939918, 14.6104364, -5.90310287 ]
+				},
+				"def_leftPterion": {
+					"Parent": 48,
+					"Sibling": 274,
+					"Translate": [ 7.48190212, 8.47959232, 5.301373 ]
+				},
+				"def_leftRamus": {
+					"Parent": 48,
+					"Sibling": 275,
+					"Translate": [ 7.56200171, 1.37177408, 6.60411406 ]
+				},
+				"def_leftRetroauricular": {
+					"Parent": 48,
+					"Sibling": 276,
+					"Translate": [ 7.75391293, 6.00069571, 0.255305827 ]
+				},
+				"def_leftScapha": {
+					"Parent": 48,
+					"Sibling": 277,
+					"Translate": [ 9.83138371, 5.15529776, 0.372218192 ]
+				},
+				"def_leftSphenoFrontalSuture": {
+					"Parent": 48,
+					"Sibling": 278,
+					"Translate": [ 6.65896559, 7.87384939, 8.36760521 ]
+				},
+				"def_leftSphenoid": {
+					"Parent": 48,
+					"Sibling": 279,
+					"Translate": [ 7.33652925, 6.55666494, 7.14994192 ]
+				},
+				"def_leftSquamousSuture": {
+					"Parent": 48,
+					"Sibling": 280,
+					"Translate": [ 7.96791697, 9.09600163, -0.181054756 ]
+				},
+				"def_leftStyloidProcess": {
+					"Parent": 48,
+					"Sibling": 281,
+					"Translate": [ 7.01788807, 1.14605081, 1.089486 ]
+				},
+				"def_leftSubmandibularTriangle": {
+					"Parent": 48,
+					"Sibling": 282,
+					"Translate": [ 2.77750564, -5.24190378, 8.91457748 ]
+				},
+				"def_leftSuperficialTemporalArtery": {
+					"Parent": 48,
+					"Sibling": 283,
+					"Translate": [ 7.79054689, 6.24524832, 3.82508039 ]
+				},
+				"def_leftSuperiorAuricular": {
+					"Parent": 48,
+					"Sibling": 284,
+					"Translate": [ 7.89913416, 7.05782461, 2.03099871 ]
+				},
+				"def_leftSuperiorNuchalLine": {
+					"Parent": 48,
+					"Sibling": 285,
+					"Translate": [ 3.25067306, 5.71343374, -6.72585869 ]
+				},
+				"def_leftSuperiorTarsus": {
+					"Parent": 48,
+					"Sibling": 286,
+					"Translate": [ 3.27784491, 6.93265676, 11.1034107 ]
+				},
+				"def_leftSuperiorTemporalLine": {
+					"Parent": 48,
+					"Sibling": 287,
+					"Translate": [ 6.29919243, 15.1646204, 3.32067966 ]
+				},
+				"def_leftSupraorbitalForamen": {
+					"Parent": 48,
+					"Sibling": 288,
+					"Translate": [ 2.05917239, 7.94536734, 12.5515232 ]
+				},
+				"def_leftSupremeNuchalLine": {
+					"Parent": 48,
+					"Sibling": 289,
+					"Translate": [ 2.6236279, 7.32923269, -7.39399242 ]
+				},
+				"def_leftTemporal": {
+					"Parent": 48,
+					"Sibling": 290,
+					"Translate": [ 7.8724432, 9.07607365, 2.80653667 ]
+				},
+				"def_leftTemporalProcess": {
+					"Parent": 48,
+					"Sibling": 291,
+					"Translate": [ 6.21854782, 3.25449491, 9.8697834 ]
+				},
+				"def_leftTemporalis": {
+					"Parent": 48,
+					"Sibling": 292,
+					"Translate": [ 7.90835238, 11.7141809, 2.1704731 ]
+				},
+				"def_leftTragus": {
+					"Parent": 48,
+					"Sibling": 293,
+					"Translate": [ 7.80877209, 3.57772183, 2.81395102 ]
+				},
+				"def_leftTriangularFossa": {
+					"Parent": 48,
+					"Sibling": 294,
+					"Translate": [ 9.42770004, 5.78864431, 1.23854077 ]
+				},
+				"def_leftZygomatic": {
+					"Parent": 48,
+					"Sibling": 295,
+					"Translate": [ 6.3612318, 4.46404409, 9.59712029 ]
+				},
+				"def_leftZygomaticArch": {
+					"Parent": 48,
+					"Sibling": 296,
+					"Translate": [ 7.91539764, 4.42055655, 6.24095201 ]
+				},
+				"def_leftZygomaticProcess": {
+					"Parent": 48,
+					"Sibling": 297,
+					"Translate": [ 7.55428839, 3.25115323, 7.42694807 ]
+				},
+				"def_leftZygomaticoOrbitalForamen": {
+					"Parent": 48,
+					"Sibling": 298,
+					"Translate": [ 5.61380529, 6.11802053, 9.68622303 ]
+				},
+				"def_leftZygomaticofacialForamen": {
+					"Parent": 48,
+					"Sibling": 299,
+					"Translate": [ 5.00118446, 3.75003934, 10.8688278 ]
+				},
+				"def_leftZygomaticomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 300,
+					"Translate": [ 3.99315977, 4.66292715, 10.9546947 ]
+				},
+				"def_medianNuchalLine": {
+					"Parent": 48,
+					"Sibling": 301,
+					"Translate": [ 0.117357433, 3.61860013, -6.92729092 ]
+				},
+				"def_mentalProtuberance": {
+					"Parent": 48,
+					"Sibling": 302,
+					"Translate": [ -0.0096273236, -3.16680026, 13.1975889 ]
+				},
+				"def_mentolabial": {
+					"Parent": 48,
+					"Sibling": 303,
+					"Translate": [ -0.041537229, -1.58904135, 12.5453644 ]
+				},
+				"def_metopicSuture": {
+					"Parent": 48,
+					"Sibling": 304,
+					"Translate": [ -0.0581073649, 9.56231022, 12.6618853 ]
+				},
+				"def_middleBackHatband_001": {
+					"Parent": 48,
+					"Sibling": 305,
+					"Translate": [ -0.0867234915, 5.73504019, -7.39092588 ]
+				},
+				"def_middleFrontHatband_001": {
+					"Parent": 48,
+					"Sibling": 306,
+					"Translate": [ -0.0416321605, 10.3017054, 12.354311 ]
+				},
+				"def_nasalBase": {
+					"Parent": 48,
+					"Sibling": 307,
+					"Translate": [ -0.0286249295, 2.26230741, 13.0300798 ]
+				},
+				"def_nasalTip": {
+					"Parent": 48,
+					"Sibling": 308,
+					"Translate": [ 0.003858821, 3.49814725, 14.6928711 ]
+				},
+				"def_oralFissure": {
+					"Parent": 48,
+					"Sibling": 309,
+					"Translate": [ -0.0633192733, 0.204980195, 12.2277088 ]
+				},
+				"def_philtrum": {
+					"Parent": 48,
+					"Sibling": 310,
+					"Translate": [ -0.0448182076, 1.50005472, 12.7980909 ]
+				},
+				"def_pogonion": {
+					"Parent": 48,
+					"Sibling": 311,
+					"Translate": [ -0.0172903799, -2.30461764, 12.9823322 ]
+				},
+				"def_radix": {
+					"Parent": 48,
+					"Sibling": 312,
+					"Translate": [ -0.0171053093, 6.9936614, 12.5802069 ]
+				},
+				"def_rhinon": {
+					"Parent": 48,
+					"Sibling": 313,
+					"Translate": [ 0.0318810232, 5.79038382, 13.1734438 ]
+				},
+				"def_rightAccessoryNasalCartilage": {
+					"Parent": 48,
+					"Sibling": 314,
+					"Translate": [ -0.841921329, 4.5156188, 13.4545383 ]
+				},
+				"def_rightAlarFibrofattyTissue": {
+					"Parent": 48,
+					"Sibling": 315,
+					"Translate": [ -1.82394862, 3.38346219, 12.6817341 ]
+				},
+				"def_rightAntihelix": {
+					"Parent": 48,
+					"Sibling": 316,
+					"Translate": [ -9.36420441, 4.65264273, 1.37810147 ]
+				},
+				"def_rightAntitragus": {
+					"Parent": 48,
+					"Sibling": 317,
+					"Translate": [ -8.06904316, 2.34974027, 2.1733408 ]
+				},
+				"def_rightAsterion": {
+					"Parent": 48,
+					"Sibling": 318,
+					"Translate": [ -6.43349552, 6.21058035, -3.94991446 ]
+				},
+				"def_rightBackHatband_001": {
+					"Parent": 48,
+					"Sibling": 319,
+					"Translate": [ -7.78066635, 7.24143362, -1.21955395 ]
+				},
+				"def_rightBackHatband_002": {
+					"Parent": 48,
+					"Sibling": 320,
+					"Translate": [ -6.0099988, 6.44062138, -4.56501913 ]
+				},
+				"def_rightBackHatband_003": {
+					"Parent": 48,
+					"Sibling": 321,
+					"Translate": [ -3.81175017, 6.00434208, -6.39476156 ]
+				},
+				"def_rightBuccinator": {
+					"Parent": 48,
+					"Sibling": 322,
+					"Translate": [ -3.05696249, 0.273995697, 11.6050043 ]
+				},
+				"def_rightCondyloidProcess": {
+					"Parent": 48,
+					"Sibling": 323,
+					"Translate": [ -8.18670082, 3.92537808, 4.52687979 ]
+				},
+				"def_rightCoronalSuture": {
+					"Parent": 48,
+					"Sibling": 324,
+					"Translate": [ -7.07430077, 12.6335382, 6.38683462 ]
+				},
+				"def_rightCoronoidProcess": {
+					"Parent": 48,
+					"Sibling": 325,
+					"Translate": [ -6.90457392, 1.50283182, 8.97366619 ]
+				},
+				"def_rightDepressorAnguliOris": {
+					"Parent": 48,
+					"Sibling": 326,
+					"Translate": [ -3.05734682, -1.44698203, 11.4114008 ]
+				},
+				"def_rightDepressorLabiiInferioris": {
+					"Parent": 48,
+					"Sibling": 327,
+					"Translate": [ -1.64268947, -1.5977236, 12.2212734 ]
+				},
+				"def_rightDigastricFossa": {
+					"Parent": 48,
+					"Sibling": 328,
+					"Translate": [ -1.85225344, -4.74613047, 11.6207457 ]
+				},
+				"def_rightEarHatband_001": {
+					"Parent": 48,
+					"Sibling": 329,
+					"Translate": [ -7.97739744, 8.05962467, 2.4203372 ]
+				},
+				"def_rightEctocanthion": {
+					"Parent": 48,
+					"Sibling": 330,
+					"Translate": [ -4.51401567, 6.46221304, 10.2696028 ]
+				},
+				"def_rightEndocanthion": {
+					"Parent": 48,
+					"Sibling": 331,
+					"Translate": [ -1.69648254, 6.40155935, 10.6094704 ]
+				},
+				"def_rightEyelidInner": {
+					"Parent": 48,
+					"Sibling": 332,
+					"Translate": [ -1.93447244, 7.42650747, 11.6000881 ]
+				},
+				"def_rightEyelidMid": {
+					"Parent": 48,
+					"Sibling": 333,
+					"Translate": [ -3.75416565, 7.60520315, 11.7474384 ]
+				},
+				"def_rightEyelidOuter": {
+					"Parent": 48,
+					"Sibling": 334,
+					"Translate": [ -5.30532598, 6.96987295, 10.7424812 ]
+				},
+				"def_rightFrontHatband_001": {
+					"Parent": 48,
+					"Sibling": 335,
+					"Translate": [ -3.15833211, 10.1700373, 11.6966619 ]
+				},
+				"def_rightFrontHatband_002": {
+					"Parent": 48,
+					"Sibling": 336,
+					"Translate": [ -6.12375355, 9.66706181, 9.45805931 ]
+				},
+				"def_rightFrontHatband_003": {
+					"Parent": 48,
+					"Sibling": 337,
+					"Translate": [ -7.5097003, 8.90320683, 6.09097147 ]
+				},
+				"def_rightFrontalEminence": {
+					"Parent": 48,
+					"Sibling": 338,
+					"Translate": [ -4.04354429, 11.8260584, 10.667038 ]
+				},
+				"def_rightFrontalProcess": {
+					"Parent": 48,
+					"Sibling": 339,
+					"Translate": [ -6.6014986, 5.85294485, 8.96120453 ]
+				},
+				"def_rightFrontalSquama": {
+					"Parent": 48,
+					"Sibling": 340,
+					"Translate": [ -2.32465148, 14.6887598, 10.1186237 ]
+				},
+				"def_rightFrontomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 341,
+					"Translate": [ -0.961766541, 6.90703726, 11.8433313 ]
+				},
+				"def_rightFrontozygomaticSuture": {
+					"Parent": 48,
+					"Sibling": 342,
+					"Translate": [ -6.07196522, 7.22968435, 10.0939922 ]
+				},
+				"def_rightGonialAngle": {
+					"Parent": 48,
+					"Sibling": 343,
+					"Translate": [ -6.95276737, -1.87866843, 3.69019318 ]
+				},
+				"def_rightHelix": {
+					"Parent": 48,
+					"Sibling": 344,
+					"Translate": [ -10.1803951, 6.52932119, 0.378023684 ]
+				},
+				"def_rightHelixCauda": {
+					"Parent": 48,
+					"Sibling": 345,
+					"Translate": [ -9.06750107, 2.40342069, 1.09547555 ]
+				},
+				"def_rightHelixCrus": {
+					"Parent": 48,
+					"Sibling": 346,
+					"Translate": [ -7.50729609, 4.37111807, 1.52383101 ]
+				},
+				"def_rightInferiorLabialCommisure": {
+					"Parent": 48,
+					"Sibling": 347,
+					"Translate": [ -2.35171223, -0.332815826, 11.4724236 ]
+				},
+				"def_rightInferiorNuchalLine": {
+					"Parent": 48,
+					"Sibling": 348,
+					"Translate": [ -3.19923306, 3.2603085, -6.09885788 ]
+				},
+				"def_rightInferiorTarsus": {
+					"Parent": 48,
+					"Sibling": 349,
+					"Translate": [ -3.26354456, 6.00563955, 10.871336 ]
+				},
+				"def_rightInferiorTemporalLine": {
+					"Parent": 48,
+					"Sibling": 350,
+					"Translate": [ -6.3368001, 10.6322107, 8.8245163 ]
+				},
+				"def_rightInfraorbitalForamen": {
+					"Parent": 48,
+					"Sibling": 351,
+					"Translate": [ -3.33821726, 4.12862539, 11.361824 ]
+				},
+				"def_rightInfreriorOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 352,
+					"Translate": [ -2.49881935, 4.93496084, 11.1214638 ]
+				},
+				"def_rightLamdoidSuture": {
+					"Parent": 48,
+					"Sibling": 353,
+					"Translate": [ -4.89834642, 10.2982416, -6.25609398 ]
+				},
+				"def_rightLateralNasalCartilage": {
+					"Parent": 48,
+					"Sibling": 354,
+					"Translate": [ -0.744846344, 5.34906912, 12.7200527 ]
+				},
+				"def_rightLateralOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 355,
+					"Translate": [ -5.08083773, 5.03162527, 10.3441687 ]
+				},
+				"def_rightLateralSupraorbitalRidge": {
+					"Parent": 48,
+					"Sibling": 356,
+					"Translate": [ -5.35348129, 7.98076773, 11.1767445 ]
+				},
+				"def_rightLevatorLabiiSuperiorisAlaequeNasi": {
+					"Parent": 48,
+					"Sibling": 357,
+					"Translate": [ -2.04745913, 1.59682596, 11.8859892 ]
+				},
+				"def_rightLobe": {
+					"Parent": 48,
+					"Sibling": 358,
+					"Translate": [ -8.21860409, 1.07319009, 2.74832582 ]
+				},
+				"def_rightMajorAlarCartilage": {
+					"Parent": 48,
+					"Sibling": 359,
+					"Translate": [ -1.00631905, 3.57811856, 14.1902828 ]
+				},
+				"def_rightMandibularAlveolarProcess": {
+					"Parent": 48,
+					"Sibling": 360,
+					"Translate": [ -5.06772995, -1.71906149, 10.2329206 ]
+				},
+				"def_rightMandibularInferiorBorder": {
+					"Parent": 48,
+					"Sibling": 361,
+					"Translate": [ -4.75124073, -4.28807688, 8.12324333 ]
+				},
+				"def_rightMassetericFossa": {
+					"Parent": 48,
+					"Sibling": 362,
+					"Translate": [ -7.00975132, -1.2532717, 6.44456434 ]
+				},
+				"def_rightMassetericTuberosity": {
+					"Parent": 48,
+					"Sibling": 363,
+					"Translate": [ -7.33655405, -0.16530484, 3.32287264 ]
+				},
+				"def_rightMastoidProcess": {
+					"Parent": 48,
+					"Sibling": 364,
+					"Translate": [ -6.84572411, 1.96260965, -1.07714534 ]
+				},
+				"def_rightMaxilla": {
+					"Parent": 48,
+					"Sibling": 365,
+					"Translate": [ -3.2492218, 2.60167813, 11.8288507 ]
+				},
+				"def_rightMaxillaryAlveolarProcess": {
+					"Parent": 48,
+					"Sibling": 366,
+					"Translate": [ -4.732687, 1.05007303, 11.2805481 ]
+				},
+				"def_rightMedialOrbitalMargin": {
+					"Parent": 48,
+					"Sibling": 367,
+					"Translate": [ -1.06533229, 6.27997732, 11.4726658 ]
+				},
+				"def_rightMedialSupraorbitalRidge": {
+					"Parent": 48,
+					"Sibling": 368,
+					"Translate": [ -3.83770251, 8.68662357, 11.908287 ]
+				},
+				"def_rightMentalForamen": {
+					"Parent": 48,
+					"Sibling": 369,
+					"Translate": [ -2.5670414, -2.22252536, 11.879488 ]
+				},
+				"def_rightMentalTubercle": {
+					"Parent": 48,
+					"Sibling": 370,
+					"Translate": [ -1.02657282, -3.24602389, 13.1846066 ]
+				},
+				"def_rightMinorAlarCartilage": {
+					"Parent": 48,
+					"Sibling": 371,
+					"Translate": [ -1.32680678, 4.52359915, 12.292058 ]
+				},
+				"def_rightNasal": {
+					"Parent": 48,
+					"Sibling": 372,
+					"Translate": [ -0.576350391, 6.25205374, 12.5820389 ]
+				},
+				"def_rightNasomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 373,
+					"Translate": [ -1.30765069, 5.3478179, 11.9117889 ]
+				},
+				"def_rightObliqueLine": {
+					"Parent": 48,
+					"Sibling": 374,
+					"Translate": [ -6.46117353, -0.995932281, 8.64211655 ]
+				},
+				"def_rightOccipital": {
+					"Parent": 48,
+					"Sibling": 375,
+					"Translate": [ 0.0729642585, 9.35045719, -7.81354427 ]
+				},
+				"def_rightOccipitomastoidSuture": {
+					"Parent": 48,
+					"Sibling": 376,
+					"Translate": [ -6.26423788, 3.55605435, -3.2252841 ]
+				},
+				"def_rightOrbitofrontalCortex": {
+					"Parent": 48,
+					"Sibling": 377,
+					"Translate": [ -2.51202178, 9.99614811, 12.0847445 ]
+				},
+				"def_rightParietal": {
+					"Parent": 48,
+					"Sibling": 378,
+					"Translate": [ -4.11533499, 16.6995792, -1.30779874 ]
+				},
+				"def_rightParietalEminence": {
+					"Parent": 48,
+					"Sibling": 379,
+					"Translate": [ -7.57751751, 12.6949854, -0.679880321 ]
+				},
+				"def_rightParietalForamen": {
+					"Parent": 48,
+					"Sibling": 380,
+					"Translate": [ -1.53265476, 14.6131678, -5.89841032 ]
+				},
+				"def_rightPterion": {
+					"Parent": 48,
+					"Sibling": 381,
+					"Translate": [ -7.62043476, 8.53061771, 5.40440035 ]
+				},
+				"def_rightRamus": {
+					"Parent": 48,
+					"Sibling": 382,
+					"Translate": [ -7.67155695, 1.36133707, 6.61100531 ]
+				},
+				"def_rightRetroauricular": {
+					"Parent": 48,
+					"Sibling": 383,
+					"Translate": [ -7.76461124, 6.15715933, 0.357994616 ]
+				},
+				"def_rightScapha": {
+					"Parent": 48,
+					"Sibling": 384,
+					"Translate": [ -9.55353355, 5.29491568, 0.680998862 ]
+				},
+				"def_rightSphenoFrontalSuture": {
+					"Parent": 48,
+					"Sibling": 385,
+					"Translate": [ -6.74806213, 7.83718252, 8.47919369 ]
+				},
+				"def_rightSphenoid": {
+					"Parent": 48,
+					"Sibling": 386,
+					"Translate": [ -7.41962528, 6.52593374, 7.16765928 ]
+				},
+				"def_rightSquamousSuture": {
+					"Parent": 48,
+					"Sibling": 387,
+					"Translate": [ -7.9880414, 9.11803532, -0.117337637 ]
+				},
+				"def_rightStyloidProcess": {
+					"Parent": 48,
+					"Sibling": 388,
+					"Translate": [ -6.88228369, 1.16271341, 1.17553794 ]
+				},
+				"def_rightSubmandibularTriangle": {
+					"Parent": 48,
+					"Sibling": 389,
+					"Translate": [ -2.81995654, -5.33606577, 8.93503666 ]
+				},
+				"def_rightSuperficialTemporalArtery": {
+					"Parent": 48,
+					"Sibling": 390,
+					"Translate": [ -7.80662346, 6.37038565, 3.84712601 ]
+				},
+				"def_rightSuperiorAuricular": {
+					"Parent": 48,
+					"Sibling": 391,
+					"Translate": [ -8.03030682, 7.27097464, 2.10931349 ]
+				},
+				"def_rightSuperiorNuchalLine": {
+					"Parent": 48,
+					"Sibling": 392,
+					"Translate": [ -3.08019805, 5.72396231, -6.71208143 ]
+				},
+				"def_rightSuperiorTarsus": {
+					"Parent": 48,
+					"Sibling": 393,
+					"Translate": [ -3.23216057, 6.92170095, 11.090559 ]
+				},
+				"def_rightSuperiorTemporalLine": {
+					"Parent": 48,
+					"Sibling": 394,
+					"Translate": [ -6.39900255, 15.2301264, 3.35026455 ]
+				},
+				"def_rightSupraorbitalForamen": {
+					"Parent": 48,
+					"Sibling": 395,
+					"Translate": [ -2.09195924, 7.96740103, 12.3872442 ]
+				},
+				"def_rightSupremeNuchalLine": {
+					"Parent": 48,
+					"Sibling": 396,
+					"Translate": [ -2.46357965, 7.3409667, -7.38798046 ]
+				},
+				"def_rightTemporal": {
+					"Parent": 48,
+					"Sibling": 397,
+					"Translate": [ -7.99509096, 9.18615055, 2.87194061 ]
+				},
+				"def_rightTemporalProcess": {
+					"Parent": 48,
+					"Sibling": 398,
+					"Translate": [ -6.28655672, 3.17902493, 9.88500595 ]
+				},
+				"def_rightTemporalis": {
+					"Parent": 48,
+					"Sibling": 399,
+					"Translate": [ -7.93928766, 11.7692499, 2.19400215 ]
+				},
+				"def_rightTragus": {
+					"Parent": 48,
+					"Sibling": 400,
+					"Translate": [ -7.67627954, 3.72936368, 2.95998621 ]
+				},
+				"def_rightTriangularFossa": {
+					"Parent": 48,
+					"Sibling": 401,
+					"Translate": [ -9.13015461, 6.03753042, 1.4906615 ]
+				},
+				"def_rightZygomatic": {
+					"Parent": 48,
+					"Sibling": 402,
+					"Translate": [ -6.42363834, 4.37171316, 9.58082867 ]
+				},
+				"def_rightZygomaticArch": {
+					"Parent": 48,
+					"Sibling": 403,
+					"Translate": [ -8.04261017, 4.42894888, 6.26301241 ]
+				},
+				"def_rightZygomaticProcess": {
+					"Parent": 48,
+					"Sibling": 404,
+					"Translate": [ -7.67511702, 3.22318387, 7.44391489 ]
+				},
+				"def_rightZygomaticoOrbitalForamen": {
+					"Parent": 48,
+					"Sibling": 405,
+					"Translate": [ -5.64342928, 6.05710745, 9.71110344 ]
+				},
+				"def_rightZygomaticofacialForamen": {
+					"Parent": 48,
+					"Sibling": 406,
+					"Translate": [ -5.02884912, 3.67182279, 10.8674965 ]
+				},
+				"def_rightZygomaticomaxillarySuture": {
+					"Parent": 48,
+					"Sibling": 407,
+					"Translate": [ -3.95828605, 4.55686331, 10.885355 ]
+				},
+				"def_sagittalSuture": {
+					"Parent": 48,
+					"Sibling": 408,
+					"Translate": [ 0.0273206439, 17.0360813, -3.12865877 ]
+				},
+				"def_submentalTriangle": {
+					"Parent": 48,
+					"Sibling": 409,
+					"Translate": [ -0.024869483, -5.22086191, 11.4374924 ]
+				},
+				"def_suprahyoid": {
+					"Parent": 48,
+					"Sibling": 410,
+					"Translate": [ -0.0112559274, -5.8727479, 10.1651192 ]
+				},
+				"def_supratip": {
+					"Parent": 48,
+					"Sibling": 411,
+					"Translate": [ 0.0299384408, 4.85704947, 13.9447308 ]
+				},
+				"def_vertex": {
+					"Parent": 48,
+					"Translate": [ -3.63516621e-4, 18.2033939, 1.69454229 ]
+				},
+				"def_cricoid": {
+					"Parent": 46,
+					"Sibling": 413,
+					"Translate": [ 0.0440242402, 2.16811442, 7.7562747 ]
+				},
+				"def_hyoid": {
+					"Parent": 46,
+					"Sibling": 414,
+					"Translate": [ 0.00460877642, 4.25479984, 10.3463535 ]
+				},
+				"def_leftBackCervical_001": {
+					"Parent": 46,
+					"Sibling": 415,
+					"Translate": [ 4.51921225, 11.0842371, -2.14374065 ]
+				},
+				"def_leftBackCervical_002": {
+					"Parent": 46,
+					"Sibling": 416,
+					"Translate": [ 4.3944726, 9.04728031, -1.72842562 ]
+				},
+				"def_leftBackCervical_003": {
+					"Parent": 46,
+					"Sibling": 417,
+					"Translate": [ 5.06563759, 6.71138859, -1.87071395 ]
+				},
+				"def_leftCervical_001": {
+					"Parent": 46,
+					"Sibling": 418,
+					"Translate": [ 6.90586567, 9.21622562, 2.36622787 ]
+				},
+				"def_leftCervical_002": {
+					"Parent": 46,
+					"Sibling": 419,
+					"Translate": [ 6.77549314, 7.30609989, 2.46111131 ]
+				},
+				"def_leftCervical_003": {
+					"Parent": 46,
+					"Sibling": 420,
+					"Translate": [ 6.59803486, 5.07010746, 2.28200936 ]
+				},
+				"def_leftFrontCervical_001": {
+					"Parent": 46,
+					"Sibling": 421,
+					"Translate": [ 4.62253952, 5.79151249, 7.48894978 ]
+				},
+				"def_leftFrontCervical_002": {
+					"Parent": 46,
+					"Sibling": 422,
+					"Translate": [ 4.61153412, 4.57866764, 6.33215666 ]
+				},
+				"def_leftFrontCervical_003": {
+					"Parent": 46,
+					"Sibling": 423,
+					"Translate": [ 4.75137997, 3.16484904, 5.93104458 ]
+				},
+				"def_middleBackCervical_001": {
+					"Parent": 46,
+					"Sibling": 424,
+					"Translate": [ 0.119628802, 11.752511, -4.15147543 ]
+				},
+				"def_middleBackCervical_002": {
+					"Parent": 46,
+					"Sibling": 425,
+					"Translate": [ 0.132018313, 9.58625126, -3.51102376 ]
+				},
+				"def_middleBackCervical_003": {
+					"Parent": 46,
+					"Sibling": 426,
+					"Translate": [ 0.131257087, 7.50083256, -3.38310981 ]
+				},
+				"def_rightBackCervical_001": {
+					"Parent": 46,
+					"Sibling": 427,
+					"Translate": [ -4.34059954, 11.1446772, -2.21548057 ]
+				},
+				"def_rightBackCervical_002": {
+					"Parent": 46,
+					"Sibling": 428,
+					"Translate": [ -4.25840902, 9.13057804, -1.86384559 ]
+				},
+				"def_rightBackCervical_003": {
+					"Parent": 46,
+					"Sibling": 429,
+					"Translate": [ -4.91111612, 6.79880619, -1.99352741 ]
+				},
+				"def_rightCervical_001": {
+					"Parent": 46,
+					"Sibling": 430,
+					"Translate": [ -6.84195948, 9.24353886, 2.29103184 ]
+				},
+				"def_rightCervical_002": {
+					"Parent": 46,
+					"Sibling": 431,
+					"Translate": [ -6.66604376, 7.38794804, 2.34555483 ]
+				},
+				"def_rightCervical_003": {
+					"Parent": 46,
+					"Sibling": 432,
+					"Translate": [ -6.51345444, 5.17693424, 2.15855169 ]
+				},
+				"def_rightFrontCervical_001": {
+					"Parent": 46,
+					"Sibling": 433,
+					"Translate": [ -4.62960339, 5.76531315, 7.48608255 ]
+				},
+				"def_rightFrontCervical_002": {
+					"Parent": 46,
+					"Sibling": 434,
+					"Translate": [ -4.61001587, 4.61058903, 6.31853914 ]
+				},
+				"def_rightFrontCervical_003": {
+					"Parent": 46,
+					"Sibling": 435,
+					"Translate": [ -4.72128153, 3.23075175, 5.9150877 ]
+				},
+				"def_thyroid": {
+					"Parent": 46,
+					"Translate": [ 0.0447958559, 3.29113078, 8.56713772 ]
+				}
+			},
+			"Prim": [
+				{
+					"Material": "hidden_shader",
+					"Mesh": "baseBodyShape",
+					"Type": "TRIANGLE_LIST",
+					"BlendIndexRange": [ 0, 175 ],
+					"Start": 104598,
+					"Count": 2220,
+					"Radius": 17.9780788,
+					"Center": [ 9.24006405e-17, -4.59070635, 1.60231042 ],
+					"Min": [ -17.0610237, -19.006813, -12.8784618 ],
+					"Max": [ 17.0610237, 2.8640213, 13.2825241 ],
+					"Duv0": [ 0.0233530048, 0.0218494218 ],
+					"Duv1": [ 0.00518899132, 0.00554843619 ]
+				},
+				{
+					"Material": "torso_shader",
+					"BlendIndexRange": [ 0, 156 ],
+					"Start": 106818,
+					"Count": 17022,
+					"Radius": 71.4047623,
+					"Center": [ 3.55271368e-15, -33.9339142, 0.951222539 ],
+					"Min": [ -16.4619789, -103.630501, -12.3531551 ],
+					"Max": [ 16.4619789, 36.3829651, 16.8311806 ],
+					"Duv0": [ 0.0269117504, 0.0250108633 ],
+					"Duv1": [ 0.0106590576, 0.00931031164 ],
+					"LodList": [
+						{
+							"Start": 106818,
+							"Count": 17022
+						},
+						{
+							"Start": 49479,
+							"Count": 5544
+						},
+						{
+							"Start": 25005,
+							"Count": 3594
+						},
+						{
+							"Start": 10611,
+							"Count": 2616
+						},
+						{
+							"Start": 3429,
+							"Count": 1200
+						},
+						{
+							"Start": 0,
+							"Count": 816
+						}
+					]
+				},
+				{
+					"Material": "arms_shader",
+					"BlendIndexRange": [ 41, 167 ],
+					"Start": 123840,
+					"Count": 33276,
+					"Radius": 78.0473404,
+					"Center": [ 3.1849523e-15, 8.82863903, 22.0102501 ],
+					"Min": [ -78.046402, 6.32832336, -12.6294537 ],
+					"Max": [ 78.046402, 54.2224121, 27.4674435 ],
+					"Duv0": [ 0.0168634802, 0.0175545849 ],
+					"Duv1": [ 0.00831247307, 0.00865313597 ],
+					"LodList": [
+						{
+							"Start": 123840,
+							"Count": 33276
+						},
+						{
+							"Start": 55023,
+							"Count": 18678
+						},
+						{
+							"Start": 28599,
+							"Count": 8586
+						},
+						{
+							"Start": 13227,
+							"Count": 5400
+						},
+						{
+							"Start": 4629,
+							"Count": 2820
+						},
+						{
+							"Start": 816,
+							"Count": 1545
+						}
+					]
+				},
+				{
+					"Material": "legs_shader",
+					"BlendIndexRange": [ 0, 175 ],
+					"Start": 157116,
+					"Count": 10464,
+					"Radius": 48.7560692,
+					"Center": [ -3.55271368e-15, -54.6133232, 4.23728752 ],
+					"Min": [ -17.1532078, -100.863335, -11.159256 ],
+					"Max": [ 17.1532078, -8.85513306, 12.4253349 ],
+					"Duv0": [ 0.0190113038, 0.0195970032 ],
+					"Duv1": [ 0.00936892256, 0.00965775177 ],
+					"LodList": [
+						{
+							"Start": 157116,
+							"Count": 10464
+						},
+						{
+							"Start": 73701,
+							"Count": 6540
+						},
+						{
+							"Start": 37185,
+							"Count": 3636
+						},
+						{
+							"Start": 18627,
+							"Count": 2538
+						},
+						{
+							"Start": 7449,
+							"Count": 1350
+						},
+						{
+							"Start": 2361,
+							"Count": 630
+						}
+					]
+				},
+				{
+					"Material": "l_armpitHair_shader",
+					"Mesh": "l_armpitHair_shortShape",
+					"BlendIndexRange": [ 42, 159 ],
+					"Start": 167580,
+					"Count": 618,
+					"Radius": 5.69225073,
+					"Center": [ 18.5663872, 36.1348076, 2.56478739 ],
+					"Min": [ 15.0950041, 32.1961823, -2.53540587 ],
+					"Max": [ 22.9623775, 39.0245819, 7.44437122 ],
+					"Duv0": [ 0.155673683, 0.209288508 ],
+					"LodList": [
+						{
+							"Start": 167580,
+							"Count": 618
+						},
+						{
+							"Start": 80241,
+							"Count": 618
+						},
+						{
+							"Start": 40821,
+							"Count": 558
+						},
+						{
+							"Start": 21165,
+							"Count": 492
+						},
+						{
+							"Start": 8799,
+							"Count": 354
+						}
+					]
+				},
+				{
+					"Material": "r_armpitHair_shader",
+					"Mesh": "r_armpitHair_shortShape",
+					"BlendIndexRange": [ 42, 161 ],
+					"Start": 168198,
+					"Count": 618,
+					"Radius": 5.69225788,
+					"Center": [ -18.5663872, 36.1348152, 2.56479526 ],
+					"Min": [ -22.9623756, 32.1961975, -2.53540325 ],
+					"Max": [ -15.0950108, 39.0245972, 7.44438124 ],
+					"Duv0": [ 0.155721068, 0.211538523 ],
+					"LodList": [
+						{
+							"Start": 168198,
+							"Count": 618
+						},
+						{
+							"Start": 80859,
+							"Count": 618
+						},
+						{
+							"Start": 41379,
+							"Count": 558
+						},
+						{
+							"Start": 21657,
+							"Count": 492
+						},
+						{
+							"Start": 9153,
+							"Count": 348
+						}
+					]
+				},
+				{
+					"Material": "face_shader",
+					"Mesh": "blend_headShape",
+					"BlendIndexRange": [ 43, 167 ],
+					"Start": 168816,
+					"Count": 46194,
+					"Radius": 19.6189346,
+					"Center": [ -8.8817842e-16, 62.1027374, 1.58094668 ],
+					"Min": [ -13.0743904, 44.3934784, -9.41910744 ],
+					"Max": [ 13.0743904, 81.3262787, 16.6243038 ],
+					"Duv0": [ 0.0372104459, 0.0431946069 ],
+					"Duv1": [ 0.0183077063, 0.0212519411 ],
+					"LodList": [
+						{
+							"Start": 168816,
+							"Count": 46194
+						},
+						{
+							"Start": 81477,
+							"Count": 15666
+						},
+						{
+							"Start": 41937,
+							"Count": 4620
+						},
+						{
+							"Start": 22149,
+							"Count": 2286
+						},
+						{
+							"Start": 9501,
+							"Count": 1110
+						},
+						{
+							"Start": 2991,
+							"Count": 438
+						}
+					]
+				},
+				{
+					"Material": "eyes_shader",
+					"Mesh": "L_eyeShape",
+					"BlendIndexRange": [ 58, 58 ],
+					"Start": 215010,
+					"Count": 2448,
+					"Radius": 1.72252691,
+					"Center": [ 3.06985283, 69.8633194, 11.2568045 ],
+					"Min": [ 1.42273998, 68.2259521, 9.53645706 ],
+					"Max": [ 4.70175886, 71.5005035, 12.9689264 ],
+					"Duv0": [ 0.223124087, 0.224474147 ],
+					"LodList": [
+						{
+							"Start": 215010,
+							"Count": 2448
+						},
+						{
+							"Start": 97143,
+							"Count": 234
+						},
+						{
+							"Start": 46557,
+							"Count": 96
+						},
+						{
+							"Start": 24435,
+							"Count": 54
+						}
+					]
+				},
+				{
+					"Mesh": "R_eyeShape",
+					"BlendIndexRange": [ 61, 61 ],
+					"Start": 217458,
+					"Count": 2448,
+					"Radius": 1.72252727,
+					"Center": [ -3.03580475, 69.7812042, 11.2623663 ],
+					"Min": [ -4.66740417, 68.1438446, 9.54204941 ],
+					"Max": [ -1.388376, 71.418396, 12.9745207 ],
+					"Duv0": [ 0.223124146, 0.224474132 ],
+					"LodList": [
+						{
+							"Start": 217458,
+							"Count": 2448
+						},
+						{
+							"Start": 97377,
+							"Count": 234
+						},
+						{
+							"Start": 46653,
+							"Count": 96
+						},
+						{
+							"Start": 24489,
+							"Count": 54
+						}
+					]
+				},
+				{
+					"Material": "teartube_shader",
+					"Mesh": "R_tear_tubeShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 219906,
+					"Count": 450,
+					"Radius": 1.25661039,
+					"Center": [ -3.16195202, 69.6359253, 12.3379536 ],
+					"Min": [ -4.40513134, 69.1285248, 12.1330471 ],
+					"Max": [ -1.9187727, 69.798584, 12.8206558 ],
+					"Duv0": [ 0.789674282, 0.778608084 ],
+					"LodList": [
+						{
+							"Start": 219906,
+							"Count": 450
+						},
+						{
+							"Start": 97611,
+							"Count": 180
+						}
+					]
+				},
+				{
+					"Material": "teartubecaruncle_shader",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 220356,
+					"Count": 216,
+					"Radius": 0.197990999,
+					"Center": [ -1.91823912, 69.5057755, 12.4926643 ],
+					"Min": [ -2.09548807, 69.4031677, 12.4256058 ],
+					"Max": [ -1.72150767, 69.686264, 12.594986 ],
+					"Duv0": [ 0.858462155, 0.700703502 ],
+					"LodList": [
+						{
+							"Start": 220356,
+							"Count": 216
+						},
+						{
+							"Start": 97791,
+							"Count": 126
+						}
+					]
+				},
+				{
+					"Material": "teartube_shader",
+					"Mesh": "L_tear_tubeShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 220572,
+					"Count": 450,
+					"Radius": 1.26700723,
+					"Center": [ 3.17741728, 69.7065125, 12.3211479 ],
+					"Min": [ 1.92206502, 69.2100525, 12.1309824 ],
+					"Max": [ 4.4327693, 69.8740082, 12.8113279 ],
+					"Duv0": [ 0.780271351, 0.788516521 ],
+					"LodList": [
+						{
+							"Start": 220572,
+							"Count": 450
+						},
+						{
+							"Start": 97917,
+							"Count": 180
+						}
+					]
+				},
+				{
+					"Material": "teartubecaruncle_shader",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 221022,
+					"Count": 216,
+					"Radius": 0.205116063,
+					"Center": [ 1.91126919, 69.600975, 12.4762297 ],
+					"Min": [ 1.70699251, 69.5214081, 12.3976707 ],
+					"Max": [ 2.1077981, 69.7740173, 12.5666943 ],
+					"Duv0": [ 0.70092833, 0.859113932 ],
+					"LodList": [
+						{
+							"Start": 221022,
+							"Count": 216
+						},
+						{
+							"Start": 98097,
+							"Count": 126
+						}
+					]
+				},
+				{
+					"Material": "mouth_shader",
+					"Mesh": "upper_teethShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 221238,
+					"Count": 3522,
+					"Radius": 4.38050699,
+					"Center": [ -0.0532155707, 64.4766159, 9.20117569 ],
+					"Min": [ -3.9760673, 63.0701752, 7.08401585 ],
+					"Max": [ 3.87011528, 65.4743652, 13.4655161 ],
+					"Duv0": [ 0.119604886, 0.117850222 ],
+					"LodList": [
+						{
+							"Start": 221238,
+							"Count": 3522
+						},
+						{
+							"Start": 98223,
+							"Count": 1824
+						},
+						{
+							"Start": 46749,
+							"Count": 897
+						},
+						{
+							"Start": 24543,
+							"Count": 123
+						}
+					]
+				},
+				{
+					"Mesh": "lower_teethShape",
+					"BlendIndexRange": [ 52, 52 ],
+					"Start": 224760,
+					"Count": 4056,
+					"Radius": 4.10513783,
+					"Center": [ -0.0577730238, 62.4010315, 9.1569891 ],
+					"Min": [ -3.87390685, 61.4435577, 7.48183823 ],
+					"Max": [ 3.75875425, 63.4625702, 13.200285 ],
+					"Duv0": [ 0.134385824, 0.149961114 ],
+					"LodList": [
+						{
+							"Start": 224760,
+							"Count": 4056
+						},
+						{
+							"Start": 100047,
+							"Count": 2205
+						},
+						{
+							"Start": 47646,
+							"Count": 807
+						},
+						{
+							"Start": 24666,
+							"Count": 57
+						}
+					]
+				},
+				{
+					"Mesh": "tongueShape",
+					"BlendIndexRange": [ 53, 57 ],
+					"Start": 228816,
+					"Count": 1398,
+					"Radius": 3.80509186,
+					"Center": [ -0.0577474125, 62.4244652, 8.95338535 ],
+					"Min": [ -2.29536295, 61.4799805, 5.20631742 ],
+					"Max": [ 2.18025184, 63.6838379, 12.7303114 ],
+					"Duv0": [ 0.0737939626, 0.0872030705 ],
+					"LodList": [
+						{
+							"Start": 228816,
+							"Count": 1398
+						},
+						{
+							"Start": 102252,
+							"Count": 342
+						},
+						{
+							"Start": 48453,
+							"Count": 120
+						},
+						{
+							"Start": 24723,
+							"Count": 36
+						}
+					]
+				},
+				{
+					"Mesh": "mouthBagShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 230214,
+					"Count": 1854,
+					"Radius": 4.26627398,
+					"Center": [ 0.0126293544, 62.1084023, 9.85865116 ],
+					"Min": [ -3.70295072, 58.6665649, 5.88306856 ],
+					"Max": [ 3.72796297, 65.1780548, 13.4535227 ],
+					"Duv0": [ 0.0183568094, 0.00917657185 ],
+					"LodList": [
+						{
+							"Start": 230214,
+							"Count": 1854
+						},
+						{
+							"Start": 102594,
+							"Count": 828
+						},
+						{
+							"Start": 48573,
+							"Count": 276
+						},
+						{
+							"Start": 24759,
+							"Count": 108
+						}
+					]
+				},
+				{
+					"Material": "eyelashes_shader",
+					"Mesh": "R_lower_eyelashesShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 232068,
+					"Count": 558,
+					"Radius": 1.47644758,
+					"Center": [ -3.36461401, 69.2720032, 12.5975122 ],
+					"Min": [ -4.81881618, 68.7381592, 12.2381697 ],
+					"Max": [ -1.90326309, 69.4448853, 13.2530165 ],
+					"Duv0": [ 0.334473222, 0.341764599 ],
+					"LodList": [
+						{
+							"Start": 232068,
+							"Count": 558
+						},
+						{
+							"Start": 103422,
+							"Count": 192
+						},
+						{
+							"Start": 48849,
+							"Count": 96
+						}
+					]
+				},
+				{
+					"Mesh": "R_upper_eyelashesShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 232626,
+					"Count": 774,
+					"Radius": 1.80027878,
+					"Center": [ -3.24474335, 69.7811508, 12.6343117 ],
+					"Min": [ -5.02252531, 69.5880432, 12.1082096 ],
+					"Max": [ -1.46696162, 70.2851105, 13.8525019 ],
+					"Duv0": [ 0.391719043, 0.297139525 ],
+					"LodList": [
+						{
+							"Start": 232626,
+							"Count": 774
+						},
+						{
+							"Start": 103614,
+							"Count": 216
+						},
+						{
+							"Start": 48945,
+							"Count": 108
+						}
+					]
+				},
+				{
+					"Mesh": "L_lower_eyelashesShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 233400,
+					"Count": 558,
+					"Radius": 1.52269077,
+					"Center": [ 3.37196207, 69.3831024, 12.5784569 ],
+					"Min": [ 1.86873591, 68.9748535, 12.2827415 ],
+					"Max": [ 4.87518835, 69.5265808, 13.2756968 ],
+					"Duv0": [ 0.334862739, 0.342018008 ],
+					"LodList": [
+						{
+							"Start": 233400,
+							"Count": 558
+						},
+						{
+							"Start": 103830,
+							"Count": 288
+						},
+						{
+							"Start": 49053,
+							"Count": 144
+						}
+					]
+				},
+				{
+					"Mesh": "L_upper_eyelashesShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 233958,
+					"Count": 774,
+					"Radius": 1.82460499,
+					"Center": [ 3.26132798, 69.8460236, 12.6158123 ],
+					"Min": [ 1.44873703, 69.6281738, 12.1311102 ],
+					"Max": [ 5.07391882, 70.2485809, 13.8652945 ],
+					"Duv0": [ 0.391799241, 0.297206461 ],
+					"LodList": [
+						{
+							"Start": 233958,
+							"Count": 774
+						},
+						{
+							"Start": 104118,
+							"Count": 216
+						},
+						{
+							"Start": 49197,
+							"Count": 108
+						}
+					]
+				},
+				{
+					"Material": "face_shader",
+					"Mesh": "R_eyeCapShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 234732,
+					"Count": 252,
+					"Radius": 1.18244445,
+					"Center": [ -3.15890646, 69.6317596, 12.2813911 ],
+					"Min": [ -4.33193064, 69.1699677, 12.1014156 ],
+					"Max": [ -1.98588216, 70.0404205, 12.9279861 ],
+					"Duv0": [ 0.0457456, 0.0129997116 ],
+					"LodList": [
+						{
+							"Start": 234732,
+							"Count": 252
+						},
+						{
+							"Start": 104334,
+							"Count": 135
+						},
+						{
+							"Start": 49305,
+							"Count": 87
+						},
+						{
+							"Start": 24867,
+							"Count": 69
+						}
+					]
+				},
+				{
+					"Mesh": "L_eyeCapShape",
+					"BlendIndexRange": [ 49, 49 ],
+					"Start": 234984,
+					"Count": 252,
+					"Radius": 1.19207883,
+					"Center": [ 3.17604303, 69.7042236, 12.2660084 ],
+					"Min": [ 1.99218047, 69.2439117, 12.1019754 ],
+					"Max": [ 4.35990572, 70.0593262, 12.940834 ],
+					"Duv0": [ 0.0457702577, 0.0131476875 ],
+					"LodList": [
+						{
+							"Start": 234984,
+							"Count": 252
+						},
+						{
+							"Start": 104469,
+							"Count": 129
+						},
+						{
+							"Start": 49392,
+							"Count": 87
+						},
+						{
+							"Start": 24936,
+							"Count": 69
+						}
+					]
+				}
+			],
+			"VertexFormat": {
+				"POSITION0": {
+					"Format": "R32G32B32_FLOAT",
+					"CpuAccess": "READWRITE"
+				},
+				"TANGENTFRAME0": {
+					"Format": "R10G10B10A2_UINT",
+					"Stream": 1
+				},
+				"TEXCOORD0": {
+					"Format": "R16G16_SNORM",
+					"ByteOffset": 4,
+					"Stream": 1,
+					"Offset": [ 2.41989684, 0.489459544, 0.0, 0.0 ],
+					"Scale": [ 2.41982293, 0.510540426, 1.0, 1.0 ]
+				},
+				"TEXCOORD1": {
+					"Format": "R16G16_SNORM",
+					"ByteOffset": 8,
+					"Stream": 1
+				},
+				"WEIGHTDATA0": {
+					"Format": "R32_UINT",
+					"ByteOffset": 12,
+					"Stream": 1
+				},
+				"TEXCOORD7": {
+					"Format": "R32_UINT",
+					"Dimension": "BYTEADDRESSBUFFER",
+					"Stream": 3
+				},
+				"TEXCOORD6": {
+					"Format": "R16G16_UINT",
+					"Dimension": "TYPEDBUFFER",
+					"Stream": 4
+				}
+			},
+			"IndexBuffer": {
+				"Format": "R16_UINT",
+				"CpuAccess": "READONLY",
+				"CompressionMethod": 33,
+				"Size": 470472,
+				"Binary": "IndexBuffer.c829179a1bc03cf2.gz"
+			},
+			"IndexBufferCrc32": 4274944604,
+			"MatrixWeightsBuffer": {
+				"Format": "R32_UINT",
+				"Dimension": "BYTEADDRESSBUFFER",
+				"CompressionMethod": 33,
+				"Size": 157960,
+				"Binary": "MatrixWeightsBuffer.313dc1adc1fb35a9.gz"
+			},
+			"VertexStream": [
+				{
+					"CpuAccess": "READWRITE",
+					"Stride": 12,
+					"CompressionMethod": 33,
+					"Size": 293808,
+					"Binary": "VertexBuffer.d5376762989c8976.gz"
+				},
+				{
+					"Stride": 16,
+					"CompressionMethod": 33,
+					"Size": 391744,
+					"Binary": "VertexBuffer.aa6c9685105d8f4a.gz"
+				},
+				null,
+				{
+					"Dimension": "BYTEADDRESSBUFFER",
+					"Stride": 4,
+					"Size": 7896,
+					"Binary": "VertexBuffer.4a5f95f175061252.bin"
+				},
+				{
+					"Dimension": "TYPEDBUFFER",
+					"Stride": 4,
+					"CompressionMethod": 33,
+					"Size": 1119504,
+					"Binary": "VertexBuffer.0512681b1be177ab.gz"
+				}
+			],
+			"Morph": {
+				"brow_innerDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 938,
+					"Binary": "Morph.f4e8a0491d6d448a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 6, 0 ]
+				},
+				"brow_innerDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1063,
+					"Binary": "Morph.b450a731daa12ebb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 6, 0 ]
+				},
+				"brow_innerRaise_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1954,
+					"Binary": "Morph.9f818ff3ecf19508.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"brow_innerRaise_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2312,
+					"Binary": "Morph.61a3491763d3ef6c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"brow_lateral_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1866,
+					"Binary": "Morph.2911bc24262392a2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 0, 6 ]
+				},
+				"brow_lateral_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2124,
+					"Binary": "Morph.353d66b2d6f4de1a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 0, 6 ]
+				},
+				"brow_outerDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1016,
+					"Binary": "Morph.f126f306f333ffab.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 6, 0 ]
+				},
+				"brow_outerDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1186,
+					"Binary": "Morph.184419fb6aae8855.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 6, 0 ]
+				},
+				"brow_outerRaise_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2436,
+					"Binary": "Morph.3b2a36d1af45be95.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 6 ]
+				},
+				"brow_outerRaise_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2487,
+					"Binary": "Morph.cb94793b54183775.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 6 ]
+				},
+				"cheek_bInnerDown_bLateral_bOuterDown_cSquint_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 284,
+					"Binary": "Morph.efed4b76167780fe.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 2, 0 ]
+				},
+				"cheek_bInnerDown_bLateral_bOuterDown_cSquint_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 341,
+					"Binary": "Morph.59313ec0248f51cb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 2, 2 ]
+				},
+				"cheek_bInnerDown_bOuterDown_cSquint_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2329,
+					"Binary": "Morph.71312ef1c1d0fc3b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 5 ]
+				},
+				"cheek_bInnerDown_bOuterDown_cSquint_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2302,
+					"Binary": "Morph.cb077662a8fd935e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"cheek_bInnerDown_bLateral_bOuterDown_cSquint_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2616,
+					"Binary": "Morph.dedcf2c3076631f2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 1, 6 ]
+				},
+				"cheek_bInnerDown_bLateral_bOuterDown_cSquint_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2679,
+					"Binary": "Morph.8121d3f950322151.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 1, 6 ]
+				},
+				"cheek_bInnerDown_bOuterDown_cSquint_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3920,
+					"Binary": "Morph.806a14482db63c7d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"cheek_bInnerDown_bOuterDown_cSquint_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4228,
+					"Binary": "Morph.3aeb3043308e77f7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5367,
+					"Binary": "Morph.9a641338b7660d10.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5444,
+					"Binary": "Morph.86588d2ac60e533a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2542,
+					"Binary": "Morph.58b0e090cb5833db.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2535,
+					"Binary": "Morph.9c582061dca496c3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_lCornersWide_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4018,
+					"Binary": "Morph.eaa75672d4fc240b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_lCornersWide_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3788,
+					"Binary": "Morph.8b1c7255f1df95a5.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_lCornersWide_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5616,
+					"Binary": "Morph.7ea2677a825a7d2c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_lCornersWide_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5474,
+					"Binary": "Morph.57b72af26357b3dc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4146,
+					"Binary": "Morph.c252a6be4e9670ae.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersUp_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4217,
+					"Binary": "Morph.20e1477073bc1c98.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersWide_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3145,
+					"Binary": "Morph.0e0920f830e1721b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersWide_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3136,
+					"Binary": "Morph.1c37b39d0639ae9a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersWide_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4945,
+					"Binary": "Morph.924091c30f25a436.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_lCornersWide_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4960,
+					"Binary": "Morph.b7a16a5295262ecd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4136,
+					"Binary": "Morph.dbe673b03acfd732.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_eBlink_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3993,
+					"Binary": "Morph.310091c4acac4fc7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"cheek_bOuterDown_cSquint_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5441,
+					"Binary": "Morph.1de01c7d493d6fa0.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 5, 6 ]
+				},
+				"cheek_bOuterDown_cSquint_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5747,
+					"Binary": "Morph.49c5b2d7a85525d3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 5, 6 ]
+				},
+				"cheek_bOuterDown_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1101,
+					"Binary": "Morph.4886b957196a1e13.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 3 ]
+				},
+				"cheek_bOuterDown_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 932,
+					"Binary": "Morph.b959413ec53c8bbc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 3 ]
+				},
+				"cheek_cSquint_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2928,
+					"Binary": "Morph.ada0c28a9a7667a8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"cheek_cSquint_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2907,
+					"Binary": "Morph.06e48476af0a66de.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"cheek_cSquint_lCornersUp_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4634,
+					"Binary": "Morph.fc637024ffcf2b98.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 4 ]
+				},
+				"cheek_cSquint_lCornersUp_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4576,
+					"Binary": "Morph.aa3ab2e2774f66cc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"cheek_cSquint_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1402,
+					"Binary": "Morph.402a308f0a6f677b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 4 ]
+				},
+				"cheek_cSquint_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1384,
+					"Binary": "Morph.636fa92aa7a0d94f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 4 ]
+				},
+				"cheek_squint_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3929,
+					"Binary": "Morph.c0ff91cf55e42fc8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"cheek_squint_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4016,
+					"Binary": "Morph.2953a8f232e82747.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"cheek_suck_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3274,
+					"Binary": "Morph.d0892cc3c7137328.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 5 ]
+				},
+				"cheek_suck_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3838,
+					"Binary": "Morph.1bb3a2e0de745c4e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 5, 5 ]
+				},
+				"cheek_blow_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4526,
+					"Binary": "Morph.230395926b26e696.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 7 ]
+				},
+				"cheek_blow_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4766,
+					"Binary": "Morph.268133d2b5536c2a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 7 ]
+				},
+				"chin_raise_B": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3919,
+					"Binary": "Morph.fbec92811672c467.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 7 ]
+				},
+				"chin_raise_T": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4702,
+					"Binary": "Morph.e4bbdc885a47110f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 6 ]
+				},
+				"eyelid_bInnerRaise_bOuterRaise_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 189,
+					"Binary": "Morph.46186287202d2171.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 1, 3 ]
+				},
+				"eyelid_bInnerRaise_bOuterRaise_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 173,
+					"Binary": "Morph.85d8a1b326d41ef2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 1, 3 ]
+				},
+				"eyelid_bInnerRaise_bOuterRaise_eLookDown_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4925,
+					"Binary": "Morph.6a6f287eb9296080.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 6 ]
+				},
+				"eyelid_bInnerRaise_bOuterRaise_eLookDown_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5177,
+					"Binary": "Morph.c81746438b0957fb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 6 ]
+				},
+				"eyelid_bInnerRaise_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 136,
+					"Binary": "Morph.94307ea0c346855f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 0, 1 ]
+				},
+				"eyelid_bInnerRaise_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 115,
+					"Binary": "Morph.e2219bb2faca4a33.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 0, 1 ]
+				},
+				"eyelid_bInnerRaise_eLookDown_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3858,
+					"Binary": "Morph.98c703d86e80af28.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"eyelid_bInnerRaise_eLookDown_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4343,
+					"Binary": "Morph.5561b51fd0da48fe.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 5 ]
+				},
+				"eyelid_blink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2964,
+					"Binary": "Morph.dd2763d15170854d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 6 ]
+				},
+				"eyelid_blink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3123,
+					"Binary": "Morph.b9386e7351c1398b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"eyelid_bOuterRaise_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 136,
+					"Binary": "Morph.94307ea0c346855f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 0, 1 ]
+				},
+				"eyelid_bOuterRaise_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 115,
+					"Binary": "Morph.e2219bb2faca4a33.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 0, 1 ]
+				},
+				"eyelid_bOuterRaise_eLookDown_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4475,
+					"Binary": "Morph.3eb064fe4eaa99b0.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 6 ]
+				},
+				"eyelid_bOuterRaise_eLookDown_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4613,
+					"Binary": "Morph.fed435cc7823a10d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 6 ]
+				},
+				"eyelid_eBlink_eLookDown_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3624,
+					"Binary": "Morph.046913fc4f96c79c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 5 ]
+				},
+				"eyelid_eBlink_eLookDown_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3478,
+					"Binary": "Morph.3be3dd51292c321a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"eyelid_eBlink_eLookUp_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3859,
+					"Binary": "Morph.49804a02e2302fef.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 6 ]
+				},
+				"eyelid_eBlink_eLookUp_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4084,
+					"Binary": "Morph.036db5d1fa44880d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 6 ]
+				},
+				"eyelid_halfLookLeft_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1503,
+					"Binary": "Morph.ce98f43c38d3fcd0.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 2, 4 ]
+				},
+				"eyelid_halfLookLeft_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1498,
+					"Binary": "Morph.c46b6b7233b9692c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 2, 4 ]
+				},
+				"eyelid_halfLookRight_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1734,
+					"Binary": "Morph.09cbcd8aecbc3939.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 4 ]
+				},
+				"eyelid_halfLookRight_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1525,
+					"Binary": "Morph.a12c137ccfe3202f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 2, 4 ]
+				},
+				"eyelid_halfBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3699,
+					"Binary": "Morph.27f3db78ec2dce00.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 6 ]
+				},
+				"eyelid_halfBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3899,
+					"Binary": "Morph.403b233b4db2bf1c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 6 ]
+				},
+				"eyelid_halfBlink_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2758,
+					"Binary": "Morph.aef84561375ae19e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"eyelid_halfBlink_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2994,
+					"Binary": "Morph.5b20bab68f9d6eff.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 5 ]
+				},
+				"eyelid_eLowerDroop_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3270,
+					"Binary": "Morph.378c10bfabbfaef5.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"eyelid_eLowerDroop_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3258,
+					"Binary": "Morph.2ee8875eb6b30126.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"eyelid_lookDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2408,
+					"Binary": "Morph.581535c72a6e2d9d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 7, 4 ]
+				},
+				"eyelid_lookDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2578,
+					"Binary": "Morph.6cc92a701a0835d7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 7, 4 ]
+				},
+				"eyelid_lookLeft_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1654,
+					"Binary": "Morph.4020104021001550.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 5 ]
+				},
+				"eyelid_lookLeft_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1823,
+					"Binary": "Morph.81eabcdfe27b819b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 5 ]
+				},
+				"eyelid_lookRight_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1848,
+					"Binary": "Morph.5f910a4199730202.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 5 ]
+				},
+				"eyelid_lookRight_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1674,
+					"Binary": "Morph.65f4920f714d9a3e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 5 ]
+				},
+				"eyelid_lookUp_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2421,
+					"Binary": "Morph.e303f81fe8e1fccb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"eyelid_lookUp_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2491,
+					"Binary": "Morph.504cbd220ccad62a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"eyelid_lowerDroop_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1618,
+					"Binary": "Morph.b4bb941c50a391c0.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 4 ]
+				},
+				"eyelid_lowerDroop_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1659,
+					"Binary": "Morph.d0a0a0f6289e52ca.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 4 ]
+				},
+				"eyelid_upperRaise_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1557,
+					"Binary": "Morph.e827b6cb9e49cdf9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 7, 4 ]
+				},
+				"eyelid_upperRaise_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1464,
+					"Binary": "Morph.678124b5bd8d16d3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 7, 4 ]
+				},
+				"eyelid_eBlink_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2491,
+					"Binary": "Morph.cfaba5c82ead1902.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"eyelid_eBlink_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2505,
+					"Binary": "Morph.40873ed5af0679fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"eyelid_glare_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3834,
+					"Binary": "Morph.79fb39b8cea2e926.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"eyelid_glare_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4036,
+					"Binary": "Morph.135ac11392c5975c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"eyelid_hardSqueeze_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5134,
+					"Binary": "Morph.34def14109ffd34c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 6 ]
+				},
+				"eyelid_hardSqueeze_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5480,
+					"Binary": "Morph.a1134f3f74ca539f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"eyelid_squeeze_L": null,
+				"eyelid_squeeze_R": null,
+				"eyelid_eGlare_eBlink_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2238,
+					"Binary": "Morph.eee8948090c0b593.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"eyelid_eGlare_eBlink_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2255,
+					"Binary": "Morph.17e88d959d7ee1dd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"jaw_back_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11227,
+					"Binary": "Morph.33a623e40a3164d7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"jaw_forward_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11409,
+					"Binary": "Morph.da19e22f8d914c5d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 7 ]
+				},
+				"jaw_left_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14766,
+					"Binary": "Morph.47527879a0259aad.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 6, 7 ]
+				},
+				"jaw_openExtreme_DLT_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 9551,
+					"Binary": "Morph.212ec1485467458d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 8 ]
+				},
+				"jaw_open_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14107,
+					"Binary": "Morph.b03ee1a776f5fa0c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 9, 9 ]
+				},
+				"jaw_right_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14843,
+					"Binary": "Morph.3344cb88fb4b412e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 6, 7 ]
+				},
+				"lips_blow_L": null,
+				"lips_blow_R": null,
+				"lips_bottomLeft_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4110,
+					"Binary": "Morph.1ed2998d4ae85602.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 2, 5 ]
+				},
+				"lips_bottomRight_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4165,
+					"Binary": "Morph.9c0fca5ad9d02e9f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 2, 5 ]
+				},
+				"lips_bottomRotateIn_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3951,
+					"Binary": "Morph.202141f7be9ab2b6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 7 ]
+				},
+				"lips_bottomRotateOut_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4059,
+					"Binary": "Morph.a120eb612de9f699.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 7 ]
+				},
+				"lips_converge_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1782,
+					"Binary": "Morph.cb75960fc988069f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"lips_converge_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2471,
+					"Binary": "Morph.200b239326bebf0d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 7, 7 ]
+				},
+				"lips_converge_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3576,
+					"Binary": "Morph.9a3890f38ee0bca1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 6 ]
+				},
+				"lips_converge_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6447,
+					"Binary": "Morph.0ebd5837f8423664.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_converge_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2140,
+					"Binary": "Morph.4a93966969171557.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 5 ]
+				},
+				"lips_converge_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2406,
+					"Binary": "Morph.71319d76479f62a1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 7, 7 ]
+				},
+				"lips_converge_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3446,
+					"Binary": "Morph.0c97265a4ac872b5.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 6 ]
+				},
+				"lips_converge_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6272,
+					"Binary": "Morph.6a89f78e7fc4c9e5.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_cornersDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5242,
+					"Binary": "Morph.21fe3171f16f002d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"lips_cornersDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5216,
+					"Binary": "Morph.298b0cc546e34015.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"lips_cornersRound_LB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2343,
+					"Binary": "Morph.280df4d05134ffef.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"lips_cornersRound_LT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1739,
+					"Binary": "Morph.515f9ce4aaf19320.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"lips_cornersRound_RB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2102,
+					"Binary": "Morph.d088ce5cb6a55ab9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 5 ]
+				},
+				"lips_cornersRound_RT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1635,
+					"Binary": "Morph.d51207f24e872039.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"lips_cornersSharp_LB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2873,
+					"Binary": "Morph.8cc133978f8338cc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_cornersSharp_LT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2350,
+					"Binary": "Morph.6a20b9b3b1ab5d2f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 4 ]
+				},
+				"lips_cornersSharp_RB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2948,
+					"Binary": "Morph.97ca14283aa05fcf.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_cornersSharp_RT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2212,
+					"Binary": "Morph.b4b9af225abb55f2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 4 ]
+				},
+				"lips_cornersUp_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11774,
+					"Binary": "Morph.78c405feed0e7585.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_cornersUp_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11943,
+					"Binary": "Morph.72fd2187437796a2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_diverge_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1602,
+					"Binary": "Morph.b1c29d27f26eb6a7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"lips_diverge_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1152,
+					"Binary": "Morph.bf49e9adb6f23c73.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 4 ]
+				},
+				"lips_diverge_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2857,
+					"Binary": "Morph.dec970bcdca02019.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"lips_diverge_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3284,
+					"Binary": "Morph.49d2be219c7a4809.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 5 ]
+				},
+				"lips_diverge_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1722,
+					"Binary": "Morph.c7f1c15fce1308ee.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"lips_diverge_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1155,
+					"Binary": "Morph.aa4905b9093eacda.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 4 ]
+				},
+				"lips_diverge_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2846,
+					"Binary": "Morph.ffed546235aafa5d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"lips_diverge_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2970,
+					"Binary": "Morph.7555de115b3d2553.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 5 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1684,
+					"Binary": "Morph.a988774c0a6ddbe6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2161,
+					"Binary": "Morph.ebdd17310a5733ce.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 6, 6 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3351,
+					"Binary": "Morph.280e3792753fc341.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 5 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6436,
+					"Binary": "Morph.f5f23cb66be293e6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1814,
+					"Binary": "Morph.aae8d6545a47e70a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 5 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2166,
+					"Binary": "Morph.2b55820550fb4ee6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 7, 6 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3267,
+					"Binary": "Morph.9602143abb5ce0c6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 5 ]
+				},
+				"lips_jOpen_lConverge_lPucker_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6269,
+					"Binary": "Morph.c4730cae69043acb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_jOpen_lCornersDown_DLT_L": null,
+				"lips_jOpen_lCornersDown_DLT_R": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_LIB": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_LIT": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_LOB": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_LOT": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_RIB": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_RIT": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_ROB": null,
+				"lips_jOpen_lCornersDown_lDiverge_DLT_ROT": null,
+				"lips_jOpen_lCornersUp_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7851,
+					"Binary": "Morph.95c531009e652472.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_jOpen_lCornersUp_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7830,
+					"Binary": "Morph.1e8132614e139c19.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1022,
+					"Binary": "Morph.361319ee65956a9f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 3 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 638,
+					"Binary": "Morph.cb421c8f04c55888.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 4, 2 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2140,
+					"Binary": "Morph.bcf4014806bdfab2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2030,
+					"Binary": "Morph.ad55bfa412300692.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 3 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1216,
+					"Binary": "Morph.28cbef4c1b9f407d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 6, 4 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 758,
+					"Binary": "Morph.d330e2eccd1b36a9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 4, 3 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2086,
+					"Binary": "Morph.6f54efd92b45d94d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1902,
+					"Binary": "Morph.41165a0e0158984e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 3 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_nWrinkler_DLT_LIT": null,
+				"lips_jOpen_lCornersUp_lDiverge_nWrinkler_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1705,
+					"Binary": "Morph.605b0ceffafefb7d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 3, 2 ]
+				},
+				"lips_jOpen_lCornersUp_lDiverge_nWrinkler_DLT_RIT": null,
+				"lips_jOpen_lCornersUp_lDiverge_nWrinkler_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1492,
+					"Binary": "Morph.7d5b510223eaf82a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 3, 2 ]
+				},
+				"lips_jOpen_lCornersUp_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5563,
+					"Binary": "Morph.6840120df585fe52.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"lips_jOpen_lCornersUp_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5203,
+					"Binary": "Morph.44a96e1305384b5a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1080,
+					"Binary": "Morph.98033da488d8bb49.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1027,
+					"Binary": "Morph.d0189757d6603bf3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2358,
+					"Binary": "Morph.a3b8d232b922a784.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3313,
+					"Binary": "Morph.07805febecebf8b9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 6 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1244,
+					"Binary": "Morph.c09fcb230381a0c2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1084,
+					"Binary": "Morph.647819664477187a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 6, 5 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2324,
+					"Binary": "Morph.c00c75811e1b4ce3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"lips_jOpen_lDiverge_lPucker_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3001,
+					"Binary": "Morph.8fe52ea8ab00f806.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 6 ]
+				},
+				"lips_jOpen_lPucker_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6711,
+					"Binary": "Morph.d0925f55511f3631.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 7 ]
+				},
+				"lips_jOpen_lPucker_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7237,
+					"Binary": "Morph.1ac12c7a01de7c4a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 7 ]
+				},
+				"lips_jOpen_lDiverge_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2386,
+					"Binary": "Morph.6aa91f6c7e357e54.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 7 ]
+				},
+				"lips_jOpen_lDiverge_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1027,
+					"Binary": "Morph.7fff29c6245dcb45.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"lips_jOpen_lDiverge_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3845,
+					"Binary": "Morph.0d83a2363f2fa6ad.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 8 ]
+				},
+				"lips_jOpen_lDiverge_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6203,
+					"Binary": "Morph.88a5e96deada70b7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 7 ]
+				},
+				"lips_jOpen_lDiverge_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2580,
+					"Binary": "Morph.4023223e116b3de9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 7 ]
+				},
+				"lips_jOpen_lDiverge_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1263,
+					"Binary": "Morph.8dc2fc2aa3fcb0ee.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 6 ]
+				},
+				"lips_jOpen_lDiverge_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3879,
+					"Binary": "Morph.124bfec57e3e6478.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 8 ]
+				},
+				"lips_jOpen_lDiverge_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5641,
+					"Binary": "Morph.e398e61a5d3c70dd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"lips_cSquint_lCornersUp_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3063,
+					"Binary": "Morph.c5c9dc90736c5e7d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 3 ]
+				},
+				"lips_cSquint_lCornersUp_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3252,
+					"Binary": "Morph.a1ad5965a4d0e3ee.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 3 ]
+				},
+				"lips_cSquint_lCornersUp_lCornersWide_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1374,
+					"Binary": "Morph.504017b5af04b9a8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 2, 3 ]
+				},
+				"lips_cSquint_lCornersUp_lCornersWide_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1392,
+					"Binary": "Morph.db3f3038bd96764b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 2, 3 ]
+				},
+				"lips_cSquint_lCornersUp_lCornersWide_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6871,
+					"Binary": "Morph.537a7d9de5a0f95d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"lips_cSquint_lCornersUp_lCornersWide_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6998,
+					"Binary": "Morph.093c83d011a134dc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"lips_cSquint_lCornersWide_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3835,
+					"Binary": "Morph.315c3885f8a7ab13.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 3 ]
+				},
+				"lips_cSquint_lCornersWide_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3989,
+					"Binary": "Morph.db26ceca9e95824a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 3 ]
+				},
+				"lips_lConvergeBottom_lDivergeTop_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2029,
+					"Binary": "Morph.ad4f231f6526484b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"lips_lConvergeBottom_lDivergeTop_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3194,
+					"Binary": "Morph.181941ed2b6eb4cf.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 6 ]
+				},
+				"lips_lConvergeBottom_lDivergeTop_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2198,
+					"Binary": "Morph.f74fc4d647c488fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 6 ]
+				},
+				"lips_lConvergeBottom_lDivergeTop_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3101,
+					"Binary": "Morph.571485ee6be08591.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 6 ]
+				},
+				"lips_lConvergeTop_lDivergeBottom_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2150,
+					"Binary": "Morph.1aa6480e863d836a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 6 ]
+				},
+				"lips_lConvergeTop_lDivergeBottom_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6166,
+					"Binary": "Morph.b1359677accd4d49.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_lConvergeTop_lDivergeBottom_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2432,
+					"Binary": "Morph.be455f8dae421626.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 7 ]
+				},
+				"lips_lConvergeTop_lDivergeBottom_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6086,
+					"Binary": "Morph.f43057a9a809ba2d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"lips_lCornersWide_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 966,
+					"Binary": "Morph.8dc635ba969a8445.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 2, 3 ]
+				},
+				"lips_lCornersWide_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1078,
+					"Binary": "Morph.18286156d76c60ca.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 2, 3 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 952,
+					"Binary": "Morph.fc5a7fc2e69381d7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 5, 3 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 888,
+					"Binary": "Morph.69b49021d25d3922.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 3 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1871,
+					"Binary": "Morph.95034ac1d254f7cd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 4 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2553,
+					"Binary": "Morph.40467bece158657a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1082,
+					"Binary": "Morph.205ea8a4e1cfc189.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 5, 3 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1020,
+					"Binary": "Morph.86dd731785c5aafd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 6, 4 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1865,
+					"Binary": "Morph.1e3e94f8b09c86f7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 4 ]
+				},
+				"lips_lCornersDown_lDiverge_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2460,
+					"Binary": "Morph.a80ec64e6cc5b8e1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 4 ]
+				},
+				"lips_lCornersUp_lCornersWide_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5006,
+					"Binary": "Morph.6b587a4536806d24.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 4 ]
+				},
+				"lips_lCornersUp_lCornersWide_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5039,
+					"Binary": "Morph.207f88623473a227.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_LIB": null,
+				"lips_lCornersUp_lDiverge_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 641,
+					"Binary": "Morph.0c9670e71012bd02.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 4, 2 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 636,
+					"Binary": "Morph.3aad2a13f3c8e740.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 2, 1 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1837,
+					"Binary": "Morph.1073089e80293358.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 3 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_RIB": null,
+				"lips_lCornersUp_lDiverge_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 762,
+					"Binary": "Morph.b850a767f022c422.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 4, 3 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 603,
+					"Binary": "Morph.bc8aa3e17175e055.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 2, 1 ]
+				},
+				"lips_lCornersUp_lDiverge_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1818,
+					"Binary": "Morph.6a444a60076a80c8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 3 ]
+				},
+				"lips_lCornersUp_lDiverge_nWrinkler_DLT_LIT": null,
+				"lips_lCornersUp_lDiverge_nWrinkler_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1906,
+					"Binary": "Morph.0abfbc8de3b1a991.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 4, 2 ]
+				},
+				"lips_lCornersUp_lDiverge_nWrinkler_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 110,
+					"Binary": "Morph.70f9263a7b708ef2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 1, 0 ]
+				},
+				"lips_lCornersUp_lDiverge_nWrinkler_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2042,
+					"Binary": "Morph.e137b0126cacce59.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 2 ]
+				},
+				"lips_lCornersUp_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7152,
+					"Binary": "Morph.4274cbb2c005632a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"lips_lCornersUp_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7178,
+					"Binary": "Morph.b2c1d11001487365.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"lips_lCornersWide_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6272,
+					"Binary": "Morph.4a103b16fa83dd13.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_lCornersWide_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6378,
+					"Binary": "Morph.b509bbe30f83dae8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"lips_lDiverge_lPucker_DLT_LIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1221,
+					"Binary": "Morph.7e79b98afd58d377.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"lips_lDiverge_lPucker_DLT_LIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 947,
+					"Binary": "Morph.0caff4911d12737d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 5 ]
+				},
+				"lips_lDiverge_lPucker_DLT_LOB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2697,
+					"Binary": "Morph.b77d346d42df613a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 7 ]
+				},
+				"lips_lDiverge_lPucker_DLT_LOT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3718,
+					"Binary": "Morph.a1307a1428b471fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 7 ]
+				},
+				"lips_lDiverge_lPucker_DLT_RIB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1265,
+					"Binary": "Morph.ac9e491a9248cda9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"lips_lDiverge_lPucker_DLT_RIT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1050,
+					"Binary": "Morph.d6f238ceb41de1f1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 5 ]
+				},
+				"lips_lDiverge_lPucker_DLT_ROB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2784,
+					"Binary": "Morph.a6a3a51e5c502f57.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 7 ]
+				},
+				"lips_lDiverge_lPucker_DLT_ROT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3418,
+					"Binary": "Morph.d3ce49d203846a31.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 7 ]
+				},
+				"lips_lPress_lPucker_DLT_LB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3711,
+					"Binary": "Morph.d6c8b265b3603297.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 6 ]
+				},
+				"lips_lPress_lPucker_DLT_LT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4960,
+					"Binary": "Morph.c00c47403a80b51e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"lips_lPress_lPucker_DLT_RB": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3949,
+					"Binary": "Morph.c9c6f751fa47e233.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 6 ]
+				},
+				"lips_lPress_lPucker_DLT_RT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4948,
+					"Binary": "Morph.9e5062d2382bba76.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"lips_lPucker_mLeft_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 12148,
+					"Binary": "Morph.18ac0a5eaf31cce4.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 8 ]
+				},
+				"lips_lPucker_mLeft_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 12006,
+					"Binary": "Morph.fd8ffebef90ec412.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 8 ]
+				},
+				"lips_lPucker_mRight_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11704,
+					"Binary": "Morph.c50c7181c245db61.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 8 ]
+				},
+				"lips_lPucker_mRight_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 11718,
+					"Binary": "Morph.5dcbbca4dc5e336e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 8 ]
+				},
+				"lips_lPucker_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1049,
+					"Binary": "Morph.98481429eecf022b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 0, 5 ]
+				},
+				"lips_lPucker_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1219,
+					"Binary": "Morph.ea8bfd73cae072c1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 0, 6 ]
+				},
+				"lips_pressBottom_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3202,
+					"Binary": "Morph.e4b405f53094f5b1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 6 ]
+				},
+				"lips_pressBottom_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3289,
+					"Binary": "Morph.02b7865e4dc613c2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 6 ]
+				},
+				"lips_pressTop_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4260,
+					"Binary": "Morph.ea2bc57d9306eaa7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 6 ]
+				},
+				"lips_pressTop_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4358,
+					"Binary": "Morph.b128967b09a57f53.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 6 ]
+				},
+				"lips_pucker_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6237,
+					"Binary": "Morph.406b9a0fc6af6b01.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 5, 8 ]
+				},
+				"lips_pucker_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6412,
+					"Binary": "Morph.ba15d8d9044f5025.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 5, 8 ]
+				},
+				"lips_pull_B": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4029,
+					"Binary": "Morph.18e4cf6aba5f1679.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 6 ]
+				},
+				"lips_pull_T": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4142,
+					"Binary": "Morph.5e758babcc1d4796.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 4, 6 ]
+				},
+				"lips_push_B": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3604,
+					"Binary": "Morph.761bd6f4e17b0d0a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 3, 6 ]
+				},
+				"lips_push_T": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4000,
+					"Binary": "Morph.f171ff7c3490a60a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 4, 6 ]
+				},
+				"lips_sticky_PH1_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2048,
+					"Binary": "Morph.31a11d0930f5c82b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 5 ]
+				},
+				"lips_sticky_PH1_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2280,
+					"Binary": "Morph.f9e81a1b00f0a1cf.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 6 ]
+				},
+				"lips_sticky_PH2_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2683,
+					"Binary": "Morph.10aea3cf66ac2374.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_sticky_PH2_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2649,
+					"Binary": "Morph.07a22829725edb9b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_sticky_PH3_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3429,
+					"Binary": "Morph.4efcdf4c91082735.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"lips_sticky_PH3_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3406,
+					"Binary": "Morph.f1e3aff053c12912.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"lips_sticky_PH4_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2683,
+					"Binary": "Morph.3ed9cc91d2a0c49f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 7, 6 ]
+				},
+				"lips_sticky_PH4_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2590,
+					"Binary": "Morph.babb292939465207.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"lips_sticky_PH5_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3745,
+					"Binary": "Morph.e4d2ec669546b9a8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 8, 7 ]
+				},
+				"lips_sticky_PH5_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3761,
+					"Binary": "Morph.b787d201290e3038.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 7 ]
+				},
+				"lips_topLeft_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6144,
+					"Binary": "Morph.ee9f4d5d56183ff2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 4, 5 ]
+				},
+				"lips_topRight_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6148,
+					"Binary": "Morph.df81a9f3bbf1b8e2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 4, 5 ]
+				},
+				"lips_topRotateIn_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3396,
+					"Binary": "Morph.7a00abc67a71256f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 6 ]
+				},
+				"lips_topRotateOut_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3905,
+					"Binary": "Morph.158b9201b2939318.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 7 ]
+				},
+				"lips_tweakCornersDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3023,
+					"Binary": "Morph.1be892a392ee23c3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 7, 2 ]
+				},
+				"lips_tweakCornersDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3057,
+					"Binary": "Morph.8a8115d822d4dac9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 7, 2 ]
+				},
+				"lips_tweakCornersIn_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2586,
+					"Binary": "Morph.16d7091589f0ef2e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 2, 6 ]
+				},
+				"lips_tweakCornersIn_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2475,
+					"Binary": "Morph.4dca42a54ee4937a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 2, 6 ]
+				},
+				"lips_tweakCornersOut_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2597,
+					"Binary": "Morph.33eb70a61360343b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 2, 5 ]
+				},
+				"lips_tweakCornersOut_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2566,
+					"Binary": "Morph.2e629c43ae31f4ec.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 2, 5 ]
+				},
+				"lips_tweakCornersUp_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2124,
+					"Binary": "Morph.6b7459c35e771687.bin",
+					"Scale": 0.015625,
+					"Bits": [ 1, 7, 2 ]
+				},
+				"lips_tweakCornersUp_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2201,
+					"Binary": "Morph.62674a5f3c214043.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 7, 2 ]
+				},
+				"lips_wideDown_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7716,
+					"Binary": "Morph.85763712bf63835d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 8 ]
+				},
+				"lips_wideDown_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7689,
+					"Binary": "Morph.86a3f9a14f36f22f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 8 ]
+				},
+				"lips_wideUp_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14089,
+					"Binary": "Morph.5cf08f92d138540e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"lips_wideUp_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14348,
+					"Binary": "Morph.7140cb7c71f38a94.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"lips_bottomCurl_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4967,
+					"Binary": "Morph.bd54fd9d6107b9e3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 8, 7 ]
+				},
+				"mouth_down_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6983,
+					"Binary": "Morph.13b0b7c882c30bba.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"mouth_left_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14985,
+					"Binary": "Morph.82be6785eecd0dcc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 7, 8 ]
+				},
+				"mouth_right_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 14977,
+					"Binary": "Morph.74d3a218a7809a11.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 7, 8 ]
+				},
+				"mouth_up_C": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6835,
+					"Binary": "Morph.80143f8b1734e643.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 6, 5 ]
+				},
+				"neck_swallow_ph1": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1876,
+					"Binary": "Morph.68d65a6d8f367c71.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 4 ]
+				},
+				"neck_swallow_ph2": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2298,
+					"Binary": "Morph.b0582c8547c037c4.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"neck_swallow_ph3": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2236,
+					"Binary": "Morph.e04cc7e20ed5c234.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 5, 6 ]
+				},
+				"neck_swallow_ph4": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2248,
+					"Binary": "Morph.39b7e2c89d5019ef.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 5 ]
+				},
+				"nose_compress_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1656,
+					"Binary": "Morph.79fcc88ff11b800a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 4, 3 ]
+				},
+				"nose_compress_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1615,
+					"Binary": "Morph.36289ae7b0910de6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 4, 3 ]
+				},
+				"nose_depress_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4017,
+					"Binary": "Morph.0b62933da6f07651.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"nose_depress_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4008,
+					"Binary": "Morph.9374ed389df6fecb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 5 ]
+				},
+				"nose_flare_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1827,
+					"Binary": "Morph.217a14f68ce613c8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 3 ]
+				},
+				"nose_flare_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1731,
+					"Binary": "Morph.00b28f001281ae21.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 5, 3 ]
+				},
+				"nose_furrow_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4218,
+					"Binary": "Morph.e713f0bb546ac8fb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"nose_furrow_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4266,
+					"Binary": "Morph.54c9817a87f07d6f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 6, 5 ]
+				},
+				"nose_wrinkler_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6421,
+					"Binary": "Morph.184e7148348dd473.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"nose_wrinkler_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6292,
+					"Binary": "Morph.a33a52ae93b96e75.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 6 ]
+				},
+				"cheek_cSquint_eBlink_nWrinkler_DLT_L": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2418,
+					"Binary": "Morph.174eb0a0f3a19bf2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"cheek_cSquint_eBlink_nWrinkler_DLT_R": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2422,
+					"Binary": "Morph.88e02015f597e046.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 6, 4 ]
+				},
+				"narrow": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 558,
+					"Binary": "Morph.f10209f067fe561b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 4 ]
+				},
+				"widen": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 522,
+					"Binary": "Morph.3dcd04c614388cd4.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 5 ]
+				},
+				"thick": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 632,
+					"Binary": "Morph.4452c816d964c627.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 8, 5 ]
+				},
+				"thin": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 570,
+					"Binary": "Morph.24e6d38c3cec9509.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 7, 5 ]
+				},
+				"l_elbow_region": null,
+				"l_arm_forwardBack_region": null,
+				"l_leg_region": null,
+				"l_knee_region": null,
+				"torso_twist_region": null,
+				"r_elbow_region": null,
+				"r_arm_forwardBack_region": null,
+				"r_leg_region": null,
+				"r_knee_region": null,
+				"l_armBack": null,
+				"l_armDown": null,
+				"l_armForward": null,
+				"l_armUpExtreme": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1513,
+					"Binary": "Morph.03f358ab1dade1eb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"r_armBack": null,
+				"r_armDown": null,
+				"r_armForward": null,
+				"r_armUpExtreme": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1512,
+					"Binary": "Morph.f21d421db065f2fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"torsoBend_fwd": null,
+				"torsoBend_back": null,
+				"torsoBend_l": null,
+				"torsoBend_r": null,
+				"torsoTwist_l": null,
+				"torsoTwist_r": null,
+				"l_armDown_THIN": null,
+				"r_armDown_THIN": null,
+				"l_armUpExtreme_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1513,
+					"Binary": "Morph.03f358ab1dade1eb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"r_armUpExtreme_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1512,
+					"Binary": "Morph.f21d421db065f2fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"l_armUpExtreme_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1513,
+					"Binary": "Morph.03f358ab1dade1eb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"r_armUpExtreme_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1512,
+					"Binary": "Morph.f21d421db065f2fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"l_armBack_THIN": null,
+				"r_armBack_THIN": null,
+				"l_armBack_THICK": null,
+				"r_armBack_THICK": null,
+				"l_elbowBendFull": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 9254,
+					"Binary": "Morph.9bef32094e0d9d77.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"r_elbowBendFull": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 9083,
+					"Binary": "Morph.06196968d788a1c2.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 10 ]
+				},
+				"l_elbowBendHalf": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 8577,
+					"Binary": "Morph.383a57ae1b5d06ed.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 10 ]
+				},
+				"r_elbowBendHalf": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 8443,
+					"Binary": "Morph.cf2a758938df3c0c.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 10 ]
+				},
+				"l_elbowBendHalf_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3426,
+					"Binary": "Morph.f05cc74fd81b3b13.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 10 ]
+				},
+				"r_elbowBendHalf_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3066,
+					"Binary": "Morph.3dffce5ab14df335.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 10 ]
+				},
+				"l_elbowBendHalf_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3141,
+					"Binary": "Morph.e47bfb9e073aad87.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 9 ]
+				},
+				"r_elbowBendHalf_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2778,
+					"Binary": "Morph.89bda28dc5d97961.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 9 ]
+				},
+				"l_elbowBendFull_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4384,
+					"Binary": "Morph.6d3c12f97f6e3bd8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 9, 10 ]
+				},
+				"r_elbowBendFull_THIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4433,
+					"Binary": "Morph.c0f9afef8bcf4875.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 9, 10 ]
+				},
+				"l_elbowBendFull_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2753,
+					"Binary": "Morph.1740269aad1623a8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 11 ]
+				},
+				"r_elbowBendFull_THICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2732,
+					"Binary": "Morph.1ef8c99fe32976cf.bin",
+					"Scale": 0.015625,
+					"Bits": [ 10, 9, 11 ]
+				},
+				"l_wristIn": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 993,
+					"Binary": "Morph.c2d68b23ddb9113a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"l_wristOut": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 996,
+					"Binary": "Morph.869dc419955db627.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"l_wristUp": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 983,
+					"Binary": "Morph.018779e0224d8f44.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 6 ]
+				},
+				"r_kneeBend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2013,
+					"Binary": "Morph.117f35ab639f7d4e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 9, 10 ]
+				},
+				"r_wristDown": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1374,
+					"Binary": "Morph.9478919937fbe9e3.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 8, 7 ]
+				},
+				"r_wristIn": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1335,
+					"Binary": "Morph.5d8e91ea40fd1027.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"r_wristOut": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 945,
+					"Binary": "Morph.7c39fed0f8d0d5b7.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"r_wristUp": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1126,
+					"Binary": "Morph.c8eac9007639f160.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 6 ]
+				},
+				"l_kneeBend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2155,
+					"Binary": "Morph.5d8ddb19d8324fb8.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 9, 10 ]
+				},
+				"l_wristDown": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1190,
+					"Binary": "Morph.8d050d6b3c70e4e9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 8, 7 ]
+				},
+				"inertiaDown": null,
+				"inertiaUp": null,
+				"neckBack": null,
+				"l_legBack": null,
+				"l_legForward": null,
+				"r_legBack": null,
+				"r_legForward": null,
+				"l_neckTurn": null,
+				"r_neckTurn": null,
+				"sit": null,
+				"chinDown": null,
+				"neckForward": null,
+				"l_legOut": null,
+				"r_legOut": null,
+				"l_anklePoint": null,
+				"r_anklePoint": null,
+				"skirt_region": null,
+				"l_armTpose": null,
+				"r_armTpose": null,
+				"l_armTpose_THIN": null,
+				"r_armTpose_THIN": null,
+				"neckBack_l": null,
+				"neckBack_r": null,
+				"l_finger_1_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 612,
+					"Binary": "Morph.1e139a5b208404dd.bin",
+					"Scale": 0.015625,
+					"Bits": [ 4, 3, 5 ]
+				},
+				"l_finger_2_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 671,
+					"Binary": "Morph.354871a874e07aeb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 4, 5 ]
+				},
+				"l_finger_3_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 535,
+					"Binary": "Morph.c8bfe3f167089d8a.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"l_finger_4_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 483,
+					"Binary": "Morph.c23fc2ba6d1ea49f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 3, 4 ]
+				},
+				"r_finger_1_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 669,
+					"Binary": "Morph.ce8e2c2c1768877e.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 3, 5 ]
+				},
+				"r_finger_2_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 477,
+					"Binary": "Morph.edb65459eabc7522.bin",
+					"Scale": 0.015625,
+					"Bits": [ 5, 4, 5 ]
+				},
+				"r_finger_3_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 439,
+					"Binary": "Morph.0961466f9c5dc097.bin",
+					"Scale": 0.015625,
+					"Bits": [ 3, 5, 5 ]
+				},
+				"r_finger_4_2_bend": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 508,
+					"Binary": "Morph.c976d41920971ffb.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 3, 4 ]
+				},
+				"forearmUpperTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2680,
+					"Binary": "Morph.1208de37ce589084.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"forearmLowerTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1676,
+					"Binary": "Morph.d7dad4c62b1cabf9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 6 ]
+				},
+				"upperarmTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7063,
+					"Binary": "Morph.34a6acd7ff6a3ae6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"trapTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2104,
+					"Binary": "Morph.428d1a2603b8d8c4.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"neckTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 312,
+					"Binary": "Morph.10e0fe67071a4122.bin",
+					"Scale": 0.015625,
+					"Bits": [ 0, 0, 4 ]
+				},
+				"chestTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 9214,
+					"Binary": "Morph.7b320fb3bc84f6a1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 7, 9 ]
+				},
+				"breastTHICK": null,
+				"absTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3590,
+					"Binary": "Morph.2ab52372e59bd88f.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 6, 8 ]
+				},
+				"headTHICK": null,
+				"shoulderTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4069,
+					"Binary": "Morph.d94d2b3d2e90fa53.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 7 ]
+				},
+				"hipsTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3927,
+					"Binary": "Morph.04a3fc7e8700ba47.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"glutesTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1158,
+					"Binary": "Morph.518bdf9fc31a2fa1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 6, 9 ]
+				},
+				"thighTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 6254,
+					"Binary": "Morph.8e0c352e1bacd4d6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 9, 8, 9 ]
+				},
+				"calfUpperTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3900,
+					"Binary": "Morph.dd21cec3a42491d9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 7, 8 ]
+				},
+				"calfLowerTHICK": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1750,
+					"Binary": "Morph.f6ff6406604f8262.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 4, 6 ]
+				},
+				"forearmUpperTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2696,
+					"Binary": "Morph.2a0f5023dd748dc5.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"forearmLowerTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1892,
+					"Binary": "Morph.d6b14a0ebc7fe631.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 7 ]
+				},
+				"upperarmTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 7094,
+					"Binary": "Morph.850b4b89e7919e44.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 8, 8 ]
+				},
+				"trapTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2356,
+					"Binary": "Morph.4f7ed26de2b17d45.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 8 ]
+				},
+				"neckTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 389,
+					"Binary": "Morph.ae4893ba529546fc.bin",
+					"Scale": 0.015625,
+					"Bits": [ 2, 2, 4 ]
+				},
+				"chestTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 9248,
+					"Binary": "Morph.c7ee9d807ab84c17.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 8, 9 ]
+				},
+				"breastTHIN": null,
+				"absTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3360,
+					"Binary": "Morph.cb3f21300724dc95.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 6, 8 ]
+				},
+				"headTHIN": null,
+				"shoulderTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 4368,
+					"Binary": "Morph.c0baf3316fe62cb1.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 8, 8 ]
+				},
+				"hipsTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3643,
+					"Binary": "Morph.da3c8e9446b91a42.bin",
+					"Scale": 0.015625,
+					"Bits": [ 8, 6, 8 ]
+				},
+				"glutesTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1035,
+					"Binary": "Morph.87a9c5bfe989827b.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 7 ]
+				},
+				"thighTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 5034,
+					"Binary": "Morph.3367913224f0c1d9.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 7, 7 ]
+				},
+				"calfUpperTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 3606,
+					"Binary": "Morph.baeded49725ced9d.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 6, 8 ]
+				},
+				"calfLowerTHIN": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1752,
+					"Binary": "Morph.a2dc34dad516cd82.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 5, 7 ]
+				},
+				"shoulderRIPPED": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 1783,
+					"Binary": "Morph.fe8f44077558c9f6.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 6 ]
+				},
+				"shoulderSOFT": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 2623,
+					"Binary": "Morph.bd801bd96cbcca15.bin",
+					"Scale": 0.015625,
+					"Bits": [ 6, 7, 7 ]
+				},
+				"thin_legs": {
+					"Format": "R8_UINT",
+					"GpuAccess": "NONE",
+					"CpuAccess": "READONLY",
+					"Size": 793,
+					"Binary": "Morph.88964dc1142dbe83.bin",
+					"Scale": 0.015625,
+					"Bits": [ 7, 1, 0 ]
+				},
+				"bustTHICK": null
+			}
+		}
+	},
+	"Object": {
+		"hihead": {
+			"Type": "OBJECT",
+			"Target": "hihead",
+			"Transform": "def_hips"
+		}
+	},
+	"Mathnode": [
+		{
+			"MathnodeBinary": "hihead.c8149a93ce38818a.mathnodes"
+		}
+	]
+}
+
+=== appearance_info.json ===
+
+{
+	"appearance": {
+		"gender": "MALE",
+		"skin color": "8",
+		"body type": "AVERAGE",
+		"body normal": "AVG",
+		"muscle type": "NORMAL",
+		"iris color": "HAZEL",
+		"iris size": "REGULAR",
+		"eye white": "0",
+		"mouth color": "0",
+		"noise uv scale": "31.855",
+		"face pore depth": "3",
+		"pitHair": "BLACK",
+		"is gen5": "1",
+		"debug only": "",
+		"lash color": "DARK",
+		"approved for ui": ""
+	},
+	"body_fit": {
+		"hips.tx": 0.0,
+		"hips.ty": 103.634,
+		"hips.tz": 0.0,
+		"rightUpLeg.tx": -9.1256752,
+		"rightUpLeg.ty": -4.65676451,
+		"rightUpLeg.tz": 0.257061273,
+		"rightLeg.tx": 0.0,
+		"rightLeg.ty": 44.8374214,
+		"rightLeg.tz": 0.0,
+		"rightFoot.tx": 0.0,
+		"rightFoot.ty": 44.8374214,
+		"rightFoot.tz": 0.0,
+		"rightToeBase.tx": 0.0,
+		"rightToeBase.ty": 14.8304596,
+		"rightToeBase.tz": 0.0,
+		"rightToeBase_end.tx": 0.0,
+		"rightToeBase_end.ty": 11.0,
+		"rightToeBase_end.tz": 0.0,
+		"leftUpLeg.tx": 9.1256752,
+		"leftUpLeg.ty": -4.65676451,
+		"leftUpLeg.tz": 0.257061273,
+		"leftLeg.tx": 0.0,
+		"leftLeg.ty": 44.8374214,
+		"leftLeg.tz": 0.0,
+		"leftFoot.tx": 0.0,
+		"leftFoot.ty": 44.8374214,
+		"leftFoot.tz": 0.0,
+		"leftToeBase.tx": 0.0,
+		"leftToeBase.ty": 14.8304596,
+		"leftToeBase.tz": 0.0,
+		"leftToeBase_end.tx": 0.0,
+		"leftToeBase_end.ty": 11.0,
+		"leftToeBase_end.tz": 0.0,
+		"spine.tx": 0.0,
+		"spine.ty": 8.30414963,
+		"spine.tz": 0.0,
+		"spine1.tx": 0.0,
+		"spine1.ty": 12.4511309,
+		"spine1.tz": 0.0,
+		"spine2.tx": 0.0,
+		"spine2.ty": 12.870668,
+		"spine2.tz": 0.0,
+		"rightShoulder.tx": -3.18,
+		"rightShoulder.ty": 11.7,
+		"rightShoulder.tz": 4.5,
+		"rightArm.tx": 0.0,
+		"rightArm.ty": 15.9139999,
+		"rightArm.tz": 0.0,
+		"rightForearm.tx": 0.0,
+		"rightForearm.ty": 31.9639988,
+		"rightForearm.tz": 0.0,
+		"rightHand.tx": 0.0,
+		"rightHand.ty": 26.0,
+		"rightHand.tz": 0.0,
+		"rightHand_end.tx": 0.0,
+		"rightHand_end.ty": 17.4080009,
+		"rightHand_end.tz": 0.0,
+		"leftShoulder.tx": 3.18,
+		"leftShoulder.ty": 11.7,
+		"leftShoulder.tz": 4.5,
+		"leftArm.tx": 0.0,
+		"left

@@ -1,0 +1,8 @@
+# Large binary texture folders
+bronya_tex/
+
+# Compiled executables
+texconv.exe
+
+# DDS binary files (keep PNG versions instead)
+*.dds

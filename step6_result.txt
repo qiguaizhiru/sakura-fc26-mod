@@ -1,0 +1,20 @@
+=== 第6步：转印骨骼权重 ===
+
+发型网格: bronya_hair  顶点:7004
+原始发型: hihead  顶点:27702
+
+hihead 顶点组数: 1
+  - hair_partedShape
+
+使用 Data Transfer 转印权重...
+✔ 权重转印成功
+⚠ hihead 未绑定骨架，顶点组已转印，等待导出
+
+bronya_hair 最终顶点组: ['hair_partedShape']
+
+✔ step6 执行成功
+
+下一步：
+1. 选中 bronya_hair 对象
+2. 属性面板 → 场景 → NBA2K SCNE TOOL → 导出
+3. 运行 step7_pack_hair_iff.py 打包回 IFF
