@@ -1,0 +1,93 @@
+{
+  "OBJECT": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "BasePoseTransforms": {
+        "Indices": [],
+        "Transforms": [],
+        "Count": 0
+      },
+      "Mesh": {
+        "External": {
+          "FileGuid": "3f79024e-5101-4293-3ab5-010d513dac06",
+          "ClassGuid": "16d8a906-63ea-4886-a4fc-125b5eb102a4"
+        },
+        "Internal": null,
+        "Type": 2
+      },
+      "Visible": true,
+      "Transform": {
+        "Right": {
+          "X": 1.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Up": {
+          "X": 0.0,
+          "Y": 1.0,
+          "Z": 0.0
+        },
+        "Forward": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 1.0
+        },
+        "Trans": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "Flags": 188075779,
+      "__InstanceGuid": {
+        "ExportedGuid": "00000000-0000-0000-0000-000000000000",
+        "InternalId": 1,
+        "IsExported": false
+      }
+    },
+    "Type": 1
+  },
+  "Objects": [],
+  "ClientSchematics": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": null,
+    "Type": 0
+  },
+  "ServerSchematics": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": null,
+    "Type": 0
+  },
+  "SchematicsBusFieldOffset": {
+    "OffsetOrHash": 65535
+  },
+  "EventConnections": [],
+  "Interface": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": null,
+    "Type": 0
+  },
+  "PropertyConnections": [],
+  "LinkConnections": [],
+  "Flags": 0,
+  "Name": {
+    "StrValue": "content/character/player/player_260000/sakura_haruno_260001/var_0/mouthbag_260001_0_0"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "57502d74-a94e-4503-8111-da8f90fae836",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}
