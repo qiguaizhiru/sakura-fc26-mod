@@ -51,13 +51,13 @@ before = {o.name for o in bpy.data.objects}
 if hasattr(bpy.ops.wm, 'obj_import'):
     bpy.ops.wm.obj_import(
         filepath=OBJ,
-        forward_axis='NEGATIVE_Z',
-        up_axis='Y',
+        forward_axis='Z',      # OBJ +Z (face direction) → Blender -Y (matches FC26)
+        up_axis='Y',           # OBJ Y (up) → Blender Z (height preserved)
     )
 else:
     bpy.ops.import_scene.obj(
         filepath=OBJ,
-        axis_forward='-Z',
+        axis_forward='Z',
         axis_up='Y',
     )
 after  = {o.name for o in bpy.data.objects}
