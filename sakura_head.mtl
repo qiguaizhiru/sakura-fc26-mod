@@ -1,0 +1,12 @@
+# Sakura Head Material
+newmtl C__Users_Loris_Desktop_sakura__
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd ntxr000.png
+
+newmtl Material__2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd ntxr004.png
