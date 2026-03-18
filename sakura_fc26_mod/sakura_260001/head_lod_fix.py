@@ -139,6 +139,22 @@ bpy.ops.object.modifier_apply(modifier="DT_Weights")
 sk_raw.select_set(False)
 print(f"    Transferred {len(sk_raw.vertex_groups)} vertex groups")
 
+# ─── 6b. Pre-rotate -90° around X to counteract Blender FBX export's +90°X ───
+# Blender's FBX exporter always applies +90° X rotation when axis_up='Z'.
+# Pre-rotating by -90° around X means the net rotation in the FBX is 0°,
+# so Blender Z (head height) stays as FBX Z — matching FC26's Z=1.449~1.838.
+import math
+print("[4b/7] Pre-rotating -90° around X …")
+bpy.ops.object.select_all(action='DESELECT')
+bpy.context.view_layer.objects.active = sk_raw
+sk_raw.select_set(True)
+sk_raw.rotation_euler.x = math.radians(-90)
+bpy.ops.object.transform_apply(location=False, rotation=True, scale=False)
+sk_raw.select_set(False)
+# Verify Z range is preserved after rotation
+sh_zmin4, sh_zmax4 = z_range(sk_raw)
+print(f"    Post-rotation Z range: {sh_zmin4:.4f} ~ {sh_zmax4:.4f}")
+
 # ─── 7. Create LOD1 and LOD2 via Decimate ─────────────────────────────────────
 print("[5/7] Creating LOD1 and LOD2 …")
 
@@ -211,8 +227,8 @@ bpy.ops.export_scene.fbx(
     use_tspace          = True,        # tangent space — required by FET
     use_triangles       = True,
     mesh_smooth_type    = 'FACE',
-    axis_forward        = '-Z',
-    axis_up             = 'Y',
+    axis_forward        = '-Y',        # identity: Blender -Y = FBX forward (no rotation)
+    axis_up             = 'Z',         # identity: Blender Z  = FBX up    (no rotation)
     global_scale        = 1.0,
     path_mode           = 'AUTO',
     embed_textures      = False,
