@@ -1,0 +1,5 @@
+# 只保留 sakura_fc26_mod/ 目录
+*
+!sakura_fc26_mod/
+!sakura_fc26_mod/**
+!.gitignore
