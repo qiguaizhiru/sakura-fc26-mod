@@ -1,0 +1,66 @@
+# Clash Meta (mihomo) 配置 - 防止 DNS 泄露
+# ==========================================
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+unified-delay: true
+find-process-mode: strict
+
+# DNS 防泄露配置
+dns:
+  enable: true
+  listen: 0.0.0.0:1053
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - localhost.ptlogin2.qq.com
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.quad9.net/dns-query
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+# 全局客户端指纹
+global-client-fingerprint: chrome
+
+proxies:
+  - name: "自己用嘿嘿-cy60skhc"
+    type: vless
+    server: yulei.trade
+    port: 50159
+    uuid: d95f58f2-7ca4-43ab-b23d-efb15d3599f3
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
+      short-id: e5
+    servername: www.nvidia.com
+
+proxy-groups:
+  - name: "Proxy"
+    type: select
+    proxies:
+      - "自己用嘿嘿-cy60skhc"
+
+rules:
+  # 防止 DNS 泄露：所有流量走代理
+  - GEOIP,LAN,DIRECT
+  - MATCH,Proxy
