@@ -3,49 +3,261 @@ allow-lan: false
 mode: rule
 log-level: info
 unified-delay: true
+find-process-mode: strict
+global-client-fingerprint: chrome
+
 dns:
   enable: true
+  listen: 0.0.0.0:1053
+  ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
-  - '*.lan'
-  - '*.local'
+    - "*.lan"
+    - "*.local"
+    - "*.direct"
+    - localhost.ptlogin2.qq.com
+    - dns.msftncsi.com
+    - www.msftncsi.com
+    - www.msftconnecttest.com
   default-nameserver:
-  - 223.5.5.5
-  - 119.29.29.29
+    - 223.5.5.5
+    - 119.29.29.29
   nameserver:
-  - https://dns.alidns.com/dns-query
-  - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
   fallback:
-  - https://dns.google/dns-query
-  - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
   fallback-filter:
     geoip: true
     geoip-code: CN
     ipcidr:
-    - 240.0.0.0/4
+      - 240.0.0.0/4
+
 proxies:
-- name: 自己用嘿嘿-cy60skhc
-  type: vless
-  server: 64.186.228.166
-  port: 50159
-  uuid: d95f58f2-7ca4-43ab-b23d-efb15d3599f3
-  network: tcp
-  udp: true
-  tls: true
-  servername: www.nvidia.com
-  client-fingerprint: chrome
-  skip-cert-verify: false
-  reality-opts:
-    public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
-    short-id: e5
-    spider-x: /
-  flow: xtls-rprx-vision
+  - name: "自己用嘿嘿-cy60skhc"
+    type: vless
+    server: 64.186.228.166
+    port: 50159
+    uuid: d95f58f2-7ca4-43ab-b23d-efb15d3599f3
+    network: tcp
+    udp: true
+    tls: true
+    servername: www.nvidia.com
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
+      short-id: e5
+      spider-x: /
+    flow: xtls-rprx-vision
+
 proxy-groups:
-- name: Proxy
-  type: select
-  proxies:
-  - 自己用嘿嘿-cy60skhc
+  - name: "节点选择"
+    type: select
+    proxies:
+      - "自己用嘿嘿-cy60skhc"
+      - "DIRECT"
+
+  - name: "全球代理"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "国内直连"
+    type: select
+    proxies:
+      - "DIRECT"
+      - "节点选择"
+
+  - name: "YouTube"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "Google"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "Telegram"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "Twitter"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "Steam"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "Microsoft"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "OpenAI"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
+  - name: "漏网之鱼"
+    type: select
+    proxies:
+      - "节点选择"
+      - "DIRECT"
+
 rules:
-- GEOIP,LAN,DIRECT
-- MATCH,Proxy
+  # OpenAI / ChatGPT
+  - DOMAIN-SUFFIX,openai.com,OpenAI
+  - DOMAIN-SUFFIX,ai.com,OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com,OpenAI
+  - DOMAIN-SUFFIX,oaistatic.com,OpenAI
+  - DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
+  - DOMAIN-SUFFIX,anthropic.com,OpenAI
+  - DOMAIN-SUFFIX,claude.ai,OpenAI
+
+  # YouTube
+  - DOMAIN-SUFFIX,youtube.com,YouTube
+  - DOMAIN-SUFFIX,youtu.be,YouTube
+  - DOMAIN-SUFFIX,ytimg.com,YouTube
+  - DOMAIN-SUFFIX,googlevideo.com,YouTube
+  - DOMAIN-SUFFIX,yt.be,YouTube
+  - DOMAIN-SUFFIX,youtube-nocookie.com,YouTube
+
+  # Google
+  - DOMAIN-SUFFIX,google.com,Google
+  - DOMAIN-SUFFIX,google.com.hk,Google
+  - DOMAIN-SUFFIX,googleapis.com,Google
+  - DOMAIN-SUFFIX,googlesource.com,Google
+  - DOMAIN-SUFFIX,googleusercontent.com,Google
+  - DOMAIN-SUFFIX,gstatic.com,Google
+  - DOMAIN-SUFFIX,gmail.com,Google
+  - DOMAIN-SUFFIX,google.cn,Google
+  - DOMAIN-SUFFIX,googleadservices.com,Google
+  - DOMAIN-SUFFIX,googleanalytics.com,Google
+
+  # Telegram
+  - DOMAIN-SUFFIX,telegram.org,Telegram
+  - DOMAIN-SUFFIX,t.me,Telegram
+  - DOMAIN-SUFFIX,telegram.me,Telegram
+  - DOMAIN-SUFFIX,telegra.ph,Telegram
+  - IP-CIDR,91.108.0.0/16,Telegram,no-resolve
+  - IP-CIDR,149.154.160.0/20,Telegram,no-resolve
+
+  # Twitter / X
+  - DOMAIN-SUFFIX,twitter.com,Twitter
+  - DOMAIN-SUFFIX,x.com,Twitter
+  - DOMAIN-SUFFIX,twimg.com,Twitter
+  - DOMAIN-SUFFIX,t.co,Twitter
+  - DOMAIN-SUFFIX,twitpic.com,Twitter
+
+  # Steam
+  - DOMAIN-SUFFIX,steampowered.com,Steam
+  - DOMAIN-SUFFIX,steamcommunity.com,Steam
+  - DOMAIN-SUFFIX,steamstatic.com,Steam
+  - DOMAIN-SUFFIX,steam-chat.com,Steam
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,Steam
+  - DOMAIN-SUFFIX,steamusercontent.com,Steam
+
+  # Microsoft
+  - DOMAIN-SUFFIX,microsoft.com,Microsoft
+  - DOMAIN-SUFFIX,windows.com,Microsoft
+  - DOMAIN-SUFFIX,windows.net,Microsoft
+  - DOMAIN-SUFFIX,microsoftonline.com,Microsoft
+  - DOMAIN-SUFFIX,office.com,Microsoft
+  - DOMAIN-SUFFIX,office365.com,Microsoft
+  - DOMAIN-SUFFIX,live.com,Microsoft
+  - DOMAIN-SUFFIX,outlook.com,Microsoft
+  - DOMAIN-SUFFIX,msn.com,Microsoft
+  - DOMAIN-SUFFIX,bing.com,Microsoft
+  - DOMAIN-SUFFIX,github.com,Microsoft
+  - DOMAIN-SUFFIX,githubusercontent.com,Microsoft
+
+  # 常见海外站点走代理
+  - DOMAIN-SUFFIX,wikipedia.org,全球代理
+  - DOMAIN-SUFFIX,wikimedia.org,全球代理
+  - DOMAIN-SUFFIX,reddit.com,全球代理
+  - DOMAIN-SUFFIX,redd.it,全球代理
+  - DOMAIN-SUFFIX,discord.com,全球代理
+  - DOMAIN-SUFFIX,discordapp.com,全球代理
+  - DOMAIN-SUFFIX,discord.gg,全球代理
+  - DOMAIN-SUFFIX,instagram.com,全球代理
+  - DOMAIN-SUFFIX,facebook.com,全球代理
+  - DOMAIN-SUFFIX,whatsapp.com,全球代理
+  - DOMAIN-SUFFIX,amazon.com,全球代理
+  - DOMAIN-SUFFIX,amazonaws.com,全球代理
+  - DOMAIN-SUFFIX,netflix.com,全球代理
+  - DOMAIN-SUFFIX,nflxvideo.net,全球代理
+  - DOMAIN-SUFFIX,spotify.com,全球代理
+  - DOMAIN-SUFFIX,twitch.tv,全球代理
+  - DOMAIN-SUFFIX,tiktok.com,全球代理
+  - DOMAIN-SUFFIX,pixiv.net,全球代理
+  - DOMAIN-SUFFIX,apkmirror.com,全球代理
+  - DOMAIN-SUFFIX,apkpure.com,全球代理
+
+  # 国内直连
+  - DOMAIN-SUFFIX,cn,国内直连
+  - DOMAIN-SUFFIX,baidu.com,国内直连
+  - DOMAIN-SUFFIX,baidubce.com,国内直连
+  - DOMAIN-SUFFIX,bdstatic.com,国内直连
+  - DOMAIN-SUFFIX,bilibili.com,国内直连
+  - DOMAIN-SUFFIX,bilivideo.com,国内直连
+  - DOMAIN-SUFFIX,hdslb.com,国内直连
+  - DOMAIN-SUFFIX,qq.com,国内直连
+  - DOMAIN-SUFFIX,weixin.com,国内直连
+  - DOMAIN-SUFFIX,wechat.com,国内直连
+  - DOMAIN-SUFFIX,taobao.com,国内直连
+  - DOMAIN-SUFFIX,tmall.com,国内直连
+  - DOMAIN-SUFFIX,alipay.com,国内直连
+  - DOMAIN-SUFFIX,alibaba.com,国内直连
+  - DOMAIN-SUFFIX,alicdn.com,国内直连
+  - DOMAIN-SUFFIX,aliyun.com,国内直连
+  - DOMAIN-SUFFIX,aliyuncs.com,国内直连
+  - DOMAIN-SUFFIX,jd.com,国内直连
+  - DOMAIN-SUFFIX,163.com,国内直连
+  - DOMAIN-SUFFIX,126.com,国内直连
+  - DOMAIN-SUFFIX,netease.com,国内直连
+  - DOMAIN-SUFFIX,douyin.com,国内直连
+  - DOMAIN-SUFFIX,doubanio.com,国内直连
+  - DOMAIN-SUFFIX,douban.com,国内直连
+  - DOMAIN-SUFFIX,zhihu.com,国内直连
+  - DOMAIN-SUFFIX,zhimg.com,国内直连
+  - DOMAIN-SUFFIX,weibo.com,国内直连
+  - DOMAIN-SUFFIX,sina.com,国内直连
+  - DOMAIN-SUFFIX,sinaimg.cn,国内直连
+  - DOMAIN-SUFFIX,xiaohongshu.com,国内直连
+  - DOMAIN-SUFFIX,meituan.com,国内直连
+  - DOMAIN-SUFFIX,dianping.com,国内直连
+  - DOMAIN-SUFFIX,feishu.cn,国内直连
+  - DOMAIN-SUFFIX,bytedance.com,国内直连
+  - DOMAIN-SUFFIX,toutiao.com,国内直连
+  - DOMAIN-SUFFIX,snssdk.com,国内直连
+  - DOMAIN-SUFFIX,iesdouyin.com,国内直连
+  - DOMAIN-SUFFIX,pstatp.com,国内直连
+  - DOMAIN-SUFFIX,hitv.com,国内直连
+  - DOMAIN-SUFFIX,iqiyi.com,国内直连
+  - DOMAIN-SUFFIX,youku.com,国内直连
+  - DOMAIN-SUFFIX,tudou.com,国内直连
+  - DOMAIN-SUFFIX,cctv.com,国内直连
+  - DOMAIN-SUFFIX,mgtv.com,国内直连
+
+  # GeoIP 中国直连
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,国内直连
+
+  # 兜底规则
+  - MATCH,漏网之鱼
