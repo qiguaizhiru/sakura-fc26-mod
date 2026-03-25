@@ -27,7 +27,7 @@ dns:
 proxies:
 - name: 自己用嘿嘿-cy60skhc
   type: vless
-  server: yulei.trade
+  server: 64.186.228.166
   port: 50159
   uuid: d95f58f2-7ca4-43ab-b23d-efb15d3599f3
   network: tcp
