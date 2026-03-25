@@ -48,11 +48,12 @@ proxies:
     tls: true
     udp: true
     flow: xtls-rprx-vision
+    skip-cert-verify: true
     client-fingerprint: chrome
+    servername: www.nvidia.com
     reality-opts:
       public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
-      short-id: e5
-    servername: www.nvidia.com
+      short-id: "e5"
 
 proxy-groups:
   - name: "Proxy"
