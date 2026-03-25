@@ -53,11 +53,29 @@ proxies:
       spider-x: /
     flow: xtls-rprx-vision
 
+  - name: "自己用嘿嘿-z80qzpsq"
+    type: vless
+    server: 64.186.228.166
+    port: 50159
+    uuid: bb8e65b3-985b-4845-8a40-73b81d12e382
+    network: tcp
+    udp: true
+    tls: true
+    servername: www.nvidia.com
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
+      short-id: e5
+      spider-x: /
+    flow: xtls-rprx-vision
+
 proxy-groups:
   - name: "节点选择"
     type: select
     proxies:
       - "自己用嘿嘿-cy60skhc"
+      - "自己用嘿嘿-z80qzpsq"
       - "DIRECT"
 
   - name: "全球代理"
