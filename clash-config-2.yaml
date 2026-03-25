@@ -17,13 +17,16 @@ proxies:
     port: 50159
     uuid: d95f58f2-7ca4-43ab-b23d-efb15d3599f3
     network: tcp
-    udp: false
+    udp: true
     tls: true
+    flow: xtls-rprx-vision
     servername: www.nvidia.com
     client-fingerprint: chrome
+    skip-cert-verify: true
     reality-opts:
-      public-key: 1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM
+      public-key: "1gApiTKop-JoNtRQL13top6vmvdVqZSsgV_tJLIgllM"
       short-id: "e5"
+      spider-x: "/"
 
 proxy-groups:
   - name: "Proxy"
